@@ -1,0 +1,29 @@
+// Fonts from https://dashboard.typography.com/account/cloud-project.php?Prj_ProjectID=104057&s=font-domains
+// Login: vcorrea@yourmembership.com
+// Password: MarketingYM01
+
+/// Gotham font stack.
+///
+/// @type List
+
+$gotham: "Gotham A", "Gotham B", "Open Sans", sans-serif;
+
+$base-font-family: $gotham;
+$heading-font-family: $base-font-family;
+
+// Font Sizes
+$base-font-size: 1em;
+
+// Line height
+$base-line-height: 1.5;
+$heading-line-height: 1.2;
+
+// Font Weights
+$fw-fine: 100;
+$fw-light: 200;
+$fw-light-heavy: 300;
+$fw-normal: 400;
+$fw-medium: 500;
+$fw-bold: 600;
+$fw-bolder: 800;
+$fw-boldest: 900;

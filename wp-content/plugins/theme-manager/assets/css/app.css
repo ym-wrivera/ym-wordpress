@@ -1,0 +1,14 @@
+.details-table {
+	margin:10px;
+}
+.details-table td { 
+    padding:2px;
+}
+.action-buttons {
+	position:absolute;
+	bottom:15px;
+	right:15px;
+}
+.button-secondary {
+	margin-right:5px !important;
+}

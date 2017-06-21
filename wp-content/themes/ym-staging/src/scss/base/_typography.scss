@@ -1,0 +1,113 @@
+/* ## Typographical Elements
+--------------------------------------------- */
+
+body {
+  background-color: $white;
+  color: $slate-dark;
+  font-family: $base-font-family;
+  font-size: em(15);
+  font-weight: $fw-normal;
+  line-height: 23px;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+div {
+  font-family: $base-font-family;
+}
+
+
+a,
+button,
+input:focus,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+textarea:focus,
+.button,
+.gallery img {
+  transition: all 0.1s ease-in-out;
+}
+
+a {
+  color: $green1;
+  text-decoration: none;
+
+  &:hover {
+    color: $green3;
+  }
+}
+
+p {
+  font-size: rem(15);
+  line-height: 23px;
+  margin: 0 0 rem(28);
+  padding: 0;
+
+  &.large {
+    color: $slate;
+    font-size: em(18);
+    line-height: 26px;
+
+  }
+}
+
+hr {
+  border: 0;
+  border-collapse: collapse;
+  border-top: 1px solid $grey2;
+  clear: both;
+  margin: 1em 0;
+}
+
+b,
+strong,
+.bold {
+  font-weight: $fw-bold;
+}
+
+cite,
+em,
+i {
+  font-style: italic;
+}
+
+blockquote,
+blockquote p,
+blockquote span {
+  @include margin(10px 20px 20px);
+  font-size: rem(24);
+  color: $green1;
+  letter-spacing: -0.25px;
+  line-height: 40px;
+
+  @include bp(large) {
+    font-size: rem(28);
+    line-height: 42px;
+  }
+
+  @include bp(wide) {
+    font-size: rem(30);
+    letter-spacing: -0.5px;
+    line-height: 46px;
+  }
+}
+
+// Read More Link
+.more-link {
+  color: $green1;
+  font-size: rem(14px);
+
+  &:hover {
+    color: $green3;
+    transition: all 0.3s ease-out;
+  }
+
+  img {
+    vertical-align: middle;
+    &:hover {
+      transform: translateX(2px);
+      transition: transform 0.3s ease-out;
+    }
+  }
+}

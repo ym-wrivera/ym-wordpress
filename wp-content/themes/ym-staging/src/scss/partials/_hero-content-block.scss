@@ -1,0 +1,213 @@
+// Hero Content Block
+
+.hero {
+	@include padding(em(100) rem(20) em(160));
+	max-width: 100%;
+
+	@include bp(wide) {
+		@include padding(em(135) 0 em(185));
+	}
+
+	> .wrap {
+		@include padding(0);
+
+		@include bp(med) {
+			lost-flex-container: row;
+		}
+
+		@include bp(wide) {
+			display: block;
+		}
+	}
+
+	.hero-content {
+		@include bp(med) {
+			lost-column: 10/12;
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-column: none;
+			lost-offset: 0;
+			margin-right: 0 !important;
+		}
+	}
+
+	.fc-title-group {
+		> *:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.button-group {
+		lost-flex-container: column;
+		align-items: center;
+
+		@include mappy-bp(med) {
+			display: block;
+		}
+
+		a {
+			&:first-child {
+				@include margin(0 0 rem(20));
+
+				@include bp(med) {
+					@include margin(0 rem(20) null 0);
+				}
+			}
+
+			&:last-child {
+				@include margin(0 0 rem(20));
+
+				@include bp(med) {
+					@include margin(0 rem(20) null 0);
+				}
+			}
+		}
+	}
+
+	.play-btn-container {
+		text-align: center;
+
+		.label {
+			color: $white;
+		}
+	}
+}
+
+.hero.hero-left,
+.hero.hero-right {
+	@include padding(em(100) 0 em(160));
+
+	@include bp(large) {
+		@include padding(em(80) 0 em(140));
+	}
+
+	@include bp(wide) {
+		@include padding(em(70) 0 em(130));
+	}
+
+	> .wrap {
+		@include bp(large) {
+			justify-content: flex-start;
+		}
+
+		@include bp(wide) {
+			display: flex;
+		}
+	}
+
+	.fc-title-group {
+		h2, h3, h4, h5, h6 {
+			@include bp(large) {
+				margin-left: 0 !important;
+				width: auto !important;
+			}
+		}
+
+		* {
+			@include bp(small) {
+				text-align: unset;
+			}
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			lost-column: 6/12;
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-offset: 0;
+		}
+	}
+
+}
+
+.hero.hero-left {
+	> .wrap {
+		@include bp(large) {
+			justify-content: flex-start;
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-offset: 0;
+		}
+	}
+}
+
+.hero.hero-right {
+	> .wrap {
+		justify-content: center;
+
+		@include bp(large) {
+			justify-content: flex-end;
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			text-align: left;
+		}
+	}
+}
+
+.hero-heading,
+.hero-subheading {
+	font-size: rem(44);
+	letter-spacing: -1px;
+	line-height: 52px;
+
+	@include bp(large) {
+		font-size: rem(50);
+		line-height: 58px;
+	}
+
+	@include bp(wide) {
+		font-size: rem(56);
+	}
+}
+
+.hero-heading-large,
+.hero-subheading-large {
+	font-size: rem(44);
+	letter-spacing: -1px;
+	line-height: 52px;
+
+	@include bp(large) {
+		font-size: rem(50);
+		letter-spacing: -1px;
+		line-height: 58px;
+	}
+
+	@include bp(wide) {
+		font-size: rem(70);
+		line-height: 72px;
+	}
+}
+
+
+// Animated Blinking Cursor for iTyped.js
+.ityped-cursor {
+	font-size: rem(40);
+	opacity: 1;
+	animation: blink 0.3s infinite;
+	animation-direction: alternate;
+}
+
+@keyframes blink {
+	100% {
+		opacity: 0;
+	}
+}
+
+#ityped {
+	font-size: 2rem;
+}

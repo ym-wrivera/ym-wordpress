@@ -1,0 +1,179 @@
+# Translation of Stable (latest release) in Romanian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-03 15:09:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: include/cpto-class.php:244 include/cpto-class.php:246
+#: include/cpto-class.php:249 include/cpto-class.php:260
+msgid "Re-Order"
+msgstr "Re-ordonare"
+
+#: include/cpto-class.php:268
+msgid "This plugin can't work without javascript, because it's use drag and drop and AJAX."
+msgstr "Acest modul nu poate funcționa fără javascript pentru că folosește trage-și-plasează și AJAX."
+
+#: include/cpto-class.php:281
+msgid "Update"
+msgstr "Actualizare"
+
+#: include/cpto-class.php:300
+msgid "Items Order Updated"
+msgstr "Odinea elementelor actualizată"
+
+#: include/cpto-class.php:319
+msgid "Pages"
+msgstr "Pagini"
+
+#: include/functions.php:106
+msgid "Did you find this plugin useful? Please support our work with a donation or write an article about this plugin in your blog with a link to our site"
+msgstr "Acest plugin iti este folositor? The rog ajuta exhipa sa dezvolte softul in continuare printr-o donatie sau un articol despre acest plugin on blog-ul tau impreuna cu un link catre site-ul nostru"
+
+#: include/functions.php:107
+msgid "Did you know there is available an Advanced version of this plug-in?"
+msgstr "Știați că este disponibilă o versiune Avansată a acestui modul?"
+
+#: include/functions.php:107
+msgid "Read more"
+msgstr "Citește mai mult"
+
+#: include/functions.php:108
+msgid "Check our"
+msgstr "Verifică"
+
+#: include/functions.php:108
+msgid "plugin which allow to custom sort categories and custom taxonomies terms"
+msgstr "modulul nostru permite sortarea personalizată a categoriilor și a termenilor taxonomiilor personalizate"
+
+#: include/options.php:22
+msgid "Settings Saved"
+msgstr "Setări salvate"
+
+#: include/options.php:34
+msgid "General Settings"
+msgstr "Setări generale"
+
+#: include/options.php:40
+msgid "General"
+msgstr "General"
+
+#: include/options.php:44
+msgid "Show / Hide re-order interface"
+msgstr "Arată / Ascunde interfața de re-ordonare"
+
+#: include/options.php:71
+msgid "Show"
+msgstr "Arată"
+
+#: include/options.php:72
+msgid "Hide"
+msgstr "Ascunde"
+
+#: include/options.php:79
+msgid "Minimum Level to use this plugin"
+msgstr "Nivelul minim de utilizare a acestui modul"
+
+#: include/options.php:82
+msgid "Subscriber"
+msgstr "Abonat"
+
+#: include/options.php:83
+msgid "Contributor"
+msgstr "Contributor"
+
+#: include/options.php:84
+msgid "Author"
+msgstr "Autor"
+
+#: include/options.php:85
+msgid "Editor"
+msgstr "Editor"
+
+#: include/options.php:86
+msgid "Administrator"
+msgstr "Administrator"
+
+#: include/options.php:92
+msgid "Auto Sort"
+msgstr "Auto sortare"
+
+#: include/options.php:94
+msgid "If checked, the plug-in automatically update the WordPress queries to use the new order (<b>No code update is necessarily</b>)"
+msgstr "Dacă e bifat, modulul actualizează automat interogările WordPress pentru a folosi noua ordine (<b>Nu este necesară nicio actualizare a codului</b>)"
+
+#: include/options.php:95
+msgid "If only certain queries need to use the custom sort, keep this unchecked and include 'orderby' => 'menu_order' into query parameters"
+msgstr "Dacă doar pentru anumite interogări e necesară o sortare personalizată, debifează și include 'orderby' => 'menu_order' în parametrii de interogare"
+
+#: include/options.php:97
+msgid "Additional Description and Examples"
+msgstr "Descriere și exemple suplimentare"
+
+#: include/options.php:104
+msgid "Admin Sort"
+msgstr "Sortarea în administrare"
+
+#: include/options.php:108
+msgid "To affect the admin interface, to see the post types per your new sort, this need to be checked"
+msgstr "Pentru a afecta interfața de administrare, pentru a vedea tipurile de articole în noua ta sortare, acesta trebuie bifat"
+
+#: include/options.php:122
+msgid "Next / Previous Apply"
+msgstr "Aplică la Următor / Precedent"
+
+#: include/options.php:126
+msgid "Apply the sort on Next / Previous site-wide navigation."
+msgstr "Aplica sortarea la navigația globală de sit Următor / Precedent."
+
+#: include/options.php:126
+msgid "This can also be controlled through"
+msgstr "Aceasta poate fi de asemenea controlată prin"
+
+#: include/options.php:126
+msgid "code"
+msgstr "cod"
+
+#: include/options.php:135
+msgid "Save Settings"
+msgstr "Salvează setările"
+
+#: post-types-order.php:150
+msgid "Post Types Order must be configured. Please go to"
+msgstr "Post Types Order trebuie configurat. Te rog mergi la"
+
+#: post-types-order.php:150
+msgid "Settings Page"
+msgstr "Pagina de setări"
+
+#: post-types-order.php:150
+msgid "make the configuration and save"
+msgstr "Fă configurarea și salveaz-o"
+
+#: post-types-order.php:243 post-types-order.php:322
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr "Folosește virgula în loc de %s pentru a separa termenii excluși."
+
+#. Plugin Name of the plugin/theme
+msgid "Post Types Order"
+msgstr "Post Types Order"
+
+#. #-#-#-#-#  tmp-post-types-order.pot (Post Types Order 1.8.9.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-post-types-order.pot (Post Types Order 1.8.9.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.nsp-code.com"
+msgstr "http://www.nsp-code.com"
+
+#. Description of the plugin/theme
+msgid "Posts Order and Post Types Objects Order using a Drag and Drop Sortable javascript capability"
+msgstr "Ordonare articole și alte obiecte tip articol folosind javascript de sortare prin tragere-și-plasare"
+
+#. Author of the plugin/theme
+msgid "Nsp Code"
+msgstr "Cod Nsp"

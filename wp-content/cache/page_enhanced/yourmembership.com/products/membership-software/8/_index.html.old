@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://yourmembership.com/xmlrpc.php">
+
+<title>Membership Management for Associations | YourMembership</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Membership management software that&#039;s easy enough for small staff and scalable enough for large associations. See why YM is the leader in the industry."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://yourmembership.com/products/membership-software/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Membership Management for Associations | YourMembership" />
+<meta property="og:description" content="Membership management software that&#039;s easy enough for small staff and scalable enough for large associations. See why YM is the leader in the industry." />
+<meta property="og:url" content="http://yourmembership.com/products/membership-software/" />
+<meta property="og:site_name" content="YourMembership" />
+<meta property="og:image" content="http://main.wp.ymem.net/wp-content/uploads/sites/2/2016/06/Hearts-1.png" />
+<meta property="og:image" content="http://main.wp.ymem.net/wp-content/uploads/sites/2/2016/06/WateringCan-1.png" />
+<meta property="og:image" content="http://main.wp.ymem.net/wp-content/uploads/sites/2/2016/06/Kite-1.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/yourmembership-ams-ipad-iphone-laptop-mock.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/yourmembership-ams-dues-rules.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/alpfa-logo-500x500-1.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/PDCA-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/iaoms-logo-500x500-1.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/NSBA-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/amci-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/img-original.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/img-modified.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/ams-member-connections-1-1.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/rocket-green-gray-container.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/SettingBars.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/MobilePhone-Gry.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/Wand.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Membership management software that&#039;s easy enough for small staff and scalable enough for large associations. See why YM is the leader in the industry." />
+<meta name="twitter:title" content="Membership Management for Associations | YourMembership" />
+<meta name="twitter:image" content="http://main.wp.ymem.net/wp-content/uploads/sites/2/2016/06/Hearts-1.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700%2C900&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel-css'  href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/bxslider-custom.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='yourmembership-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ym-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/ym-original.css?ver=4.7.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	// Function to detect opted out users
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	// Disable tracking if the opt-out cookie exists.
+	var disableStr = 'ga-disable-UA-398613-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	// Opt-out function
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-398613-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/yourmembership.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='https://api.w.org/' href='http://yourmembership.com/wp-json/' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://yourmembership.com/?p=8839' />
+<link rel="alternate" type="application/json+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmembership-software%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmembership-software%2F&#038;format=xml" />
+<script src='http://wp.ymem.net/?dm=72abc42b20854fd0cf9ea67268a3e7c1&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=1280026044&amp;back=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmembership-software%2F8%2F' type='text/javascript'></script><style type="text/css">
+#author-bio-box {
+width:100%;
+background: #fbfbfb;
+border: 3px solid #f5f5f5;
+box-shadow: none;
+padding: 10px;
+        position: relative;
+        overflow: hidden;
+}
+#author-bio-box img {
+margin-right: 10px;
+margin-bottom: 2px;
+}
+#author-bio-box .avatar {
+        float:left;
+}
+#author-bio-box .author-name {
+font-weight: bold;
+margin: 0px;
+font-size: 14px;
+}
+#author-bio-box p {
+font-size: 16px;
+line-height: 18px;
+}
+#author-bio-box thead th {
+border: 0;
+}
+#author-bio-box tbody {
+border: 0;
+}
+.bio-spacer { min-height:44px; padding: 1px; display: block; clear: both; border:1px;}
+.bio-socials {
+border-bottom:none;
+border-left:none;
+border-right:none;
+width: 100%;
+height: auto;
+clear: both;
+}
+</style></head>
+
+<body class="page-template-default page page-id-8839 page-parent page-child parent-pageid-8838 paged-8 page-paged-8">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZMRHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZMRHW');</script>
+<!-- End Google Tag Manager -->
+
+<div id="request-demo">
+	<div id="demo-tab">
+		<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/demo-tab.png">
+	</div>
+	<div id="demo-form">
+		<a id="close" class="demo-close" href="javascript:void(0);">
+			<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/close.png">
+		</a>
+				<iframe src="http://go.yourmembership.com/l/134231/2016-01-07/r8q" width="100%" height="540" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>	</div>
+</div>
+
+<header class="header">
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		 
+			<div class="announce-bar">
+				<div class="container">
+					YourMembership launches SocialLink! <a href="/products/sociallink">Learn more</a>				</div>
+			</div>
+				<div class="container">
+			<div class="navbar-header">
+				<a class="nav-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="menu-text">Menu</span>
+				</a>
+				<a class="navbar-brand" href="/">yourmembership.com</a>
+			</div>
+			<div class="nav-main">
+				<div class="menu-primary-menu-container"><ul id="primary-menu" class="primary-menu"><li id="menu-item-8843" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-8843"><a>Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-8844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8844"><a href="http://yourmembership.com/products/sociallink/">All-New SocialLink</a></li>
+	<li id="menu-item-8845" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8839 current_page_item menu-item-8845"><a href="http://yourmembership.com/products/membership-software/">Membership Software</a></li>
+	<li id="menu-item-8846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8846"><a href="http://yourmembership.com/products/career-center/">Career Center + Job Boards</a></li>
+	<li id="menu-item-8847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8847"><a href="http://yourmembership.com/products/buyers-guides/">Ad + Media Solutions</a></li>
+	<li id="menu-item-8848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8848"><a href="http://yourmembership.com/products/learning-management-system/features/">Online Learning Management</a></li>
+	<li id="menu-item-8849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8849"><a href="http://yourmembership.com/products/mobile-event-app/">Mobile Event App</a></li>
+</ul>
+</li>
+<li id="menu-item-8850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8850"><a>Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-8851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8851"><a href="http://yourmembership.com/partner-programs-2/">Affiliate Partner Programs</a></li>
+	<li id="menu-item-8852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8852"><a href="http://yourmembership.com/partner-programs-2/association-management-company/">AMC Partner Program</a></li>
+</ul>
+</li>
+<li id="menu-item-8853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8853"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8854"><a href="http://yourmembership.com/resource-library/upcoming/">Events + Webinars</a></li>
+	<li id="menu-item-8855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8855"><a href="http://yourmembership.com/resource-library/">Resource Library</a></li>
+	<li id="menu-item-8856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8856"><a href="http://yourmembership.com/resource-library/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-8857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8857"><a href="http://%20">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-8858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8858"><a href="http://yourmembership.com/company/clients/">Company + Clients</a></li>
+	<li id="menu-item-8859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8859"><a href="http://yourmembership.com/company/management-team/">Meet Our Team</a></li>
+	<li id="menu-item-8860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8860"><a href="http://yourmembership.com/company/customer-service/">Customer Support</a></li>
+	<li id="menu-item-8861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8861"><a href="http://yourmembership.com/company/technology/">Technology</a></li>
+	<li id="menu-item-8862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8862"><a href="http://yourmembership.com/news/">In the News</a></li>
+	<li id="menu-item-8863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8863"><a href="http://yourmembership.com/company/responsibility/">Corporate Responsibility</a></li>
+</ul>
+</li>
+</ul></div>				<ul class="toolbar">
+					<li class="contact"><a href="/contact">Contact</a></li>
+					<li class="blog"><a href="/resource-library/blog">Blog</a></li>
+					<li class="careers"><a href="http://www.recruitingsite.com/csbsites/yourmembership/index.asp">Careers</a></li>
+				</ul>				
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</header>
+
+
+<div id="content" class="site-content">
+	
+
+	
+
+
+
+
+
+			<div class="image-header" style="background-image:url(8);">
+			<div class="image-header-inner container">
+				<div class="title">
+					<h1>YM’s Association Management Software (AMS)</h1>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-8839" class="post-8839 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<p><!-- / 3 columns container starts --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Accelerate member management with ease.</h1>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 22px" align="center">One AMS system to improve member satisfaction and grow revenue.</p>
+<p><!-- / 3 column starts --></p>
+<div class="container pbottom-50 ds mtop-50" align="center">
+<p><!-- / column left --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/sites/2/2016/06/Hearts-1.png" border="0" /></div>
+<h2>Impress your members</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Captivate members with content, career opportunities and learning programs, anywhere, anytime on any device.</p>
+</div>
+<p><!-- / column center --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/sites/2/2016/06/WateringCan-1.png" border="0" /></div>
+<h2>Grow revenue</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Build your brand with appealing and valuable membership offerings that drive revenue and keep your members coming back for more.</p>
+</div>
+<p><!-- / column right --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/sites/2/2016/06/Kite-1.png" border="0" /></div>
+<h2>Improve performance</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Let the software work for you. Our AMS enhances member experiences, while you gain valuable business intelligence and ROI.</p>
+</div>
+</div>
+<div align="center"><a class="btn" style="padding: 20px 40px 20px 40px" href="/products/sociallink/">See the all-new SocialLink</a></div>
+<p>&nbsp;</p>
+<div align="center"><a class="btn" style="padding: 20px 40px 20px 40px" href="/ymmembership-request-demo/">Grow your association</a></div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+<p><!-- Versatile block starts --></p>
+<div class="container pbottom-50 ds">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 25px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/yourmembership-ams-ipad-iphone-laptop-mock.jpg" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">One versatile AMS platform, endless possibilities.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Work smarter and deliver more value to members.</p>
+<p style="font-size: 13pt;line-height: 20pt">Stop juggling multiple systems and spreadsheets. Instead, manage all of your business and data needs more efficiently with one comprehensive membership management software. It’s everything you need to better engage your members.</p>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- Versatile block ends --></p>
+<p><!-- Features block starts --></p>
+<div class="container ds pbottom-50">
+<p><!-- image starts --></p>
+<div class="col-md-6">
+       <img style="padding-top:25px" class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/yourmembership-ams-dues-rules.jpg" />
+    </div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 col-xs-12">
+<div class="col-md-12 sans-p mbottom-50">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">AMS features.</h2>
+<p style="color:#a3a9ae;font-weight:200;font-size:18px">Flexibility and agility for your organization.</p>
+<ul style="padding-left: 25px">
+        <a href="/design-services/"></p>
+<li>Website Design + Hosting</li>
+<p></a></p>
+<li>Membership Management</li>
+<li>Event Management</li>
+<li>Social Link Community + Member Profiles</li>
+<li>Invoicing, Payments + Accounting</li>
+<li>Integrated Commerce</li>
+<li>Advanced Analytics + Dashboards</li>
+<p>	<a href="/products/informz/"></p>
+<li>Email Marketing</li>
+<p></a><br />
+	<br />&nbsp;</br><br />
+<a class="btn" href="/products/membership-software/features/">View All Features</a>
+    </div>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- Features block ends --></p>
+<p><!-- PRODUCTS : MOVE FORWARD SECTION STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered container pbottom-50" style="margin-top: 0px !important">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Moving industries forward.</h1>
+<h2 class="gray text-center" style="color: #a3a9ae;font-weight: 200;font-size: 22px">Spend less time on daily tasks with an AMS specifically designed for you.</h2>
+<p>&nbsp;</p>
+<div class="icons">
+<div id="col1" class="col col-md-2 col-sm-6">
+<div class="col-content">
+<h3>Professional Education</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Online member community</li>
+<li>Automatic membership tracking</li>
+<li>Event registration and management</li>
+</ul>
+</div>
+</div>
+<div id="col2" class="col col-md-2 col-sm-6">
+<div class="col-content">
+<h3>Trade-based Associations</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Complex membership and dues structure</li>
+<li>Online directories for membership</li>
+<li>Easy membership tracking</li>
+</ul>
+</div>
+</div>
+<div id="col3" class="col col-md-3 col-sm-6">
+<div class="col-content">
+<h3>Healthcare Societies + Institutes</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Private communities for specialized medical professionals</li>
+<li>Member-specific resources and online libraries</li>
+<li>Latest industry news and events</li>
+</ul>
+</div>
+</div>
+<div id="col4" class="col col-md-2 col-sm-6">
+<div class="col-content">
+<h3>Bar Associations</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Easy membership renewal</li>
+<li> Dues rules based on levels and years of practice</li>
+<li>Certification tracking for CLEs</ul>
+</div>
+</div>
+<div id="col4" class="col col-md-3 col-sm-6">
+<div class="col-content">
+<h3>AMCs</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Single sign-on capabilities across all client platforms</li>
+<li>Unlimited training resources for staff</li>
+<li>Dedicated implementation and support teams</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- PRODUCTS : MOVE FORWARD SECTION ENDS --></p>
+<p><!-- CTA BLOCK STARTS --></p>
+<div class="mbottom-50" style="background-color: #a8ad00;padding-top: 5px;padding-bottom: 5px">
+<div id="cta" class="container mbottom-50">
+<div class="col-md-8 mbottom-50">
+<p style="color: #ffffff">Improve member satisfaction, boost performance + grow revenue with the leading AMS.</p>
+</div>
+<div class="col-md-4 col-xs-12"><a class="btn col-xs-12 mbottom-15" style="padding-top: 20px;padding-bottom: 20px;border: none" href="/ymmembership-request-demo/">Get started today   <i class="fa fa-chevron-right" style="color: #fff"></i></a><br />
+<a class="btn col-xs-12 mbottom-15" style="border: none">Call 1-727-827<span>_</span>-0046</a></div>
+</div>
+</div>
+<p><!-- CTA BLOCK ENDS --></p>
+<p><!-- PRODUCTS : WHO USES SECTION STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered bottom-border container">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Who uses YM&#8217;s AMS?</h1>
+<h2 class="gray text-center" style="color: #a3a9ae;font-weight: 200;font-size: 22px">Everyone who’s anyone looking to engage members online + grow revenue.</h2>
+<p>&nbsp;</p>
+<div class="icons">
+<div id="col1" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/alpfa-logo-500x500-1.png" alt="ALPFA" border="0" /></p>
+<div class="col-content">
+<h3>Professional Membership Associations</h3>
+<p style="font-size: 16px">Association of Latino Professionals For America empowers and develops a nationwide network of students and professionals as leaders of character in every sector of the global economy.</p>
+</div>
+</div>
+<div id="col2" class="col col-md-2 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/PDCA-logo-500x500.png" alt="PDCA logo" border="0" /></p>
+<div class="col-content">
+<h3>Trade-based Associations</h3>
+<p style="font-size: 16px">Painting and Decorating Contractors of America is dedicated to developing nearly 2,000 members with critical education programs and networking opportunities.</p>
+</div>
+</div>
+<p><!-- Add the extra clearfix for only the required viewport --></p>
+<div class="clearfix visible-sm-block"></div>
+<div id="col3" class="col col-md-2 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/iaoms-logo-500x500-1.png" alt="IAOMS Logo" border="0" /></p>
+<div class="col-content">
+<h3>Medical<br /> Associations</h3>
+<p style="font-size: 16px">International Association of Oral and Maxillofacial Surgeons (IAOMS) improves the quality and safety of healthcare through the advancement of patient care, education and research for 3,500+ surgeons worldwide.</p>
+</div>
+</div>
+<div id="col2" class="col col-md-2 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/NSBA-logo-500x500.png" alt="Kansas Bar Association" border="0" /></p>
+<div class="col-content">
+<h3>State Bar Associations</h3>
+<p style="font-size: 16px">Nebraska State Bar Association helps Nebraska lawyers achieve the highest standards of competence, ethics and professionalism and to protect and promote the administration of and access to justice.</p>
+</div>
+</div>
+<div id="col2" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/amci-logo-500x500.png" alt="AMC Institute" border="0" /></p>
+<div class="col-content">
+<h3>Association Management Companies</h3>
+<p style="font-size: 16px">Association Management Companies Institute (AMCI) represents 180+ AMCs that manage 1,800+ associations with turnkey software management and support.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- PRODUCTS : WHO USES SECTION ENDS --></p>
+<p><!-- / testimonial wrapper start --></p>
+<div id="bg-image" class="city active">
+<p><!-- / headline starts --></p>
+<div class="container hp-content" style="padding-bottom: 0px;padding-top: 0px">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #ffffff;font-weight: 400;font-size: 2.0em">&#8221; . . . I am the biggest fan. I use it at my organization that serves about 10,000 members. For us it was a game changer. YM took our processes and . . . cut them by 75%, which is like gaining another full-time employee. That’s huge!”</h1>
+<div class="text-center" style="font-size: 16px;color: #a3a9ae;line-height: 24px">Kristen Merrifield, CAE, Chief Executive Officer, Alliance of Arizona Nonprofits</div>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+</div>
+<p><!-- / testimonials wrapper end --></p>
+<p><!-- brand package wrapper starts --></p>
+<div class="container mbottom-50 pbottom-50">
+<p><!-- brand package left block starts --></p>
+<div class="col-md-7">
+<div class="slider responsive">
+<div class="left image">
+<figure class="cd-image-container"><img class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/img-original.png" alt="Original Image" /><span class="cd-image-label">Brand+ Package</span></p>
+<div class="cd-resize-img"><img class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/img-modified.png" alt="Modified Image" /><span class="cd-image-label">Standard</span></div>
+<p>&nbsp;</p>
+</figure>
+<p><!-- cd-image-container --></p>
+</div>
+</div>
+<p class="mtop-25 text-center orange"><strong>[ Slide above to compare our Standard and Brand+ design packages ]</strong></p>
+</div>
+<p><!-- brand package left block ends --></p>
+<p><!-- brand package right block starts --></p>
+<div class="col-md-5"><span class="bolder"> </span></p>
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Raise your brand above the rest.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Make every member experience memorable.</p>
+<p style="font-size: 13pt;line-height: 20pt">Boost your brand online with our award-winning design team. We collaborate with you to understand your needs and deliver top-notch design.</p>
+<p><span class="bolder"> </span></p>
+<p><a class="btn" href="/design-services">Build Your Brand</a></p>
+</div>
+<p><!-- brand package right block ends --></p>
+</div>
+<p><!-- brand package wrapper ends --></p>
+<p><!-- connect block starts --></p>
+<div class="container pbottom-50 ds">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 25px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/ams-member-connections-1-1.png" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Member engagement at its best.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Build relationships that last.</p>
+<p style="font-size: 13pt;line-height: 20pt">As your members engage, collaborate and share across your organization’s online community, you develop a lasting relationship with them. You also gain valuable business intelligence by observing their behaviors.</p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Connect &#8230; and stay connected.</p>
+<p style="font-size: 13pt;line-height: 20pt">Keep member connections strong. Your website easily updates with relevant content. Customize inspirational events with attendees preferences and targeted marketing communications specific to your members needs.</p>
+<p><span class="bolder"> </span><br />
+<a class="btn" href="/ymmembership-request-demo/">Connect Your Members</a></p>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- connect block ends --></p>
+<p><!-- your success is our drive block starts --></p>
+<div class="container pbottom-50 ds" style="margin-bottom: 80px">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 25px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/rocket-green-gray-container.png" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Your success is our drive.</h2>
+<p><span class="bolder"> </span></p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">We are an extension of you.</p>
+<p style="font-size: 13pt;line-height: 20pt">Get unlimited service and support from our live, dedicated support team, free webinar training series and on-demand knowledge base. Plus attendance to Xperience, an annual conference you don&#8217;t want to miss.</p>
+<p>&nbsp;</p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Get the latest version . . . always.</p>
+<p style="font-size: 13pt;line-height: 20pt">We keep a keen eye on the future of technology and member experiences so you don&#8217;t have to. With an entirely cloud-based solution, you no longer have to worry about managing servers. Get automatic AMS updates as soon as they roll out and at no cost to you. Get the latest and greatest features that benefit your members and you.</p>
+<p><span class="bolder"> </span></p>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- your success block ends --></p>
+<p><!-- CTA BLOCK STARTS --></p>
+<div class="mbottom-50" style="background-color: #a8ad00;padding-top: 5px;padding-bottom: 5px">
+<div id="cta" class="container mbottom-50">
+<div class="col-md-8 mbottom-50">
+<p style="color: #ffffff">Improve member satisfaction, boost performance + grow revenue with the leading AMS.</p>
+</div>
+<div class="col-md-4 col-xs-12"><a class="btn col-xs-12 mbottom-15" style="padding-top: 20px;padding-bottom: 20px;border: none" href="/ymmembership-request-demo/">Get started today   <i class="fa fa-chevron-right" style="color: #fff"></i></a><br />
+<a class="btn col-xs-12 mbottom-15" style="border: none">Call 1-727-827<span>_</span>-0046</a></div>
+</div>
+</div>
+<p><!-- CTA BLOCK ENDS --></p>
+<p><!-- / 3 LINKS FOOTER SECTION START --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<p style="color: #a3a9ae;font-weight: 200;font-size: 22px" align="center">Make member engagement easy.</p>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p><!-- / 3 column starts --></p>
+<div class="container ds mtop-50" align="center">
+<p><!-- / column left --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/SettingBars.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">AMS features</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Game-changing tools to build engagement, grow revenue and improve performance.</p>
+<p><a class="btn" href="/products/membership-software/features/">Take a look</a></p>
+</div>
+<p><!-- / column center --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/MobilePhone-Gry.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">Mobile event app</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Captivate your attendees and enhance their event experience by giving them access to info anytime, anywhere and from any device.</p>
+<p><a class="btn" href="/products/mobile-event-app/">Learn how</a></p>
+</div>
+<p><!-- / column right --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/Wand.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">Premium design services</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Attract members with a compelling experience that builds your brand online and exceeds organizational goals and expectations.</p>
+<p><a class="btn" href="/design-services/">Learn how</a></p>
+</div>
+</div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div> <!--/Content-->
+
+
+<footer class="footer">
+	<div class="container">
+		<div class="copyright col-sm-8 col-xs-12"> &copy; 1998-2017, YourMembership Inc. All rights reserved. <span class="links"><a href="/legal/">Privacy Policy</a> | <a href="/company/sitemap/">Sitemap</a></span></div>
+		<div class="social col-sm-4 col-xs-12 text-right">
+			<a href="http://twitter.com/yourmembership" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="http://www.linkedin.com/company/yourmembership-com" target="_blank"><i class="fa fa-linkedin"></i></a>
+			<a href="http://www.facebook.com/pages/YourMembershipcom/91798945325" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://plus.google.com/u/0/113339144649046293573" target="_blank"><i class="fa fa-google-plus"></i></a>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/jquery.mobile.custom.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/modernizr.custom-grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/main.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/global.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/pgaet.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Database Caching 12/21 queries in 0.591 seconds using disk
+
+ Served from: yourmembership.com @ 2017-04-12 06:32:19 by W3 Total Cache -->

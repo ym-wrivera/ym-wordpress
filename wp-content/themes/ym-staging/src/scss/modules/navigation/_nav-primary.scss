@@ -1,0 +1,230 @@
+.nav-primary {
+	z-index: 10;
+
+	.menu-group {
+		margin-bottom: 40px !important;
+	}
+
+	// Removed so we can add box-shadow to the top of sub menu
+	.ubermenu .ubermenu-item-level-0>.ubermenu-submenu-drop {
+		clip: unset;
+	}
+
+	.ubermenu .ubermenu-target {
+		padding-bottom: rem(30);
+	}
+
+	#ubermenu-main-2-primary {
+		float: right;
+
+		.ubermenu-item-level-0 {
+			@include padding(null 15px);
+		}
+
+		a,
+		span.ubermenu-item-layout-text_only {
+			@include font(normal, 700);
+			@include font-size(15);
+			color: $slate-dark;
+			padding-right: 0;
+
+			&:hover,
+			&:active {
+				color: $green-text;
+			}
+		}
+
+
+		.menu-cta {
+			padding-right: 0;
+
+			> a {
+				@include font-size(14);
+				background-color: $green-main;
+				border-radius: 50px;
+				box-shadow: $box-shadow;
+				color: $white;
+				text-transform: uppercase;
+
+				&:hover,
+				&:focus {
+					background-color: shade($green-main, 20%);
+					box-shadow: none;
+					color: $white;
+				}
+			}
+		}
+
+		// Products
+		.ubermenu-submenu-type-mega {
+			@include padding(20px 40px);
+			background-color: $white;
+			box-shadow: $menu-shadow;
+			margin-top: 0;
+			transform: translateX(-35px);
+
+			&:before {
+				content: "";
+				position: absolute;
+				width: 300px;
+				height: 100px;
+				top: -7px;
+				left: 0;
+				z-index: -1;
+			}
+
+			span.ubermenu-item-layout-text_only {
+				padding: 0;
+
+				&:hover {
+					color: $slate-dark;
+				}
+			}
+
+			.ubermenu-submenu {
+				a {
+					@include padding(0);
+				}
+
+				.ubermenu-item-level-2 {
+					a {
+						@include font-size(14);
+					}
+				}
+
+				.ubermenu-item-level-3 {
+					a {
+						@include padding(5px 0);
+						@include font-size(14);
+						color: $slate;
+						font-weight: normal;
+
+						&:hover,
+						&:active {
+							color: $green-text;
+						}
+					}
+				}
+			}
+		}
+
+		// Who We Serve
+		#menu-item-75 {
+			> .ubermenu-submenu {
+				@include padding(25px null 20px null);
+				background-color: $white;
+				box-shadow: $menu-shadow;
+				margin-top: 0;
+
+				&:before {
+					content: "";
+					position: absolute;
+					width: 300px;
+					height: 100px;
+					top: -7px;
+					left: 0;
+					z-index: -1;
+				}
+
+				.ubermenu-item-header {
+					a {
+						@include padding(5px null);
+						color: $slate-dark;
+						@include font-size(14);
+						font-weight: bold;
+					}
+				}
+				.ubermenu-item-auto {
+					a {
+						@include padding(5px null);
+						color: $slate;
+						@include font-size(14);
+						font-weight: normal;
+
+						&:hover,
+						&:active {
+							color: $green-text;
+						}
+					}
+				}
+			}
+		}
+
+		// Segments
+		#menu-item-13963 {
+			margin-bottom: rem(10);
+		}
+
+
+		// Resource Center
+		#menu-item-9249 {
+			> .ubermenu-submenu {
+				transform: translateX(35px);
+			}
+		}
+
+
+		// Company
+		#menu-item-10420 {
+			> .ubermenu-submenu {
+				transform: translateX(35px);
+			}
+		}
+
+		.ubermenu-item-type-custom {
+			> li {
+				margin-top: 0;
+			}
+
+			.ubermenu-content-block {
+				.menu-resource {
+					background-color: #f7f7f7;
+					margin-bottom: 0;
+					text-align: center;
+					width: 100%;
+
+					.resource-wrap {
+						background-color: #f7f7f7;
+					}
+
+					.resource-wrap-inner {
+						padding: rem(20);
+					}
+
+					.entry-title,
+					.event-url {
+						margin: 0;
+					}
+
+					.title,
+					.entry-content {
+						margin-bottom: rem(20);
+
+						&:hover,
+						&:focus,
+						&:active {
+							color: $slate-dark;
+						}
+					}
+
+					.entry-content {
+						font-weight: $fw-normal;
+					}
+
+					.learn-more-wrap a {
+						color: #A8AD00;
+						font-weight: $fw-normal;
+					}
+				}
+			}
+		}
+
+	}
+}
+
+
+nav.ubermenu-sub-indicators .ubermenu-has-submenu-drop > .ubermenu-target:after {
+	display: none;
+}
+
+

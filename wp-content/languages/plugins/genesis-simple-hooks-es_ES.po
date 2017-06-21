@@ -1,0 +1,350 @@
+# Translation of Plugins - Genesis Simple Hooks - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Genesis Simple Hooks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-14 15:19:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Genesis Simple Hooks - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.nathanrice.net/"
+msgstr "http://www.nathanrice.net/"
+
+#. Author of the plugin/theme
+msgid "Nathan Rice"
+msgstr "Nathan Rice"
+
+#. Description of the plugin/theme
+msgid "Genesis Simple Hooks allows you easy access to the 50+ Action Hooks in the Genesis Theme."
+msgstr "Genesis Simple Hooks te permite acceder fácilmente a los más de 50 ganchos de acción en el tema Genesis."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiopress.com/plugins/simple-hooks"
+msgstr "http://www.studiopress.com/plugins/simple-hooks"
+
+#. Plugin Name of the plugin/theme
+msgid "Genesis Simple Hooks"
+msgstr "Genesis Simple Hooks"
+
+#: plugin.php:48
+msgid "Sorry, you cannot run Simple Hooks without WordPress %s and <a href=\"%s\">Genesis %s</a>, or greater."
+msgstr "Lo siento, no puedes ejecutar Genesis Simple Hooks si no tienes instalado WordPress %s y <a href=\"%s\">Genesis %s</a> o superior."
+
+#: functions.php:66
+msgid "Execute PHP on this hook?"
+msgstr "¿Ejecutar PHP en este gancho?"
+
+#: functions.php:65
+msgid "Execute Shortcodes on this hook?"
+msgstr "¿Quieres ejecutar los shortcodes en este gancho?"
+
+#: functions.php:54
+msgid "Unhook <code>%s()</code> function from this hook?"
+msgstr "¿Desbloquear la función <code>%s()</code> de este gancho?"
+
+#: functions.php:45
+msgid "Hook"
+msgstr "Gancho"
+
+#: admin.php:585
+msgid "This hook executes immediately after the footer."
+msgstr "Este gancho se ejecuta inmediatamente después del pie de página."
+
+#: admin.php:579
+msgid "This hook, by default, outputs the content of the footer."
+msgstr "Este gancho, muestra por defecto el contenido del  pie de página."
+
+#: admin.php:574
+msgid "This hook executes immediately before the footer."
+msgstr "Este gancho se ejecuta inmediatamente antes del pie de página."
+
+#: admin.php:563
+msgid "This hook executes immediately after the alternate sidebar widget area."
+msgstr "Este gancho se ejecuta inmediatamente después del Widget de la barra lateral alternativa"
+
+#: admin.php:558
+msgid "This hook executes immediately before the alternate sidebar widget area."
+msgstr "Este gancho se ejecuta inmediatamente antes del widget de la barra lateral alternativa"
+
+#: admin.php:553
+msgid "This hook executes immediately after the alternate sidebar column."
+msgstr "Este gancho se ejecuta inmediatamente después de la barra lateral alternativa."
+
+#: admin.php:547
+msgid "This hook outputs the content of the secondary sidebar, including the widget area output."
+msgstr "Este gancho muestra el contenido de la barra secundaria, incluido el contenido del widget."
+
+#: admin.php:542
+msgid "This hook executes immediately before the alternate sidebar column."
+msgstr "Este gancho se ejecuta inmediatamente antes de la barra lateral alternativa."
+
+#: admin.php:537
+msgid "This hook executes immediately after the primary sidebar widget area."
+msgstr "Este gancho se ejecuta inmediatamente después del widget de la barra lateral primaria."
+
+#: admin.php:532
+msgid "This hook executes immediately before the primary sidebar widget area."
+msgstr "Este gancho se ejecuta inmediatamente antes del Widget de la barra lateral primaria."
+
+#: admin.php:527
+msgid "This hook executes immediately after the primary sidebar column."
+msgstr "Este gancho se ejecuta inmediatamente después de la barra lateral primaria."
+
+#: admin.php:521
+msgid "This hook outputs the content of the primary sidebar, including the widget area output."
+msgstr "Este gancho muestra el contenido de la barra lateral primaria, incluido el contenido del widget."
+
+#: admin.php:516
+msgid "This hook executes immediately before the primary sidebar column."
+msgstr "Este gancho se ejecuta inmediatamente antes de la barra lateral primaria."
+
+#: admin.php:505
+msgid "This hook executes immediately after the comment form."
+msgstr "Este gancho se ejecuta después del formulario de comentarios."
+
+#: admin.php:499
+msgid "This hook outputs the entire comment form."
+msgstr "Este gancho muestra el contenido del comentario."
+
+#: admin.php:494
+msgid "This hook executes immediately before the comment form."
+msgstr "Este gancho se ejecuta inmediatamente antes del formulario de comentarios."
+
+#: admin.php:483
+msgid "This hook executes immediately after each individual comment (inside the <code>.comment</code> list item)."
+msgstr "Este gancho se ejecuta inmediatamente después de cada comentario individual (para cada elemento de la lista <code>.comment</code>)."
+
+#: admin.php:478
+msgid "This hook executes immediately before each individual comment (inside the <code>.comment</code> list item)."
+msgstr "Este gancho se ejecuta inmediatamente antes de cada comentario individual (para cada elemento de la lista <code>.comment</code>)."
+
+#: admin.php:467
+msgid "This hook executes immediately after the pings block."
+msgstr "Este gancho se ejecuta inmediatamente después del bloque de pings."
+
+#: admin.php:461
+msgid "This hook executes inside the pings block. By default, it outputs a list of pings associated with a post via the <code>genesis_default_list_pings()</code> function."
+msgstr "Este gancho se ejecuta dentro del bloque de pings. Muestra por defecto una lista de pings asociados a una entrada que se define mediante la función <code>genesis_default_list_pings()</code>."
+
+#: admin.php:456
+msgid "This hook outputs the pings block."
+msgstr "Este gancho muestra el bloque de pings."
+
+#: admin.php:450
+msgid "This hook executes immediately before the pings block."
+msgstr "este gancho se ejecuta inmediatamente antes del bloque de pings."
+
+#: admin.php:441
+msgid "This hook executes immediately after the comments block."
+msgstr "Este gancho se ejecuta inmediatamente después de bloque de comentarios."
+
+#: admin.php:435
+msgid "This hook executes inside the comments block. By default, it outputs a list of comments associated with a post via the <code>genesis_default_list_comments()</code> function."
+msgstr "Este gancho se ejecuta dentro del bloque de comentarios. Muestra por defecto el listado de comentarios asociados a una entrada que se define mediante la función <code>genesis_default_list_comments()</code> ."
+
+#: admin.php:429
+msgid "This hook outputs the comments block."
+msgstr "Este gancho muestra el bloque de comentarios."
+
+#: admin.php:424
+msgid "This hook executes immediately before the comments block."
+msgstr "Este gancho se ejecuta inmediatamente antes del bloque de comentarios."
+
+#: admin.php:412
+msgid "This hook executes immediately after the <code>genesis_post_content</code> hook for each post/page within the loop."
+msgstr "Este gancho se ejecuta inmediatamente después del gancho <code>genesis_post_content</code> para cada entrada/página."
+
+#: admin.php:406
+msgid "This hook outputs the content of the post/page, by default."
+msgstr "Este gancho muestra el contenido predeterminado de la entrada/página."
+
+#: admin.php:400
+msgid "This hook executes immediately before the <code>genesis_post_content</code> hook for each post/page within the loop."
+msgstr "Este gancho se ejecuta inmediatamente antes del gancho <code>genesis_post_content</code> para cada entrada/página."
+
+#: admin.php:395
+msgid "This hook executes immediately after each post/page title within the loop."
+msgstr "Este gancho se ejecuta inmediatamente después del título de cada entrada/página dentro del bucle."
+
+#: admin.php:389
+msgid "This hook outputs the post/page title."
+msgstr "Este gancho muestra el título de la entrada/página."
+
+#: admin.php:384
+msgid "This hook executes immediately before each post/page title within the loop."
+msgstr "Este gancho se ejecuta inmediatamente antes del título de cada entrada/página dentro del bucle."
+
+#: admin.php:378
+msgid "This hook executes after each post in all loop blocks (outside the <code>post_class()</code> div)."
+msgstr "Este gancho se ejecuta después de cada entrada en todos los bucles (fuera del div <code>post_class()</code>)."
+
+#: admin.php:373
+msgid "This hook executes before each post in all loop blocks (outside the <code>post_class()</code> div)."
+msgstr "Este gancho se ejecuta antes de cada entrada en todos los bucles (fuera del div <code>post_class()</code>)."
+
+#: admin.php:362
+msgid "This hook executes after each entry in all loop blocks (outside the entry markup element)."
+msgstr "Este gancho se ejecuta después de cada entrada en todos los bucles (Fuera del elemento de marcado de la entrada)."
+
+#: admin.php:357
+msgid "This hook executes after the entry content. By Default, it outputs entry meta information."
+msgstr "Este gancho se ejecuta después del contenido. Muestra por defecto la meta información de la entrada."
+
+#: admin.php:352
+msgid "This hook, by default, outputs the entry content."
+msgstr "Este gancho muestra por defecto el contenido de la entrada."
+
+#: admin.php:347
+msgid "This hook executes before the entry content. By default, it outputs the entry title and meta information."
+msgstr "Este gancho se ejecuta antes del contenido de la entrada. Muestra por defecto el título y la meta informacion de la entrada"
+
+#: admin.php:342
+msgid "This hook executes before each entry in all loop blocks (outside the entry markup element)."
+msgstr "Este gancho se ejecuta antes de cada entrada en todos los bucles (fuera del elemento de marcado de la entrada)."
+
+#: admin.php:330
+msgid "This hook executes after the <code>else :</code> statement in all loop blocks. The content attached to this hook will only display if there are no posts available when a loop is executed."
+msgstr "Este gancho se ejecuta después de la instrucción <code>else :</code> en todos los bucles. The contenido adjunto de este gancho sólo se mostrará si no hay entradas disponibles cuando se ejecuta ese bucle."
+
+#: admin.php:324
+msgid "This hook executes after the <code>endwhile;</code> statement."
+msgstr "Este gancho se ejecuta después de la instrucción <code>endwhile;</code>."
+
+#: admin.php:319
+msgid "This hook executes immediately after all loop blocks.<br /> Therefore, this hook falls outside the loop, and cannot execute functions that require loop template tags or variables."
+msgstr "Este gancho se ejecuta inmediatamente después de todos los bucles. <br />. Por tanto, este gancho queda fuera del bucle y no puede ejecutar funciones que requieren etiquetas o variables  de bucle de la plantilla."
+
+#: admin.php:313
+msgid "This hook executes both default and custom loops."
+msgstr "Este gancho se ejecuta tanto en los bucles por defecto como en los bucles personalizados."
+
+#: admin.php:308
+msgid "This hook executes immediately before all loop blocks.<br /> Therefore, this hook falls outside the loop, and cannot execute functions that require loop template tags or variables."
+msgstr "Este gancho se ejecuta inmediatamente antes de todos los bucles. <br /> Por tanto, este gancho queda fuera del bucle y no puede ejecutar funciones que requieren etiquetas o variables de bucle de la plantilla."
+
+#: admin.php:297
+msgid "This hook executes immediately after the content column."
+msgstr "Este gancho se ejecuta inmediatamente después de la columna de contenido."
+
+#: admin.php:292
+msgid "This hook executes immediately before the content column."
+msgstr "Este gancho se ejecuta inmediatamente antes de la columna de contenido."
+
+#: admin.php:287
+msgid "This hook executes immediately after the div block that wraps the content and the primary sidebar."
+msgstr "Este gancho se ejecuta inmediatamente después del div que envuelve el contenido y la barra lateral primaria"
+
+#: admin.php:282
+msgid "This hook executes immediately before the div block that wraps the content and the primary sidebar."
+msgstr "Este gancho se ejecuta inmediatamente antes del div que contiene al contenido y la barra lateral primaria."
+
+#: admin.php:270
+msgid "This hooks executes inside the header, and by default, outputs the site description."
+msgstr "Este gancho se ejecuta en el header y, por defecto, muestra la descripción del sitio."
+
+#: admin.php:264
+msgid "This hooks executes inside the header, and by default, outputs the site title."
+msgstr "Este gancho se ejecuta en el header y, por defecto, muestra el título del sitio."
+
+#: admin.php:259
+msgid "This hook executes immediately after the header."
+msgstr "Este gancho se ejecuta inmediatamente después de la cabecera"
+
+#: admin.php:253
+msgid "This hook outputs the default header."
+msgstr "Este gancho muestra la cabecera por defecto"
+
+#: admin.php:248
+msgid "This hook executes immediately before the header."
+msgstr "Este gancho se ejecuta inmediatamente antes de la cabecera"
+
+#: admin.php:232
+msgid "This hook executes immediately after the opening <code>&lt;body&gt;</code> tag."
+msgstr "Este gancho se ejecuta inmediatamente después de abrir la etiqueta <code>&lt;body&gt;</code>."
+
+#: admin.php:227
+msgid "This hook executes in the document <code>&lt;head&gt;</code>.<br /> It is commonly used to output <code>META</code> information about the document."
+msgstr "Este gancho se ejecuta en el <code>&lt;head&gt;</code> del documento.<br /> Se suele usar normalmente para mostrar la <code>META</code> información del documento."
+
+#: admin.php:222
+msgid "This hook executes between the main document <code>&lt;title&gt;&lt;/title&gt;</code> tags."
+msgstr "Este gancho se ejecuta dentro de la etiqueta <code>&lt;title&gt;&lt;/title&gt;</code> del documento principal."
+
+#: admin.php:214 admin.php:240 admin.php:274 admin.php:300 admin.php:334
+#: admin.php:365 admin.php:416 admin.php:470 admin.php:486 admin.php:508
+#: admin.php:566 admin.php:588
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: admin.php:211 admin.php:237
+msgid "This hook executes immediately before the closing <code>&lt;/body&gt;</code> tag."
+msgstr "Este gancho se ejecuta inmediatamente antes del cierre de la etiqueta <code>&lt;/body&gt;</code>."
+
+#: admin.php:205
+msgid "This hook executes immediately before the closing <code>&lt;/head&gt;</code> tag."
+msgstr "Este gancho se ejecuta inmediatamente después del cierre de la etiqueta <code>&lt;/head&gt;</code>."
+
+#: admin.php:197
+msgid "Footer Hooks"
+msgstr "Ganchos de pie de página"
+
+#: admin.php:196
+msgid "Sidebar Hooks"
+msgstr "Ganchos de barra lateral"
+
+#: admin.php:195
+msgid "Comment Form Hooks"
+msgstr "Ganchos de formulario de comentarios"
+
+#: admin.php:194
+msgid "Single Comment Hooks"
+msgstr "Ganchos de comentarios"
+
+#: admin.php:193
+msgid "Ping List Hooks"
+msgstr "Ganchos de la lista de Ping"
+
+#: admin.php:192
+msgid "Comment List Hooks"
+msgstr "Ganchos de lista de comentarios"
+
+#: admin.php:190
+msgid "Post/Page Hooks"
+msgstr "Ganchos de Post/Páginas"
+
+#: admin.php:188
+msgid "Entry Hooks"
+msgstr "Ganchos de entrada"
+
+#: admin.php:185
+msgid "Loop Hooks"
+msgstr "Ganchos de bucle"
+
+#: admin.php:184
+msgid "Content Hooks"
+msgstr "Ganchos de contenidos"
+
+#: admin.php:183
+msgid "Header Hooks"
+msgstr "Ganchos de cabecera"
+
+#: admin.php:182
+msgid "Document Hooks"
+msgstr "Ganchos de documento"
+
+#: admin.php:181
+msgid "WordPress Hooks"
+msgstr "Ganchos de WordPress"
+
+#: admin.php:31
+msgid "Simple Hooks"
+msgstr "Simple Hooks"
+
+#: admin.php:30
+msgid "Genesis - Simple Hooks"
+msgstr "Genesis - Simple Hooks"

@@ -1,0 +1,51 @@
+.fc-content-image.i6-c5-off-canvas {
+	overflow: hidden;
+
+	.content-image-wrap {
+
+		.content {
+			@include bp(wide) {
+				lost-column: 5/12;
+			}
+		}
+
+		.image {
+			@include bp(wide) {
+				lost-column: 9/12;
+				order: 0;
+			}
+
+			img {
+				@include bp(med wide) {
+					width: 100%;
+				}
+			}
+		}
+
+	}
+
+	.content-right {
+		@include bp(wide) {
+			flex-direction: row-reverse;
+		}
+
+		.image {
+			margin-left: auto !important;
+			margin-right: auto !important;
+
+			@include bp(wide) {
+				lost-column: 9/12;
+				lost-offset: 1/12;
+			}
+		}
+
+		.content {
+			@include bp(wide) {
+				margin-left: 0 !important;
+				margin-right: 0 !important;
+				padding-left: 0;
+				order: 0;
+			}
+		}
+	}
+}

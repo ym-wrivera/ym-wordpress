@@ -1,0 +1,51 @@
+/* # Content Area
+---------------------------------------------------------------------------------------------------- */
+
+/* ## Entries
+--------------------------------------------- */
+
+.entry {
+	@include padding(30px null 0);
+	background-color: #fff;
+	margin-bottom: em(70);
+}
+
+
+/* ## Entry Content
+--------------------------------------------- */
+
+.entry-content {
+	code {
+		background-color: #333;
+		color: #eee;
+	}
+}
+/* ## Entry Footer
+--------------------------------------------- */
+
+/* ## Entry Meta
+--------------------------------------------- */
+
+p.entry-meta {
+	@include font-size(16);
+	margin-bottom: 0;
+}
+
+.entry-header .entry-meta {
+	margin-bottom: 24px;
+}
+
+.entry-footer .entry-meta {
+	border-top: 1px solid #eee;
+	padding-top: 24px;
+}
+
+.entry-categories,
+.entry-tags {
+	display: block;
+}
+
+.entry-comments-link::before {
+	content: "\2014";
+	margin: 0 6px 0 2px;
+}

@@ -1,0 +1,19 @@
+.author-box {
+	background-color: #fff;
+	@include font-size(18);
+	margin-bottom: 40px;
+	padding: 60px;
+
+	@include media($medium-screen-up) {
+		padding: 30px;
+		margin-bottom: 5%;
+	}
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+}
+
+.author-box-title {
+	@include font-size(20);
+}

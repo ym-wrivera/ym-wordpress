@@ -1,0 +1,102 @@
+/* # Site Header
+---------------------------------------------------------------------------------------------------- */
+@import "title-area";
+
+$headerHeightMobile: rem(95);
+$headerHeightTablet: rem(115);
+$headerHeightDesktop: rem(130);
+
+$logoHeightDesktop: rem(80);
+$logoHeightMobile: rem(57);
+
+
+
+.site-header {
+	background-color: $white;
+	z-index: 11;
+
+	@include bp(large wide) {
+
+		$halfHeaderHeight: $headerHeightTablet / 2;
+		$halfLogoHeight: $logoHeightMobile / 2;
+
+		.site-title {
+			margin: calc(#{$halfHeaderHeight} - #{$halfLogoHeight}) 0;
+		}
+	}
+
+	@include bp(wide) {
+		transition: all 0.4s ease-in-out;
+	}
+
+	& > .wrap {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		position: relative;
+
+		@include media($large-screen-up) {
+			padding-left: rem(20);
+			padding-right: rem(20);
+		}
+	}
+
+	.title-area {
+		@include media($xlarge-screen-up) {
+			width: 100%;
+		}
+	}
+
+	.nav-primary {
+		text-align: right;
+		width: 100%;
+	}
+}
+
+/* # Site Header - .fixed-header
+---------------------------------------------------------------------------------------------------- */
+body.fixed-header {
+	.site-header {
+		position: fixed;
+		top: 0;
+		width: 100%;
+	}
+
+	.site-title {
+		img {
+			@include bp(wide) {
+				margin: rem(10) 0;
+			}
+		}
+	}
+
+	.desktop-logo {
+		@include bp(wide) {
+			display: none;
+		}
+	}
+
+	.custom-logo {
+		@include bp(wide) {
+			display: block;
+		}
+	}
+
+	.ubermenu .ubermenu-target {
+		padding-bottom: 0;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

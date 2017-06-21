@@ -1,0 +1,408 @@
+# Copyright (C) 2016 Rescue Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gateway 1.1.3-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/gateway\n"
+"POT-Creation-Date: 2016-04-16 03:43:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:175
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr ""
+
+#: header-home.php:28 header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header-home.php:62 header.php:45
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Hero Content"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Appears in the header. You may use HTML."
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Video URL"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Appears below the Featured Content."
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Video Content"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Appears next to the video. You may use HTML."
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Header Image Display"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Fixed &mdash; it stays in place while rest of the page scrolls."
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Scroll &mdash; it scrolls along with the rest of the page"
+msgstr ""
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106 inc/template-tags.php:112
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:134
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:136
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:138
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:140
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:166
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:170
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgid "Archives"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "Leave a comment"
+msgstr ""
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/content-home.php:44 template-parts/content-page.php:37
+#: template-parts/content-single.php:37 template-parts/content.php:41
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:23
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Gateway"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "https://wordpress.com/themes/gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid ""
+"Gateway is the perfect mix of class and elegance, a traditional yet "
+"customizable home for your content. Reinforce your brand with a site logo, "
+"add a bold header image and call to action, and showcase your best posts or "
+"a video with a special Homepage template."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Rescue Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "https://rescuethemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr ""

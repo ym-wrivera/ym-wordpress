@@ -1,0 +1,79 @@
+.fc-content-image.i7-c5 {
+	@include padding(rem(60) 0);
+
+	.content-left {
+		@include bp(wide) {
+			flex-direction: row-reverse;
+		}
+
+		.content {
+			@include margin(0 0 null 0);
+
+			@include bp(wide) {
+				lost-column: 5/12;
+			}
+
+			.entry-content {
+				margin-bottom: 0;
+
+				@include bp(large) {
+					margin-bottom: 0;
+				}
+
+				> p {
+					margin-bottom: 0;
+				}
+			}
+
+			.button-group {
+				margin-top: rem(30);
+			}
+
+		}
+
+		.image {
+			padding-bottom: 2em;
+
+			@include bp(large) {
+				margin-top: 0;
+			}
+
+			@include bp(wide) {
+				padding-bottom: 0;
+				lost-column: 6/12;
+				lost-offset: -1/12;
+			}
+		}
+	}
+
+
+	.content-right {
+		.image {
+			padding-bottom: 2em;
+
+			@include bp(large) {
+				margin-top: 0;
+			}
+
+			@include bp(wide) {
+				padding-bottom: 0;
+				lost-column: 6/12;
+			}
+		}
+
+		.content {
+			margin-top: 0;
+
+			@include bp(wide) {
+				lost-offset: -1/12;
+				padding-left: 0;
+				order: 0;
+			}
+
+			.entry-content {
+				margin-bottom: 0;
+
+			}
+		}
+	}
+}

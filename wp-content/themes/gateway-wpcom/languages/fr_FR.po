@@ -1,0 +1,363 @@
+# Translation of Gateway in French (France)
+# This file is distributed under the same license as the Gateway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-05 16:44:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Gateway\n"
+
+#: header-home.php:62 header.php:45
+msgid "Menu"
+msgstr "Menu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Gateway est un mélange parfait de classe et d’élégance. D’une facture visuelle classique, il vous permet de personnaliser vos contenus. Renforcez l’image de votre marque en ajoutant votre logo et une image d’en-tête audacieuse et attrayante. Mettez en valeur vos meilleurs articles ou une vidéo grâce à un modèle spécial de page d'accueil."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr "Pleine largeur, sans barre latérale"
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Contenu Introuvable. Voulez-vous lancer une nouvelle recherche&nbsp;?"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Contenu Introuvable. Réessayez en modifiant les termes de recherche."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pr&ecirc;t &agrave; publier votre premier article ? <a href=\"%1$s\">Allons-y !</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: template-parts/content-home.php:44 template-parts/content-page.php:37
+#: template-parts/content-single.php:37 template-parts/content.php:41
+msgid "Edit"
+msgstr "Modifier"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1 commentaire"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Résultat de Recherche pour: %s"
+
+#: inc/template-tags.php:172
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:170
+msgid "%1$s: %2$s"
+msgstr "%1$s&nbsp;: %2$s"
+
+#: inc/template-tags.php:166
+msgid "Archives: %s"
+msgstr "Archives&nbsp;: %s"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Son"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuts"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartés"
+
+#: inc/template-tags.php:144
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:144
+msgid "Day: %s"
+msgstr "Jour: %s"
+
+#: inc/template-tags.php:142
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:142
+msgid "Month: %s"
+msgstr "Mois: %s"
+
+#: inc/template-tags.php:140
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:140
+msgid "Year: %s"
+msgstr "Ann&eacute;e: %s"
+
+#: inc/template-tags.php:138
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:136
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:134
+msgid "Category: %s"
+msgstr "Cat&eacute;gorie: %s"
+
+#: inc/template-tags.php:114
+msgid "Tagged %1$s"
+msgstr "Tagu&eacute; %1$s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106 inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articles Plus R&eacute;cents"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articles précédents"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "Modèle de page d'accueil "
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "Titre de l&rsquo;accroche"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "Apparaît dans l'en-tête."
+
+#: inc/customizer.php:51
+msgid "Hero Content"
+msgstr "Contenu de l&rsquo;accroche"
+
+#: inc/customizer.php:52
+msgid "Appears in the header. You may use HTML."
+msgstr "Apparaît dans l'en-tête. Vous pouvez utiliser du HTML."
+
+#: inc/customizer.php:64
+msgid "Video URL"
+msgstr "URL de la vidéo"
+
+#: inc/customizer.php:65
+msgid "Appears below the Featured Content."
+msgstr "Apparait sous le contenu à la Une."
+
+#: inc/customizer.php:77
+msgid "Video Content"
+msgstr "Contenu de la vidéo"
+
+#: inc/customizer.php:78
+msgid "Appears next to the video. You may use HTML."
+msgstr "Apparaît à côté de la vidéo. Vous pouvez utiliser du HTML."
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "Général"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "Ville"
+
+#: header-home.php:28 header.php:23
+msgid "Skip to content"
+msgstr "Aller au contenu principal"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:175
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Lire la suite <span class=\"screen-reader-text\">%1$s</span>"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "Pied de Page 2"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "Pied&nbsp;de&nbsp;page&nbsp;3"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "Pied&nbsp;de&nbsp;page&nbsp;1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème %1$s par %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires Plus Récents &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Précédents"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une r&eacute;flexion sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s r&eacute;flexions sur &ldquo;%2$s&rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez du c&ocirc;t&eacute; des archives mensuelles. %1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de Recherche ou les Liens ci-dessous vous remettront peut-être sur la voie&hellip;"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page est introuvable."

@@ -1,0 +1,38 @@
+/* ## Objects
+--------------------------------------------- */
+
+embed,
+iframe,
+img,
+object,
+video,
+.wp-caption {
+	max-width: 100%;
+}
+
+img {
+	height: auto;
+}
+
+figure {
+	margin: 0;
+}
+
+//.svg-container {
+//	display: inline-block;
+//	position: relative;
+//	height: 0;
+//	width: 100%;
+//	//Default for 1:1 aspect ratio
+//	padding: 0 0 100%;
+//	vertical-align: middle;
+//	overflow: hidden;
+//}
+//
+//
+//.svg {
+//	display: inline-block;
+//	position: absolute;
+//	top: 0;
+//	left: 0;
+//}

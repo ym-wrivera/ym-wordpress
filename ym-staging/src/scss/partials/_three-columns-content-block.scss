@@ -1,0 +1,31 @@
+.fc-three-columns {
+	.wrap {
+		@include padding(0);
+		lost-flex-container: column;
+
+		@include bp(med) {
+
+		}
+
+		@include bp(large) {
+			lost-flex-container: row;
+			flex-wrap: nowrap;
+		}
+	}
+
+	.columns {
+		@include padding(rem(80) rem(30));
+
+		@include bp(large) {
+			lost-column: 4/12 0 0;
+		}
+
+		h2, p {
+			color: $white;
+		}
+	}
+
+	.column-icon {
+		margin-bottom: rem(20);
+	}
+}

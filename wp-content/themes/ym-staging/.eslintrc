@@ -1,0 +1,26 @@
+{
+	"extends": "standard",
+	"env": {
+		"es6": true,
+		"browser": true,
+		"jquery": true,
+		"commonjs": true,
+		"node": false
+	},
+	"globals": {
+		"document": false,
+		"navigator": false,
+		"window": false,
+		"undefined": false
+	},
+	"rules": {
+		"yoda": [
+			1,
+			"always"
+		]
+	},
+	"spaced-comment": [
+		0,
+		"never"
+	]
+}

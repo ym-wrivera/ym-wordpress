@@ -1,0 +1,51 @@
+$btn-green: $green-main;
+$btn-teal: $teal1;
+$btn-slate: $slate-dark;
+
+
+.button,
+#{$all-buttons} {
+  @include padding(10px 15px);
+  @include font-size(14);
+  appearance: none;
+  background-color: $green-main;
+  border: 1px solid $green-main;
+  border-radius: $base-border-radius;
+  box-shadow: $box-shadow;
+  color: $white;
+  cursor: pointer;
+  display: inline-block;
+  font-family: $base-font-family;
+  -webkit-font-smoothing: antialiased;
+  font-weight: $fw-bold;
+  letter-spacing: -0.25px;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: 0.2s ease-in-out;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+
+  &:hover,
+  &:focus {
+    background-color: shade($green-main, 15%);
+    border-color: shade($green-main, 15%);
+    box-shadow: none;
+    color: $white;
+    font-weight: $fw-bold;
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+
+    &:hover {
+      background-color: darken($green-main, 15%);
+      border-color: darken($green-main, 15%);
+    }
+  }
+}
+
+

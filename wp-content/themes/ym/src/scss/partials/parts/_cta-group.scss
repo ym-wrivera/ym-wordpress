@@ -1,0 +1,13 @@
+.cta-section {
+	@include padding(rem(85) 0);
+	text-align: center;
+
+	.fc-title-group {
+		margin: 0;
+		padding: 0;
+	}
+
+	h1 {
+		color: $white;
+	}
+}

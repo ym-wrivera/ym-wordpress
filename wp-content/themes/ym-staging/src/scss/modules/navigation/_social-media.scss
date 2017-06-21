@@ -1,0 +1,41 @@
+.social-media-menu-widget {
+	h6 {
+		margin-bottom: rem(20);
+	}
+
+	.social-nav {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		list-style: none;
+	}
+
+	li {
+		display: inline-block;
+		*display: inline;
+		zoom: 1;
+	}
+
+	a {
+		color: $white;
+		text-align: center;
+		width: em(25);
+		height: em(25);
+		border-radius: 50px;
+		margin-right: rem(10);
+
+		&:last-child {
+			margin: 0;
+		}
+	}
+
+	img {
+		transform: scale(0.95);
+		margin-right: 0.625rem;
+
+		&:hover {
+			transform: scale(1);
+			transition: scale 350ms cubic-bezier(0, 0.88, 1, 1);
+		}
+	}
+}

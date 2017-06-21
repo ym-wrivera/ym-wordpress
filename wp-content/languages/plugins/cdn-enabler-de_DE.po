@@ -1,0 +1,91 @@
+# Translation of Development (trunk) in German
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-17 16:38:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: inc/cdn_enabler_settings.class.php:141
+msgid "Exclusions"
+msgstr "Ausschlüsse"
+
+#: inc/cdn_enabler_settings.class.php:151
+msgid "Enter the exclusions (directories or extensions) separated by"
+msgstr "Eingabe der Ausschlüsse (Verzeichnisse oder Dateiendungen) separiert durch"
+
+#: inc/cdn_enabler.class.php:123
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/cdn_enabler.class.php:177
+msgid "CDN Enabler is optimized for WordPress %s. Please disable the plugin or upgrade your WordPress installation (recommended)."
+msgstr "Der CDN Enabler ist optimiert für WordPress %s. Bitte Plugin deaktivieren oder WordPress aktualisieren (empfohlen)."
+
+#: inc/cdn_enabler_settings.class.php:90
+msgid "CDN Enabler Settings"
+msgstr "CDN Enabler Einstellungen"
+
+#: inc/cdn_enabler_settings.class.php:94
+msgid "Combine CDN Enabler with <b><a href=\"%s\">%s</a></b> for even faster WordPress performance."
+msgstr "Kombiniere den CDN Enabler mit <b><a href=\"%s\">%s</a></b> für noch bessere WordPress Performance."
+
+#: inc/cdn_enabler_settings.class.php:106
+msgid "CDN URL"
+msgstr "CDN URL"
+
+#: inc/cdn_enabler_settings.class.php:115
+msgid "Enter the CDN URL without trailing"
+msgstr "Eingabe der CDN URL ohne abschliessenden"
+
+#: inc/cdn_enabler_settings.class.php:123
+msgid "Included Directories"
+msgstr "Eingeschlossene Verzeichnisse"
+
+#: inc/cdn_enabler_settings.class.php:129
+msgid "Default: <code>wp-content,wp-includes</code>"
+msgstr "Standard: <code>wp-content,wp-includes</code>"
+
+#: inc/cdn_enabler_settings.class.php:133
+msgid "Assets in these directories will be pointed to the CDN URL. Enter the directories separated by"
+msgstr "Dateien in diesen Verzeichnissen werden mit der CDN URL verknüpft. Eingabe der Verzeichnisse erfolgt separiert durch "
+
+#: inc/cdn_enabler_settings.class.php:147
+msgid "Default: <code>.php</code>"
+msgstr "Standard: <code>.php</code>"
+
+#: inc/cdn_enabler_settings.class.php:159
+msgid "Relative Path"
+msgstr "Relativer Pfad"
+
+#: inc/cdn_enabler_settings.class.php:165
+msgid "Enable CDN for relative paths (default: enabled)."
+msgstr "Aktiviert das CDN für relative Pfade (Standard: aktiviert)."
+
+#: inc/cdn_enabler_settings.class.php:173
+msgid "CDN HTTPS"
+msgstr "CDN HTTPS"
+
+#: inc/cdn_enabler_settings.class.php:179
+msgid "Enable CDN for HTTPS connections (default: disabled)."
+msgstr "Aktiviert das CDN für HTTPS Verbindungen (Standard: deaktiviert)."
+
+#. Plugin Name of the plugin/theme
+msgid "CDN Enabler"
+msgstr "CDN Enabler"
+
+#. Description of the plugin/theme
+msgid "Simply integrate a Content Delivery Network (CDN) into your WordPress site."
+msgstr "Einfache Integration eines Content Delivery Network (CDN) in deiner WordPress Seite."
+
+#. Author of the plugin/theme
+msgid "KeyCDN"
+msgstr "KeyCDN"
+
+#. Author URI of the plugin/theme
+msgid "https://www.keycdn.com"
+msgstr "https://www.keycdn.com"

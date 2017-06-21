@@ -1,0 +1,20 @@
+.sprinkles-overlay {
+	display: none;
+	background-color: transparent;
+	padding-bottom: rem(120);
+	text-align: center;
+	z-index: 5;
+
+	@include bp(500px) {
+		display: block;
+	}
+
+	@include bp(wide) {
+		padding-bottom: rem(170);
+	}
+
+	svg {
+		max-width: 1400px;
+		margin: auto;
+	}
+}

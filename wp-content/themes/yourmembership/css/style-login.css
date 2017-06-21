@@ -1,0 +1,74 @@
+body, html {
+	background:#fff;
+	height: 100%;
+}
+
+body:before {
+	background-image: url(../images/decor.png);
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	content: "";
+	width: 500px;
+	height: 453px;
+	background-size: cover;
+}
+
+body:after {
+	background-image: url(../images/decor.png);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	display: block;
+	content: "";
+	width: 300px;
+	height: 272px;
+	background-size: cover;
+ -webkit-transform: rotate(180deg);     /* Chrome and other webkit browsers */
+  -moz-transform: rotate(180deg);        /* FF */
+  -o-transform: rotate(180deg);          /* Opera */
+  -ms-transform: rotate(180deg);         /* IE9 */
+  transform: rotate(180deg);             /* W3C compliant browsers */	
+}
+
+.login #backtoblog a, .login #nav a, .login h1 a {
+    text-decoration: none;
+    color: #2B2B2B;
+}
+
+#login {
+    width: 420px;
+    padding: 3% 0 0;
+    margin: auto;
+    position: relative;
+    z-index: 20;
+}
+
+.login h1 a {
+    background-image: url(../images/yourmembershiplogo.png);
+    background-image: none,url(../images/yourmembershiplogo.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    -webkit-background-size: auto;
+    background-size: auto;    
+    height: 218px;
+    font-size: 20px;
+    line-height: 1.3em;
+    margin: 0 auto 25px;
+    padding: 0;
+    width: 418px;
+    text-indent: -9999px;
+    outline: 0;
+    display: block;
+}
+
+.login form {
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px 46px;
+    background: #F5F5F5;
+    -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.13);
+    box-shadow: 0 1px 3px rgba(0,0,0,.13);
+    border: 1px solid #E4E4E4;
+}

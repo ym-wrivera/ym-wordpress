@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://yourmembership.com/xmlrpc.php">
+
+<title>Technology - YourMembership</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://yourmembership.com/company/technology/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Technology - YourMembership" />
+<meta property="og:description" content="As the leading SaaS-based membership management software in the industry, YourMembership is built on a foundation that ensures our customers’ success. Our technology features and security measures are of the highest quality and constantly enhanced to delivery stability and confidence. Network Operations Center YourMembership&#8217;s primary Network Operations Center (NOC) is at DataSite Orlando. DataSite is &hellip;" />
+<meta property="og:url" content="http://yourmembership.com/company/technology/" />
+<meta property="og:site_name" content="YourMembership" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/hands-typing.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/top-view-city.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="As the leading SaaS-based membership management software in the industry, YourMembership is built on a foundation that ensures our customers’ success. Our technology features and security measures are of the highest quality and constantly enhanced to delivery stability and confidence. Network Operations Center YourMembership&#8217;s primary Network Operations Center (NOC) is at DataSite Orlando. DataSite is [&hellip;]" />
+<meta name="twitter:title" content="Technology - YourMembership" />
+<meta name="twitter:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/hands-typing.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700%2C900&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel-css'  href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/bxslider-custom.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='yourmembership-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ym-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/ym-original.css?ver=4.7.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	// Function to detect opted out users
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	// Disable tracking if the opt-out cookie exists.
+	var disableStr = 'ga-disable-UA-398613-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	// Opt-out function
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-398613-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/yourmembership.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='https://api.w.org/' href='http://yourmembership.com/wp-json/' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://yourmembership.com/?p=26' />
+<link rel="alternate" type="application/json+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fcompany%2Ftechnology%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fcompany%2Ftechnology%2F&#038;format=xml" />
+<script src='http://wp.ymem.net/?dm=72abc42b20854fd0cf9ea67268a3e7c1&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=314801377&amp;back=http%3A%2F%2Fyourmembership.com%2Fcompany%2Ftechnology%2F' type='text/javascript'></script><style type="text/css">
+#author-bio-box {
+width:100%;
+background: #fbfbfb;
+border: 3px solid #f5f5f5;
+box-shadow: none;
+padding: 10px;
+        position: relative;
+        overflow: hidden;
+}
+#author-bio-box img {
+margin-right: 10px;
+margin-bottom: 2px;
+}
+#author-bio-box .avatar {
+        float:left;
+}
+#author-bio-box .author-name {
+font-weight: bold;
+margin: 0px;
+font-size: 14px;
+}
+#author-bio-box p {
+font-size: 16px;
+line-height: 18px;
+}
+#author-bio-box thead th {
+border: 0;
+}
+#author-bio-box tbody {
+border: 0;
+}
+.bio-spacer { min-height:44px; padding: 1px; display: block; clear: both; border:1px;}
+.bio-socials {
+border-bottom:none;
+border-left:none;
+border-right:none;
+width: 100%;
+height: auto;
+clear: both;
+}
+</style></head>
+
+<body class="page-template-default page page-id-26 page-child parent-pageid-21">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZMRHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZMRHW');</script>
+<!-- End Google Tag Manager -->
+
+<div id="request-demo">
+	<div id="demo-tab">
+		<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/demo-tab.png">
+	</div>
+	<div id="demo-form">
+		<a id="close" class="demo-close" href="javascript:void(0);">
+			<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/close.png">
+		</a>
+				<iframe src="http://go.yourmembership.com/l/134231/2016-01-07/r8q" width="100%" height="540" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>	</div>
+</div>
+
+<header class="header">
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		 
+			<div class="announce-bar">
+				<div class="container">
+					YourMembership launches SocialLink! <a href="/products/sociallink">Learn more</a>				</div>
+			</div>
+				<div class="container">
+			<div class="navbar-header">
+				<a class="nav-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="menu-text">Menu</span>
+				</a>
+				<a class="navbar-brand" href="/">yourmembership.com</a>
+			</div>
+			<div class="nav-main">
+				<div class="menu-primary-menu-container"><ul id="primary-menu" class="primary-menu"><li id="menu-item-8843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8843"><a>Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-8844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8844"><a href="http://yourmembership.com/products/sociallink/">All-New SocialLink</a></li>
+	<li id="menu-item-8845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8845"><a href="http://yourmembership.com/products/membership-software/">Membership Software</a></li>
+	<li id="menu-item-8846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8846"><a href="http://yourmembership.com/products/career-center/">Career Center + Job Boards</a></li>
+	<li id="menu-item-8847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8847"><a href="http://yourmembership.com/products/buyers-guides/">Ad + Media Solutions</a></li>
+	<li id="menu-item-8848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8848"><a href="http://yourmembership.com/products/learning-management-system/features/">Online Learning Management</a></li>
+	<li id="menu-item-8849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8849"><a href="http://yourmembership.com/products/mobile-event-app/">Mobile Event App</a></li>
+</ul>
+</li>
+<li id="menu-item-8850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8850"><a>Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-8851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8851"><a href="http://yourmembership.com/partner-programs-2/">Affiliate Partner Programs</a></li>
+	<li id="menu-item-8852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8852"><a href="http://yourmembership.com/partner-programs-2/association-management-company/">AMC Partner Program</a></li>
+</ul>
+</li>
+<li id="menu-item-8853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8853"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8854"><a href="http://yourmembership.com/resource-library/upcoming/">Events + Webinars</a></li>
+	<li id="menu-item-8855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8855"><a href="http://yourmembership.com/resource-library/">Resource Library</a></li>
+	<li id="menu-item-8856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8856"><a href="http://yourmembership.com/resource-library/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-8857" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-8857"><a href="http://%20">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-8858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8858"><a href="http://yourmembership.com/company/clients/">Company + Clients</a></li>
+	<li id="menu-item-8859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8859"><a href="http://yourmembership.com/company/management-team/">Meet Our Team</a></li>
+	<li id="menu-item-8860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8860"><a href="http://yourmembership.com/company/customer-service/">Customer Support</a></li>
+	<li id="menu-item-8861" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-26 current_page_item menu-item-8861"><a href="http://yourmembership.com/company/technology/">Technology</a></li>
+	<li id="menu-item-8862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8862"><a href="http://yourmembership.com/news/">In the News</a></li>
+	<li id="menu-item-8863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8863"><a href="http://yourmembership.com/company/responsibility/">Corporate Responsibility</a></li>
+</ul>
+</li>
+</ul></div>				<ul class="toolbar">
+					<li class="contact"><a href="/contact">Contact</a></li>
+					<li class="blog"><a href="/resource-library/blog">Blog</a></li>
+					<li class="careers"><a href="http://www.recruitingsite.com/csbsites/yourmembership/index.asp">Careers</a></li>
+				</ul>				
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</header>
+
+
+<div id="content" class="site-content">
+	
+
+	
+
+
+
+
+
+			<div class="image-header" style="background-image:url(7);">
+			<div class="image-header-inner container">
+				<div class="title">
+					<h1>Our Technology</h1>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-26" class="post-26 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<section id="technology" class="two-col">
+<div class="centered container mtop-50">
+<p>    <!-- Begin Left Rail --></p>
+<div class="col-md-7 col-xs-12">
+<p>As the leading SaaS-based membership management software in the industry, YourMembership is built on a foundation that ensures our customers’ success.<br />
+Our technology features and security measures are of the highest quality and constantly enhanced to delivery stability and confidence.</p>
+<h3>Network Operations Center</h3>
+<p>YourMembership&#8217;s primary Network Operations Center (NOC) is at DataSite Orlando.  DataSite is Tier III designed and SSAE 16 Type II Certified, providing the most robust IT infrastructure facility available.</p>
+<ul class="col-md-6 ptop-25 pbottom-25 pleft-25">
+<li>130,000 Square Foot Purpose-Built Data Center Fortress</li>
+<li>Diverse High Voltage Substations on Separate Power Grids</li>
+<li>3 Jet Turbine Generators</li>
+<li>8.4 Megawatt Generator Plant</li>
+<li>Dual Concrete Encased Fiber Duct Banks</li>
+<li>Multiple Diverse UPS + Battery Rooms</li>
+<li>2,750 Ton Centrifugal Chiller Plant</li>
+<li>3N Redundant Water Supply</li>
+<li>Forty Thousand Gallons of Reserve Fuel Stored Underground</li>
+</ul>
+<ul class="col-md-6 ptop-25 pbottom-25 pleft-25">
+<li>Three Above Ground 440 Gallon Day Tanks</li>
+<li>7/24/365 On-Site Security Guards</li>
+<li>Vehicle Blockades, Bulletproof Walls, Biometric + Keycard Access</li>
+<li>Extensive Video Surveillance Systems</li>
+<li>Redundant Fiber Providers Running BGP</li>
+<li>Cisco Routing, Firewalls and Intrusion Detection Systems</li>
+<li>7&#215;24 Service-aware Application Monitoring</li>
+</ul>
+<div class="clearfix"></div>
+</div>
+<div class="col-md-1 hidden-xs hidden-sm"></div>
+<div class="col-md-4 col-xs-12  hidden-xs hidden-sm">
+            <img class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/hands-typing.jpg" />
+        </div>
+</p></div>
+<p><!-- /.container --></p>
+<div id="bg-image" class="sky02 active">
+<div class="container animated">
+<div class="col-xs-12 col-md-6 col-md-push-3 transparent-bg">
+<h3>Headquarters + Backup NOC Overview:</h3>
+<p>Designed with redundancies in place to ensure maximum uptime and accessibility, our corporate headquarters office serves as our backup Network Operations Center. The NOC within our headquarters served as our primary data center facility for twelve years (1998-2010) with a historic uptime of over 99.95%.</p>
+<ul class="pleft-25">
+<li>OC48 Fiber Connectivity</li>
+<li>Cisco Routing, Firewalls and Intrusion Detection Systems</li>
+<li>Liebert Climate Control with Redundancy</li>
+<li>Line Conditioning Powered By High-End APC Units</li>
+<li>Redundant Power via Diesel Caterpillar Generator with Real-Time Transfer Switch</li>
+<li>Actively Monitored Security with 24/7 Card-Key Access, Video and Audio Monitoring</li>
+</ul></div>
+</p></div>
+</div>
+<div class="centered container ptop-50 pbottom-50">
+<div class="col-md-4 col-xs-12  hidden-xs hidden-sm">
+            <img class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/top-view-city.jpg" />
+        </div>
+<div class="col-md-1 hidden-xs hidden-sm"></div>
+<div class="col-md-7 col-xs-12">
+<div class="clearfix"></div>
+<h3>Application Architecture and Redundancies</h3>
+<p>YourMembership&#8217;s applications are not only hosted within a hardened facility with many redundancies, but the network itself is supported by system redundancies of its own. </p>
+<p>Multiple fiber providers connect the application to the Internet. These routes are monitored 24x7x365 by systems that alert YourMembership engineers should an aberration be detected.</p>
+<p>Cisco routing and firewalling optimizes and defends the network against malicious requests and alerts engineers of anomalies.</p>
+<p>The physical servers have redundant disk subsystems, networking and power. The servers run in clusters to handle spikes in usage and provide fault tolerance should an individual node encounter a localized complete system failure.  The web clusters are load balanced so web requests are processed using the most optimal nodes at any given time.</p>
+<p>Database servers operate as clusters which allow pushing the load to a standby server should a primary server encounter a localized system failure. Data is replicated to secondary nodes within minutes of transactions being committed on the primary node. These transactions are also securely replicated to YourMembership&#8217;s secondary facility.</p>
+<p>DNS is hosted in multiple geographic locations including a presence in Europe. YourMembership&#8217;s DNS employs anycast addressing which routes DNS requests to the closest geographic location.</p>
+</p></div>
+</p></div>
+<p><!-- /.container --></p>
+<div id="bg-image" class="side-building active">
+<div class="container animated">
+<div class="col-xs-12 col-md-6 col-md-push-3 transparent-bg">
+<h3>System Security</h3>
+<p>Member data is secure and inaccessible to non-members. All members must maintain a username and password for community access. Initial member registration approval can occur one of two ways. First, members can register and be manually approved via an administrative approval process. Second, non-member importation can include private member known data that will be required as part of the registration and auto-approval process.</p>
+<p>Administrative backend accounts require a username and password and can only be managed by an administrator with account creation rights. Administrators with the right to create accounts may create as many accounts as needed, each with different administrative accessibility (i.e. member profile management, donation management, store order management, mass emailing capability, etc.).</p>
+<p>Passwords are not stored in the database. New and changed passwords are &#8220;hashed&#8221; using industry-standard encryption techniques (SHA1 or MD5). Only hashed versions of passwords are stored. They cannot be decrypted.</p>
+<p>        <a href="/legal/#safe-harbor">YourMembership complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.</a>
+        </div>
+</p></div>
+</div>
+<div class="centered container">
+<h3>Data Backup + Replication + Restore</h3>
+<p>The database systems powering the YourMembership network have multiple redundancies to ensure maximum up-time. Not only does the hardware utilize physical redundancies (redundant disk sub-systems, power, network) but database instances also run as clustered configurations. In the event of a node failure a failover node can assume an active role.</p>
+<p>Data from these systems as well as client-uploaded content are replicated locally to off-application systems as well as geographically to our remote data center in near real-time.</p>
+<p>YourMembership data retention policies ensure data is available for emergency restoration if necessary.</p>
+</p></div>
+<p>    <!-- Begin Right Rail --></p>
+</div>
+</section>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div> <!--/Content-->
+
+
+<footer class="footer">
+	<div class="container">
+		<div class="copyright col-sm-8 col-xs-12"> &copy; 1998-2017, YourMembership Inc. All rights reserved. <span class="links"><a href="/legal/">Privacy Policy</a> | <a href="/company/sitemap/">Sitemap</a></span></div>
+		<div class="social col-sm-4 col-xs-12 text-right">
+			<a href="http://twitter.com/yourmembership" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="http://www.linkedin.com/company/yourmembership-com" target="_blank"><i class="fa fa-linkedin"></i></a>
+			<a href="http://www.facebook.com/pages/YourMembershipcom/91798945325" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://plus.google.com/u/0/113339144649046293573" target="_blank"><i class="fa fa-google-plus"></i></a>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/jquery.mobile.custom.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/modernizr.custom-grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/main.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/global.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/pgaet.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Database Caching 14/22 queries in 0.298 seconds using disk
+
+ Served from: yourmembership.com @ 2017-04-12 05:30:38 by W3 Total Cache -->

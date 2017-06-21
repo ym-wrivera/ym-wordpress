@@ -1,0 +1,57 @@
+*** Gateway Plus Changelog ***
+
+= 1.4.8, Dec 8, 2016 =
+
+* Correct hero widget h1
+
+= 1.4.7, Dec 7, 2016 =
+
+* Correct text domains
+* Change h1s to h3s sidebars
+
+= 1.4.5, Oct 10, 2016 =
+
+* Added support for WPGLOBUS
+
+= 1.4.4, Aug 11, 2016 =
+* Fix font family not updating in customizer preview
+* Added hook for child theme customizer options
+
+= 1.4.3, Aug 3, 2016 =
+* Add Jetpack Infinite Scroll compatibility 
+
+= 1.4.2, Jul 15, 2016 =
+* Added ability to change the position of the sidebar on inner pages 
+
+= 1.4.1, Jun 30, 2016 =
+* Tested for WooCommerce v2.6.1 compatibility
+
+= 1.4, Apr 21, 2015 =
+* Removed default widgets from the inner sidebar
+* Added sass files
+* Updated to Font Awesome v4.6.1
+* Fixed dropdown color setting in customizer
+
+= 1.3, Nov 23, 2015 =
+* Improved theme info dashboard layout
+* Fixed "Post Comment" button color
+* Tested for WooCommerce v2.4.10 compatibility
+
+= 1.2, Aug 4, 2015 =
+* Fixed Google Fonts customizer settings
+* Updated sticky nav for desktop
+* Improved mobile navigation display
+
+= 1.1.1, July 23, 2015 =
+* Fixed false positive theme update notice
+* Fixed Rescue Shortcodes plugin notice on theme info page
+
+= 1.1, July 15, 2015 =
+* Added option to display slider images as fixed
+* Added logo image height and width option
+* Corrected background image behavior for iOS devices
+* Improved post and comments display in mobile
+* Updated .pot translation file
+
+= 1.0, Jul 6, 2015 =
+* Initial release

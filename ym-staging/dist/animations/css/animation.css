@@ -1,0 +1,90 @@
+.ScrollSceneIndicators {
+	z-index: 9999999 !important;
+}
+
+#main {
+	display: block;
+	height: 500px;
+	width: 100%;
+	padding: 40px 0;
+	overflow: hidden;
+}
+
+#scene {
+	display: block;
+	height: 300px;
+	width: 100%;
+	padding: 40px 0;
+}
+
+.sprinkle-1 {
+	transform: rotate(45);
+}
+
+.svg-animated-icons-container {
+	width: 100%;
+	overflow: hidden;
+	clear: both;
+}
+
+.svg-animated-icon-container {
+	display: inline-block;
+	margin: 20px;
+	text-align: left;
+	width: 20%;
+	border: 0;
+	float: left;
+}
+
+.svg-animated-icons-container .card-container svg {
+	transition: .5s;
+}
+
+.svg-animated-icons-container .card-container svg:hover {
+	transform: scale(1.2);
+}
+
+.careers-container,
+.learning-container,
+.media-container,
+.membership-container {
+	display: inline-block;
+	margin: 20px;
+	text-align: left;
+	width: 20%;
+	border: 0;
+	float: left;
+	padding: 10px;
+}
+
+.piggy-bank-container {
+	display: inline-block;
+	margin: 20px;
+	text-align: left;
+	width: 30%;
+	border: 0;
+	float: right;
+}
+
+#piggy-bank-container-1:hover #big-coin {
+	transform: translate(0, 200px);
+	animation: dropin 0.5s ease-in;
+}
+
+@keyframes dropin {
+	0% {
+		transform: translate(0, 0);
+	}
+
+	25% {
+		transform: translate(15px, -5px);
+	}
+
+	80% {
+		transform: translate(28px, 150px);
+	}
+
+	0% 100% {
+		transform: translate(28px, 200px);
+	}
+}

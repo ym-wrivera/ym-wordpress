@@ -1,0 +1,27 @@
+.accordion-section-content .description {
+  margin: 1em 0;
+}
+
+ul.accordion-sub-container li.customize-control {
+  margin-bottom: 1em;
+}
+
+#customize-control-custom_css_textarea textarea {
+	height: 125px;
+}
+#accordion-section-typography .customize-control input[type="text"] {
+	width: 50%;
+}
+
+.accordion-section-content .description.help-text-description {
+    margin: 1em 0;
+}
+.customize-control-title.help-text-title {
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 1em;
+}
+
+/* Radio Images */
+.customize-control-radio-image img { border: 4px solid transparent; }
+.customize-control-radio-image .ui-state-active img { border-color: #00a0d2; }

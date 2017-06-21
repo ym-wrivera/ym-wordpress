@@ -1,0 +1,80 @@
+/* # Site Footer
+---------------------------------------------------------------------------------------------------- */
+
+.site-footer {
+	@include font-size(16);
+	background-color: $white;
+	line-height: 1;
+	text-align: center;
+
+	@include bp(large) {
+		padding-bottom: em(20);
+	}
+
+	p {
+		color: #abb3be;
+		font-size: 12px;
+		line-height: 17px;
+		margin-bottom: 0;
+	}
+
+	.flex-wrap {
+		lost-center: 1200px;
+		align-items: center;
+
+		.widget {
+			margin-bottom: 0;
+			@include media($small-screen-up) {
+				width: 100%;
+			}
+		}
+
+		.textwidget {
+			text-align: left;
+
+			@include media($small-screen-up) {
+				text-align: center;
+			}
+
+			p {
+				font-size: 12px;
+				line-height: 17px;
+			}
+		}
+
+		.menu {
+			margin: 0;
+			display: flex;
+			justify-content: flex-end;
+
+			@include media($small-screen-up) {
+				justify-content: center;
+			}
+
+			a {
+				@include padding(null 10px);
+				color: $slate-light;
+				font-size: 12px;
+				line-height: 17px;
+
+				&:hover,
+				&:focus {
+					color: $slate-dark;
+				}
+			}
+		}
+	}
+
+	.widget {
+		lost-column: 1/2;
+	}
+}
+
+
+
+
+
+
+
+
+

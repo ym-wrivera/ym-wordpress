@@ -1,0 +1,86 @@
+// See tabs.js
+
+.dd-tabs {
+
+	.dd-tabs-nav {
+		display: flex;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.tab-link {
+		flex: 1;
+		margin-right: 4px;
+		padding: 12px;
+		color: $slate-dark;
+		background-color: #f7f7f7;
+		text-align: center;
+		transition: color 0.3s;
+
+		&:last-child {
+			margin-right: 0;
+		}
+
+		&:hover {
+			opacity: 0.9;
+		}
+
+		&.is-active {
+			opacity: 0.9;
+		}
+
+		i, span {
+			margin: 0;
+			padding: 0;
+			line-height: 1;
+		}
+
+		i {
+			font-size: 18px;
+
+			@include bp(large) {
+				margin-bottom: 12px;
+				font-size: 22px;
+			}
+		}
+
+		span {
+			display: none;
+			font-size: 18px;
+
+			@include bp(large) {
+				display: block;
+			}
+		}
+
+	}
+
+	.dd-tab {
+		display: none;
+		background-color: #e7e7e7;
+
+		&.is-active {
+			display: flex;
+		}
+
+		.tab-content {
+			padding: 1.5rem;
+		}
+	}
+
+	// Fallback for no javascript. Is this even needed anymore?
+	&.no-js dd-tabs-nav {
+		display: none;
+	}
+
+	&.no-js .dd-tab {
+		display: block;
+		margin-bottom: 1.5rem;
+
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+

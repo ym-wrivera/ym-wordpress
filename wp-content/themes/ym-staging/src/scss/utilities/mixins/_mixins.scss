@@ -1,0 +1,211 @@
+// Import single file Mixins
+@import "background-svg";
+@import "inline-svg";
+@import "element";
+
+
+// ----------------------------------------------------------------------
+// Rem Output With Pixel Unit Fallback
+// ----------------------------------------------------------------------
+
+//@mixin font-size($sizeValue: 1) {
+//	font-size: $sizeValue + px;
+//	font-size: ($sizeValue / 10) + rem;
+//}
+
+@mixin font-size($sizeValue: 1) {
+	font-size: $sizeValue + px;
+}
+
+
+// ----------------------------------------------------------------------
+// Font Family
+// ----------------------------------------------------------------------
+
+@mixin font($style, $weight) {
+	font-style: $style;
+	font-weight: $weight;
+}
+
+
+
+// ----------------------------------------------------------------------
+// Font Legibility
+// ----------------------------------------------------------------------
+
+////
+/// @author Greg Rickaby
+/// @group wds
+////
+
+/// Improve the font rendering to better match client PSDs. Side effects include: slower
+/// rendering of pages. Use only when necessary!
+///
+/// @example scss - Basic Usage Sass
+///    .foo {
+///        @include font-legibility;
+///    }
+///
+/// @example scss - Basic Usage CSS Output
+///    .foo {
+///          text-rendering: optimizeLegibility;
+///          -moz-font-feature-settings: 'liga', 'kern';
+///          -moz-osx-font-smoothing: grayscale;
+///          -webkit-font-smoothing: antialiased;
+///    }
+
+@mixin font-legibility {
+  -moz-font-feature-settings: "liga", "kern"; // Control over advanced typographic features in OpenType fonts.
+  -moz-osx-font-smoothing: grayscale; // Control the application of anti-aliasing when fonts are rendered in OS X.
+  -webkit-font-smoothing: antialiased; // Control the application of anti-aliasing when fonts are rendered.
+  text-rendering: optimizeLegibility; // Improved kerning pairs & ligatures
+}
+
+
+
+
+// ----------------------------------------------------------------------
+// Font Smoothing
+// ----------------------------------------------------------------------
+
+////
+/// @author Greg Rickaby
+/// @group wds
+////
+
+/// Improve the font rendering to better match client PSDs. Side effects include: slower
+/// rendering of pages. Use only when necessary!
+///
+/// @example scss - Basic Usage Sass
+///    .foo {
+///        @include font-smoothing;
+///    }
+///
+/// @example scss - Basic Usage CSS Output
+///    .foo {
+//			-webkit-font-smoothing: antialiased;
+//			-moz-osx-font-smoothing: grayscale;
+///    }
+
+@mixin font-smoothing {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+
+// ----------------------------------------------------------------------
+// Margin Auto
+// ----------------------------------------------------------------------
+
+@mixin margin-auto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+// ----------------------------------------------------------------------
+// Vertical Align Middle
+// ----------------------------------------------------------------------
+
+////
+/// @author
+/// @group wds
+////
+
+// Usage @mixin vertical-align(middle);
+
+@mixin vertical-align($position: middle) {
+  position: relative;
+
+  @if $position == none {
+	-ms-transform: translateY(0);
+	-webkit-transform: translateY(0);
+	top: auto;
+	transform: translateY(0);
+  } @else if $position == top {
+	-ms-transform: translateY(0%);
+	-webkit-transform: translateY(0%);
+	top: 0%;
+	transform: translateY(0%);
+  } @else if $position == bottom {
+	-ms-transform: translateY(-100%);
+	-webkit-transform: translateY(-100%);
+	top: 100%;
+	transform: translateY(-100%);
+  } @else {
+	-ms-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	top: 50%;
+	transform: translateY(-50%);
+  }
+}
+
+
+
+// ----------------------------------------------------------------------
+// Full Width Containers in Limited Width Parents
+// ----------------------------------------------------------------------
+/// @param {String} $support-type [margin] - 有三个可选值`margin`、`position`、`translate`
+/// @param {Number} $min-width [null] - 父容器最小宽度
+/// @example
+/// //SCSS
+/// .full-width {
+///   @include full-width(margin, 960px);
+/// }
+/// //CSS
+/// .full-width {
+///   margin-left: calc(-50vw + 50%);
+///   margin-right: calc(-50vw + 50%);
+/// }
+@mixin full-width($support-type: margin,$min-width:null) {
+	@if $support-type == 'margin' {
+		margin-left: calc(-50vw + 50%);
+		margin-right: calc(-50vw + 50%);
+	}
+
+	@if $support-type == 'position' {
+		width: 100vw;
+		position: relative;
+		left: 50%;
+		right: 50%;
+		margin-left: -50vw;
+		margin-right: -50vw;
+	}
+
+	@if $support-type == 'translate' {
+		width: 100vw;
+		transform: translateX(calc((#{$min-width} - 100vw) / 2));
+	}
+}
+
+
+
+
+
+// Calc image intrinsic aspect ratio
+@function get-img-aspect-ratio($img-url) {
+	$img-height: image-height(“#{$img-url}”);
+	$img-width: image-width(“#{$img-url}”);
+	$aspect-ratio: $img-height / $img-width;
+	@return $aspect-ratio;
+}
+
+@mixin intrinsic-ratio-bg-img($img-url) {
+	background-size: contain; // note: could also use ‘cover’ but it is less supported.
+	background-position: top right;
+	background-repeat: no-repeat;
+	padding-top: percentage(get-img-aspect-ratio($img-url));
+	height: 0px !important;
+	display: block;
+}
+
+// ----------------------------------------------------------------------
+// Center elements without a wrapper via calc()
+// ----------------------------------------------------------------------
+@mixin center-calc() {
+	padding-left: calc((100vw - 100%) / 2);
+	padding-right: calc((100vw - 100%) / 2);
+}

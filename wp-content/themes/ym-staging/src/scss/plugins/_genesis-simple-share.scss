@@ -1,0 +1,54 @@
+// Genesis Simple Share
+.share-filled {
+
+	.sharrre {
+		background-color: $slate-light;
+		border: none;
+		border-radius: 50%;
+		color: $white;
+		cursor: pointer;
+		display: inline-block;
+		font-family: 'Genericons';
+		font-size: rem(15);
+		margin-right: 0.625rem;
+		text-align: center;
+		transform: scale(0.95);
+		width: rem(25);
+		transition: scale 350ms cubic-bezier(0, 0.88, 1, 1);
+
+		&:hover {
+			color: $white;
+			transform: scale(1);
+		}
+
+		.count,
+		.share {
+			display: none;
+		}
+	}
+
+	.facebook:before {
+		content: '\f204';
+	}
+
+	.pinterest:before {
+		content: '\f209';
+	}
+
+	.twitter:before {
+		content: '\f202';
+	}
+
+	.stumbleupon:before {
+		content: '\f223';
+	}
+
+	.linkedin:before {
+		content: '\f207';
+	}
+
+	.googlePlus:before {
+		content: '\f218';
+	}
+
+}

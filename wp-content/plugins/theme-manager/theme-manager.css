@@ -1,0 +1,15 @@
+.theme-manager table {
+    text-align: left;
+    width: 50%;
+    border-spacing: 3px;
+    padding: 3px;
+}
+.theme-manager a.delete-theme {
+    background: #d54e21 !important;
+    color: #fff !important;
+    border-color: #d54e21 !important;
+}
+.theme-manager .disabled {
+	pointer-events: none;
+	cursor: default;
+}

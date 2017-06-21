@@ -1,0 +1,27 @@
+/* CSS for the menu manager plugin */
+
+#sa-menu-manager ul li, #pkgmenudiv ul li {
+	
+	margin: 10px 20px;
+		
+    text-align: left;
+
+    padding: 5px 5px;
+
+    background-color:#FFFFFF;
+
+    border: 3px solid #B9B9B9;
+}
+
+#sa-menu-manager ul li ul, #pkgmenudiv ul li ul {
+
+	margin-left: 40px;
+}
+
+#sa-menu-manager ul li li, #pkgmenudiv ul li li {
+
+	float: left;
+
+	clear: none;	
+}
+

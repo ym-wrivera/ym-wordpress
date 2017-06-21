@@ -1,0 +1,143 @@
+/* ## Headings
+--------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	@include font(normal, 400);
+	color: $slate-dark;
+	font-family: $gotham;
+	margin-bottom: rem(30);
+	margin-top: 0;
+}
+
+h1 {
+	font-size: rem(38);
+	letter-spacing: -1px;
+	line-height: 44px;
+
+	@include bp(large) {
+		font-size: rem(44);
+		letter-spacing: -1.2px;
+		line-height: 52px;
+	}
+
+	@include bp(wide) {
+		font-size: rem(48);
+		letter-spacing: -1.2px;
+		line-height: 56px;
+	}
+}
+
+h2 {
+	font-size: rem(30);
+	letter-spacing: -0.5px;
+	line-height: 38px;
+
+	@include bp(large) {
+		font-size: rem(36);
+		letter-spacing: -1px;
+	}
+
+	@include bp(wide) {
+		font-size: rem(40);
+		letter-spacing: -1px;
+		line-height: 48px;
+	}
+}
+
+h3 {
+	font-size: rem(30);
+	letter-spacing: -0.5px;
+	line-height: 32px;
+
+	@include bp(large) {
+		font-size: rem(28);
+		letter-spacing: -0.8px;
+		line-height: 36px;
+	}
+
+	@include bp(wide) {
+		font-size: rem(30);
+		line-height: 38px;
+	}
+}
+
+h4 {
+	font-size: rem(24);
+	letter-spacing: -0.5px;
+	line-height: 32px;
+}
+
+h5 {
+	font-size: rem(20);
+	letter-spacing: -0.3px;
+	line-height: 28px;
+}
+
+h6 {
+	font-size: rem(16);
+	line-height: 24px;
+}
+
+
+/**
+	Other Headings
+ */
+$bottom-margin: rem(20);
+
+
+.subheading {
+	color: $slate-light;
+}
+
+.section-header {
+	font-size: rem(24);
+	color: $green1;
+	line-height: 32px;
+}
+
+.section-heading,
+.segment-header {
+	font-size: rem(20);
+	font-weight: $fw-medium;
+	color: $green1;
+	line-height: 28px;
+}
+
+
+
+.sec-segment-header,
+.segment-header-secondary {
+	font-size: rem(20);
+	font-weight: $fw-normal;
+	line-height: 28px;
+}
+
+
+.section-header,
+.section-heading,
+.segment-header,
+.sec-segment-header,
+.segment-header-secondary {
+	margin-bottom: $bottom-margin;
+}
+
+
+/**
+	Class Modifiers
+ */
+.light-grey {
+	color: $slate-light;
+}
+
+.dark-grey {
+	color: $slate-dark;
+}
+
+.green {
+	color: $green1;
+}

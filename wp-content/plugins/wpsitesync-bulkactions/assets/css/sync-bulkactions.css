@@ -1,0 +1,25 @@
+#spectrom_sync.sync-bulkactions-contents {
+	display: inline-block;
+	border: none;
+}
+
+#spectrom_sync.sync-bulkactions-contents .sync-button {
+	width: auto;
+	padding-left: 14px;
+	padding-right: 10px;
+}
+
+#spectrom_sync.sync-bulkactions-contents .sync-button-icon {
+	padding-right: 0;
+}
+
+.sync-bulkactions-msgs {
+	display: block;
+	margin: 0.5rem 2px 0.5rem 0;
+margin: 0.2rem 0.2rem 0.2rem 8.16rem;
+	border: 1px solid #dddddd;
+	background: #fff;
+	padding: 5px;
+	position: absolute;
+position: relative;
+}

@@ -1,0 +1,23 @@
+.fc-title-group {
+	@include padding(rem(30) 0);
+
+	@include bp(large) {
+		@include padding(0 0 rem(40) 0);
+	}
+
+	h2, h3, h4, h5, h6, p {
+		@include bp(large) {
+			lost-column: 8/12;
+			lost-offset: -2/12;
+		}
+	}
+
+	> * {
+		text-align: center;
+	}
+
+	> *:first-child {
+		margin-bottom: rem(20);
+	}
+}
+

@@ -1,0 +1,49 @@
+/*! ##
+	Theme Name: YM
+	Theme URI: http://www.yourmembership.com/
+	Description: Child theme for Your Membership.
+	Author: Developing Designs
+	Author URI: https://www.developingdesigns.com/
+	Version: 1.0.0
+	Template: genesis
+	Template Version: 2.3.0
+*/
+
+// Importing Utilities - Variables, Mixins
+@import "utilities/utilities";
+
+// Importing Bourbon, Neat, Refills and _grid_settings.scss
+@import "vendor/normalize";
+@import "vendor/bourbon/bourbon";
+@import "utilities/grid/neat";
+@import "vendor/neat/neat";
+@import "base/base";
+
+// NPM Plugins
+@import "npm-plugins/npm-plugins";
+
+// Theme scss
+@import "components/components";
+@import "structure/structure";
+@import "templates/templates";
+@import "widgets/widgets";
+@import "modules/modules";
+
+// Partials
+@import "partials/partials";
+
+
+// Pages
+@import "pages/pages";
+
+
+// Plugins
+@import "plugins/plugins";
+
+
+// Print
+@media print {
+	@import "print";
+}
+
+@include disable-prefix-for-all();

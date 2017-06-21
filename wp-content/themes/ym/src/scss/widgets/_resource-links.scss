@@ -1,0 +1,67 @@
+// Resource Links Widget
+.resource-links-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	@include bp(wide) {
+		align-items: flex-start;
+	}
+
+	> a {
+		min-width: rem(278);
+
+		@include bp(wide) {
+			width: 100%;
+		}
+	}
+
+	h3 {
+		margin-bottom: 3.125rem;
+	}
+
+	.resource-links {
+		@include padding(em(20) em(30));
+		background: $white;
+		margin-bottom: em(30);
+		min-height: 90px;
+		display: flex;
+		align-items: center;
+
+		&:hover {
+			box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.06);
+
+			h5 {
+				color: $green3;
+			}
+
+			svg {
+				path {
+					fill: $green3 !important;
+				}
+			}
+		}
+
+		figure {
+			width: rem(60);
+		}
+
+		h5 {
+			font-size: em(20);
+			flex: 2;
+			margin-bottom: 0;
+			padding-left: rem(10);
+			color: $slate-light;
+			transition: color 0.3s ease-in;
+		}
+
+		svg {
+			path {
+				transition: fill 0.3s ease-in;
+			}
+		}
+	}
+
+}
+

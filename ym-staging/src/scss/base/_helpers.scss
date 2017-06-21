@@ -1,0 +1,16 @@
+// CSS Helpers
+$left: left;
+$center: center;
+$right: right;
+
+.text-left {
+	text-align: $left;
+}
+
+.text-center {
+	text-align: $center;
+}
+
+.text-right {
+	text-align: $right;
+}

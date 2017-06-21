@@ -1,0 +1,39 @@
+.fc-content {
+	@include padding(em(40) 0 );
+	text-align: center;
+
+	@include bp(large) {
+		@include padding(em(40) 0 em(60));
+	}
+
+	@include bp(wide) {
+		@include padding(em(40) 0 em(100));
+	}
+
+	.content-wrap {
+		@include bp(small) {
+			lost-column: 10/12;
+			lost-offset: -1/12;
+		}
+
+		@include bp(large) {
+			lost-column: 8/12;
+			lost-offset: -2/12;
+		}
+
+		.fc-title-group {
+			@include padding(0);
+		}
+
+		figure {
+			margin-bottom: em(40)
+		}
+
+		p {
+			color: #6f7b85;
+			font-size: rem(18);
+			line-height: 26px;
+		}
+	}
+}
+

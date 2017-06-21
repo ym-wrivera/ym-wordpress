@@ -1,0 +1,36 @@
+ul,
+ol {
+  list-style-type: none;
+  font-size: em(15);
+  line-height: 23px;
+  margin-bottom: em(40);
+  margin-left: em(20);
+  padding-left: em(8);
+
+  & & {
+    margin-bottom: 0;
+  }
+}
+
+.checkmark-list {
+  list-style-image: inline('dist/images/checkmark.svg');
+  background-size: size('dist/images/checkmark@2x.png', 2);
+}
+
+li:not(.menu-item) {
+  list-style-type: disc;
+}
+
+dl {
+  margin-bottom: 10px;
+
+  dt {
+    font-weight: 600;
+    margin-top: 10px;
+  }
+
+  dd {
+    margin: 0;
+  }
+}
+

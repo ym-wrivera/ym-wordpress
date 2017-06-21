@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://yourmembership.com/xmlrpc.php">
+
+<title>Online Learning Management System (LMS) | YourMembership</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A world-class professional education tool that exceeds demands of critical learning. Improve member satisfaction with the best learning management software."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://yourmembership.com/products/learning-management-system/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Online Learning Management System (LMS) | YourMembership" />
+<meta property="og:description" content="A world-class professional education tool that exceeds demands of critical learning. Improve member satisfaction with the best learning management software." />
+<meta property="og:url" content="http://yourmembership.com/products/learning-management-system/" />
+<meta property="og:site_name" content="YourMembership" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/mission-foc.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/learner-centric.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/flex-interface.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-example-dia-1.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-example-asrt-3.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/prof-edu.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/healthcare.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/finance.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/publishing.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ima-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/asrt-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/mg-logo-500x500.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/thumbnail.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-testing-2-2.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/implementationsupport.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/how-healthy-lms.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/TestsQuizzes.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/Personalization.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="A world-class professional education tool that exceeds demands of critical learning. Improve member satisfaction with the best learning management software." />
+<meta name="twitter:title" content="Online Learning Management System (LMS) | YourMembership" />
+<meta name="twitter:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/mission-foc.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700%2C900&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel-css'  href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/bxslider-custom.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='yourmembership-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ym-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/ym-original.css?ver=4.7.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	// Function to detect opted out users
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	// Disable tracking if the opt-out cookie exists.
+	var disableStr = 'ga-disable-UA-398613-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	// Opt-out function
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-398613-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/yourmembership.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='https://api.w.org/' href='http://yourmembership.com/wp-json/' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://yourmembership.com/?p=12' />
+<link rel="alternate" type="application/json+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Flearning-management-system%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Flearning-management-system%2F&#038;format=xml" />
+<script src='http://wp.ymem.net/?dm=72abc42b20854fd0cf9ea67268a3e7c1&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=2094320284&amp;back=http%3A%2F%2Fyourmembership.com%2Fproducts%2Flearning-management-system%2F' type='text/javascript'></script><style type="text/css">
+#author-bio-box {
+width:100%;
+background: #fbfbfb;
+border: 3px solid #f5f5f5;
+box-shadow: none;
+padding: 10px;
+        position: relative;
+        overflow: hidden;
+}
+#author-bio-box img {
+margin-right: 10px;
+margin-bottom: 2px;
+}
+#author-bio-box .avatar {
+        float:left;
+}
+#author-bio-box .author-name {
+font-weight: bold;
+margin: 0px;
+font-size: 14px;
+}
+#author-bio-box p {
+font-size: 16px;
+line-height: 18px;
+}
+#author-bio-box thead th {
+border: 0;
+}
+#author-bio-box tbody {
+border: 0;
+}
+.bio-spacer { min-height:44px; padding: 1px; display: block; clear: both; border:1px;}
+.bio-socials {
+border-bottom:none;
+border-left:none;
+border-right:none;
+width: 100%;
+height: auto;
+clear: both;
+}
+</style></head>
+
+<body class="page-template-default page page-id-12 page-parent page-child parent-pageid-8838">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZMRHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZMRHW');</script>
+<!-- End Google Tag Manager -->
+
+<div id="request-demo">
+	<div id="demo-tab">
+		<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/demo-tab.png">
+	</div>
+	<div id="demo-form">
+		<a id="close" class="demo-close" href="javascript:void(0);">
+			<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/close.png">
+		</a>
+				<iframe src="http://go.yourmembership.com/l/134231/2016-01-07/r8q" width="100%" height="540" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>	</div>
+</div>
+
+<header class="header">
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		 
+			<div class="announce-bar">
+				<div class="container">
+					YourMembership launches SocialLink! <a href="/products/sociallink">Learn more</a>				</div>
+			</div>
+				<div class="container">
+			<div class="navbar-header">
+				<a class="nav-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="menu-text">Menu</span>
+				</a>
+				<a class="navbar-brand" href="/">yourmembership.com</a>
+			</div>
+			<div class="nav-main">
+				<div class="menu-primary-menu-container"><ul id="primary-menu" class="primary-menu"><li id="menu-item-8843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8843"><a>Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-8844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8844"><a href="http://yourmembership.com/products/sociallink/">All-New SocialLink</a></li>
+	<li id="menu-item-8845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8845"><a href="http://yourmembership.com/products/membership-software/">Membership Software</a></li>
+	<li id="menu-item-8846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8846"><a href="http://yourmembership.com/products/career-center/">Career Center + Job Boards</a></li>
+	<li id="menu-item-8847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8847"><a href="http://yourmembership.com/products/buyers-guides/">Ad + Media Solutions</a></li>
+	<li id="menu-item-8848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8848"><a href="http://yourmembership.com/products/learning-management-system/features/">Online Learning Management</a></li>
+	<li id="menu-item-8849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8849"><a href="http://yourmembership.com/products/mobile-event-app/">Mobile Event App</a></li>
+</ul>
+</li>
+<li id="menu-item-8850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8850"><a>Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-8851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8851"><a href="http://yourmembership.com/partner-programs-2/">Affiliate Partner Programs</a></li>
+	<li id="menu-item-8852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8852"><a href="http://yourmembership.com/partner-programs-2/association-management-company/">AMC Partner Program</a></li>
+</ul>
+</li>
+<li id="menu-item-8853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8853"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8854"><a href="http://yourmembership.com/resource-library/upcoming/">Events + Webinars</a></li>
+	<li id="menu-item-8855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8855"><a href="http://yourmembership.com/resource-library/">Resource Library</a></li>
+	<li id="menu-item-8856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8856"><a href="http://yourmembership.com/resource-library/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-8857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8857"><a href="http://%20">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-8858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8858"><a href="http://yourmembership.com/company/clients/">Company + Clients</a></li>
+	<li id="menu-item-8859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8859"><a href="http://yourmembership.com/company/management-team/">Meet Our Team</a></li>
+	<li id="menu-item-8860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8860"><a href="http://yourmembership.com/company/customer-service/">Customer Support</a></li>
+	<li id="menu-item-8861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8861"><a href="http://yourmembership.com/company/technology/">Technology</a></li>
+	<li id="menu-item-8862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8862"><a href="http://yourmembership.com/news/">In the News</a></li>
+	<li id="menu-item-8863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8863"><a href="http://yourmembership.com/company/responsibility/">Corporate Responsibility</a></li>
+</ul>
+</li>
+</ul></div>				<ul class="toolbar">
+					<li class="contact"><a href="/contact">Contact</a></li>
+					<li class="blog"><a href="/resource-library/blog">Blog</a></li>
+					<li class="careers"><a href="http://www.recruitingsite.com/csbsites/yourmembership/index.asp">Careers</a></li>
+				</ul>				
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</header>
+
+
+<div id="content" class="site-content">
+	
+
+	
+
+
+
+
+
+			<div class="image-header" style="background-image:url(8);">
+			<div class="image-header-inner container">
+				<div class="title">
+					<h1>YM’s Learning Management Software (LMS)</h1>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-12" class="post-12 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<p><!-- / 3 columns container starts --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Meet the next generation of online learning.</h1>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 22px" align="center">World-class online learning for more engaging and empowering educational experiences.</p>
+<p><!-- / 3 column starts --></p>
+<div class="container pbottom-50 ds mtop-50" align="center">
+<p><!-- / column left --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/mission-foc.png" alt="" border="0" /></div>
+<h2>Deliver results</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Exceed the demands of critical learning and professional education with our award-winning LMS, Crowd Wisdom™.</p>
+</div>
+<p><!-- / column center --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/learner-centric.png" alt="" border="0" /></div>
+<h2>Engage learners</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Connect learners and peers so they share knowledge and guidance in a social and engaging learning environment.</p>
+</div>
+<p><!-- / column right --></p>
+<div class="col-md-4">
+<div><img style="width: 150px;height: 150px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/flex-interface.png" alt="" border="0" /></div>
+<h2>Improve satisfaction</h2>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Enhance and personalize the learning experience with easy access at anytime, from anywhere and with any device.</p>
+</div>
+</div>
+<div align="center"><a class="btn" style="padding: 20px 40px 20px 40px" href="/ymlearning-request-demo/">Learn More</a></div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+<p><!-- Versatile block starts --></p>
+<div class="container pbottom-50 ds">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 25px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-example-dia-1.png" alt="YM Learning Interface Example" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">We set the bar high.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">9.8 million annual course enrollments, 3.4 million course credits granted annually.</p>
+<p style="font-size: 13pt;line-height: 20pt">YourMembership customizes the professional learning experience. Manage all of your educational content formats in one central location, and provide powerful tools to create and deliver assessments, evaluations and learning communities.</p>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- Versatile block ends --></p>
+<p><!-- FEATURES BLOCK STARTS --></p>
+<div class="hp-content mtop-50 pbottom-50 mbottom-0" style="background-color:#f0f2f4;padding-bottom:20px">
+<div class="container pbottom-50 ds">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 25px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-example-asrt-3.png" alt="LMS features" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt;padding-top:30px">Powerful LMS features.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Put learning back into your learners’ hands with Crowd Wisdom™</p>
+<p></p>
+<ul style="padding-left: 15px">
+<li>Survey + testing engine</li>
+<li>CE + certification management</li>
+<li>Course + content development</li>
+<li>Global infrastructure, hosting + support</li>
+<li>Professional design services</li>
+</ul>
+<p>&nbsp;<br />
+<a class="btn" href="/products/learning-management-system/features/">View All Features</a></p>
+</div>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- FEATURES BLOCK ENDS --></p>
+<p><!-- PRODUCTS : CAREER GROWTH SECTION STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered bottom-border container">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Moving industries forward.</h1>
+<h2 class="gray text-center" style="color: #a3a9ae;font-weight: 200;font-size: 22px">Spend less time on daily tasks with an LMS designed specifically for you.</h2>
+<p>&nbsp;</p>
+<div class="icons">
+<div id="col1" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/prof-edu.png" border="0" /></p>
+<div class="col-content">
+<h3>Professional Education</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Deliver effective + efficient e-learning programs</li>
+<li>Personalize learning content all in one place</li>
+<li>Influence success with technology + support</p>
+</div>
+</div>
+<div id="col2" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/healthcare.png" alt="Healthcare" border="0" /></p>
+<div class="col-content">
+<h3>Healthcare</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Use scoring + assessments</li>
+<li>Easily track credits + certifications</li>
+<li>Deliver customized content</p>
+</div>
+</div>
+<p><!-- Add the extra clearfix for only the required viewport --></p>
+<div class="clearfix visible-sm-block"></div>
+<div id="col3" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/finance.png" alt="Finance" border="0" /></p>
+<div class="col-content">
+<h3>Finance</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Offer one-stop access to content</li>
+<li>Provide webinar + event content options</li>
+<li>Easily track credits + certifications</p>
+</div>
+</div>
+<div id="col4" class="col col-md-3 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/publishing.png" alt="Publishing" border="0" /></p>
+<div class="col-content">
+<h3>Publishers</h3>
+<p style="font-size: 16px">
+<ul style="padding-left:15px">
+<li>Get versatile e-commerce options</li>
+<li>Create consistent branding</li>
+<li>Receive friendly service + support</p>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- PRODUCTS : GROW REVENUE SECTION ENDS --></p>
+<p><!-- CTA BLOCK STARTS --></p>
+<div class="mbottom-50" style="background-color: #a8ad00;padding-top: 5px;padding-bottom: 5px">
+<div id="cta" class="container mbottom-50">
+<div class="col-md-8 mbottom-50">
+<p style="color: #ffffff">Amplify professional development and grow your revenue with an award-winning LMS. Let&#8217;s get started!</p>
+</div>
+<div class="col-md-4 col-xs-12"><a class="btn col-xs-12 mbottom-15" style="padding-top: 20px;padding-bottom: 20px;border: none" href="/ymlearning-request-demo/">Get started today   <i class="fa fa-chevron-right" style="color: #fff"></i></a><br />
+<a class="btn col-xs-12 mbottom-15" style="border: none">Call 1-727-827<span>_</span>-0046</a></div>
+</div>
+</div>
+<p><!-- CTA BLOCK ENDS --></p>
+<p><!-- PRODUCTS : WHO USES SECTION STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered bottom-border container">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Who uses YM&#8217;s LMS?</h1>
+<h2 class="gray text-center" style="color: #a3a9ae;font-weight: 200;font-size: 22px">Everyone who’s anyone looking to provide vital education to learners.</h2>
+<p>&nbsp;</p>
+<div class="icons">
+<div id="col1" class="col col-md-4 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ima-logo-500x500.png" alt="ima logo" border="0" /></p>
+<div class="col-content">
+<h3>Leading Professional Education Programs</h3>
+<p style="font-size: 16px">Institute of Management Accountants, serving its global membership of 60,000+ as a hub for crucial Continuing Education programs and exam preparation for their global credential.</p>
+</div>
+</div>
+<div id="col2" class="col col-md-4 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/asrt-logo-500x500.png" alt="asrt logo" border="0" /></p>
+<div class="col-content">
+<h3>Healthcare Education Societies + Communities</h3>
+<p style="font-size: 16px">American Society of Radiologic Technologists, delivering exceptional education about field-related technology and patient care to 130,000+ members and external audiences.</p>
+</div>
+</div>
+<p><!-- Add the extra clearfix for only the required viewport --></p>
+<div class="clearfix visible-sm-block"></div>
+<div id="col3" class="col col-md-4 col-sm-6">
+<p><img style="width: 100px;height: 100px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/mg-logo-500x500.png" alt="McGraw Hill logo" border="0" /></p>
+<div class="col-content">
+<h3>Publishers + Subject Matter Experts (SMEs)</h3>
+<p style="font-size: 16px">McGraw-Hill Professional, providing two key digital products available for sale to its Global 2000 customer base.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- PRODUCTS : WHO USES SECTION ENDS --></p>
+<p><!-- / testimonial wrapper start --></p>
+<div id="bg-image" class="city active">
+<p><!-- / headline starts --></p>
+<div class="container hp-content" style="padding-bottom: 0px;padding-top: 0px">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #ffffff;font-weight: 400;font-size: 2.0em">“(YM Learning’s) Crowd Wisdom™ platform . . . has been very successful for our members and non-members alike, coming to purchase products to move their careers forward and provide safe and quality patient care in the U.S. and around the world.”</h1>
+<div class="text-center" style="font-size: 16px;color: #a3a9ae;line-height: 24px">Myke Kudlas, Chief Academic Officer, American Society of Radiologic Technologists</div>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+</div>
+<p><!-- / testimonials wrapper end --></p>
+<p><!-- brand package wrapper starts --></p>
+<div class="container mbottom-50">
+<p><!-- SOCIAL LEARNING BLOCK STARTS --></p>
+<div class="container ds" style="padding-bottom:30px">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 45px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/thumbnail.png" alt="LMS Social Features" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Social learning + knowledge sharing at its best.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Use an LMS that goes anywhere learners go.</p>
+<p style="font-size: 13pt;line-height: 20pt">As your members connect, collaborate and share across your organization’s online community, you develop a lasting relationship with them and gain valuable business intelligence by observing their behaviors. Keep member connections strong with:</p>
+<ul style="padding-left: 15px">
+<li>Fresh and relevant content</li>
+<li>Community-based knowledge and personalized professional development</li>
+<li>Targeted marketing communications</li>
+</ul>
+<p><span class="bolder"> </span><br />
+<a class="btn" href="/ymlearning-request-demo/">Tell Me More</a></p>
+</div>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- SOCIAL LEARNING BLOCK ENDS --></p>
+<p><!-- PROFESSIONAL EDUCATION BLOCK STARTS --></p>
+<div class="hp-content mtop-50 pbottom-50 mbottom-0" style="background-color:#f0f2f4;padding-bottom:20px;margin-top:10px">
+<div class="container pbottom-50 ds">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top:20px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/yourmembership-lms-testing-2-2.png" alt="Professional Education" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Enrich professional education.</h2>
+<p><span class="bolder"> </span></p>
+<p style="font-size: 13pt;line-height: 20pt">Are you working too hard overcoming content and course development challenges? If you answered “yes,” it’s okay. Use our content and course development services to get your online learning back on track and members headed down a path to career success. With YM, you get:</p>
+<ul style="padding-left: 15px">
+<li>An educational programming consultation.</li>
+<li>A content audit.</li>
+<li>Course development.</li>
+<li>An interactive e-learning format.</li>
+<li>Course revisions using the best LMS tools.</li>
+</ul>
+<p>&nbsp;</p>
+<p><a class="btn" href="/ymlearning-request-demo/">Start Today</a></p>
+</div>
+</div>
+</div>
+<p><!-- copy ends --></p>
+<p><!-- PROFESSIONAL EDUCATION BLOCK ENDS --></p>
+<p><!-- IMPLEMENTATION BLOCK STARTS --></p>
+<div class="container pbottom-50 ds" style="padding-top:40px">
+<p><!-- image starts --></p>
+<div class="col-md-6"><img class="img-responsive" style="padding-top: 45px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/implementationsupport.png" alt="Implementation Support" /></div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 intro">
+<h2 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Your success is our drive.</h2>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Build momentum for your program.</p>
+<p style="font-size: 13pt;line-height: 20pt">We’re all about relationships, not transactions. Your implementation focuses on the long-term success of your e-learning program. Our dedicated team goes beyond the installation to build momentum for your program with timely tests and adjustments so it continues to be successful.</p>
+<p>&nbsp;</p>
+<p style="color: #a3a9ae;font-weight: 200;font-size: 18px">Get the latest version . . . always.</p>
+<p style="font-size: 13pt;line-height: 20pt">With your cloud-hosted LMS, you always have the latest and greatest features as they are added. You no longer have to worry about web-hosting, security, data backups or end-user support. We keep a keen eye on the technology and success of your program, so you can sit back and watch your numbers grow.</p>
+</div>
+</div>
+<p><!-- copy ends --></p>
+<p><!-- Implementation block ends --></p>
+<p><!-- CTA BLOCK STARTS --></p>
+<div class="mbottom-50" style="background-color: #a8ad00;padding-top: 5px;padding-bottom: 5px">
+<div id="cta" class="container mbottom-50">
+<div class="col-md-8 mbottom-50">
+<p style="color: #ffffff">Amplify professional development and grow your revenue with an award-winning LMS. Let&#8217;s get started!</p>
+</div>
+<div class="col-md-4 col-xs-12"><a class="btn col-xs-12 mbottom-15" style="padding-top: 20px;padding-bottom: 20px;border: none" href="/ymlearning-request-demo/">Get started today   <i class="fa fa-chevron-right" style="color: #fff"></i></a><br />
+<a class="btn col-xs-12 mbottom-15" style="border: none">Call 1-727-827<span>_</span>-0046</a></div>
+</div>
+</div>
+<p><!-- CTA BLOCK ENDS --></p>
+<p><!-- / 3 LINKS FOTTER SECTION START --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<p style="color: #a3a9ae;font-weight: 200;font-size: 22px" align="center">Next-generation LMS is here.</p>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p><!-- / 3 column starts --></p>
+<div class="container ds mtop-50" align="center">
+<p><!-- / column left --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/how-healthy-lms.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">How healthy is your LMS?</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Learn about the 10 traits of successful e-learning programs, and the five most common mistakes that suppress success.</p>
+<p><a class="btn" href="http://go.yourmembership.com/healthcheck">Download Now</a></p>
+</div>
+<p><!-- / column center --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/TestsQuizzes.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">Content development</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Quality content and design drives successful e-learning programs, providing the best learner engagement and experience.</p>
+<p><a class="btn" href="/products/learning-management-system/packages-upgrades/">Learn More</a></p>
+</div>
+<p><!-- / column right --></p>
+<div class="col-md-4">
+<div><img style="width: 80px;height: 80px" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/06/Personalization.png" border="0" /></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">LMS features</h1>
+<p style="padding-left: 25px;padding-right: 25px;padding-bottom: 25px;font-size: 18px;line-height: 28px">Elevate e-learning with Crowd Wisdom™’s intuitive features that simplify the learning experience and exceed your organizational goals.</p>
+<p><a class="btn" href="/products/learning-management-system/features/">See More</a></p>
+</div>
+</div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div> <!--/Content-->
+
+
+<footer class="footer">
+	<div class="container">
+		<div class="copyright col-sm-8 col-xs-12"> &copy; 1998-2017, YourMembership Inc. All rights reserved. <span class="links"><a href="/legal/">Privacy Policy</a> | <a href="/company/sitemap/">Sitemap</a></span></div>
+		<div class="social col-sm-4 col-xs-12 text-right">
+			<a href="http://twitter.com/yourmembership" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="http://www.linkedin.com/company/yourmembership-com" target="_blank"><i class="fa fa-linkedin"></i></a>
+			<a href="http://www.facebook.com/pages/YourMembershipcom/91798945325" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://plus.google.com/u/0/113339144649046293573" target="_blank"><i class="fa fa-google-plus"></i></a>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/jquery.mobile.custom.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/modernizr.custom-grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/main.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/global.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/pgaet.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Database Caching 11/21 queries in 0.624 seconds using disk
+
+ Served from: yourmembership.com @ 2017-04-12 05:45:18 by W3 Total Cache -->

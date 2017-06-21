@@ -1,0 +1,33 @@
+.fc-icon-boxes.four-left-aligned {
+
+	.flex-wrap {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		flex-direction: column;
+
+		@include bp(med) {
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+	}
+
+	article {
+		margin-bottom: rem(30);
+		padding: 0;
+
+		@include bp(med) {
+			lost-column: 1/2;
+		}
+
+		@include bp(wide) {
+			lost-column: 3/12;
+		}
+	}
+
+	.entry-content {
+		font-size: rem(15);
+		line-height: 23px;
+	}
+
+}

@@ -1,0 +1,29 @@
+.breadcrumb {
+	background-color: transparent;
+	color: $grey6;
+	font-size: rem(12);
+	letter-spacing: -0.32px;
+	@include margin(rem(30) null rem(80));
+
+	a {
+		color: $grey6;
+	}
+
+	.sep {
+		@include padding(null rem(7));
+	}
+}
+
+
+.breadcrumb-wrapper {
+	background-color: transparent;
+}
+
+.product-template .breadcrumb {
+	margin: 0;
+	padding-top: 1.875rem;
+	padding-bottom: 5rem;
+}
+
+
+

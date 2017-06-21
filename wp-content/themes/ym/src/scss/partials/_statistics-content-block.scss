@@ -1,0 +1,130 @@
+.fc-statistics {
+	@include padding(em($gutter * 2) 0 0);
+	text-align: center;
+
+	@include bp(large) {
+		@include padding(em(80) 0 em(40));
+	}
+
+	@include bp(wide) {
+		@include padding(em(100) null);
+	}
+
+	.fc-title-group {
+		padding-bottom: em(20);
+
+		@include bp(large) {
+			padding-bottom: em(80);
+		}
+
+		@include bp(wide) {
+			padding-bottom: em(100);
+		}
+	}
+
+	.amount {
+		font-size: rem(40);
+		@include margin(0);
+		color: $green3;
+		font-weight: $fw-bolder;
+		letter-spacing: rem(-2);
+		line-height: rem(58);
+		text-align: left;
+
+		@include bp(large) {
+			font-size: em(50);
+		}
+	}
+
+	.suffix {
+		color: $green3;
+		font-weight: $fw-bolder;
+		letter-spacing: rem(-2);
+		line-height: rem(58);
+		font-size: 2em;
+		padding-left: rem(5);
+	}
+
+	.sub-heading {
+		font-size: rem(16);
+		@include margin(rem(-15) 0 0);
+		color: $slate-light;
+		line-height: 32px;
+		text-align: left;
+		text-transform: uppercase;
+	}
+
+	.flex-wrap {
+		lost-flex-container: column;
+
+		@include bp(1000px) {
+			lost-flex-container: row;
+		}
+
+		@include bp(1000px 1200px ) {
+			generate-grid: columns(350px auto 310px) gutter(20px);
+		}
+
+		@include bp(wide) {
+			generate-grid: columns(350px auto 310px) gutter(100px);
+		}
+
+	}
+	.stat-container {
+		lost-flex-container: row;
+		align-items: center;
+		justify-content: center;
+		margin-bottom: rem(40);
+
+		@include bp(small 1000px) {
+			margin-bottom: rem(60);
+		}
+
+		@include bp(1001px) {
+			margin-bottom: 0;
+			justify-content: space-between;
+		}
+
+		@include bp(wide) {
+			border-right: 1px solid $green3;
+		}
+
+		&:nth-child(even) {
+			@include bp(1001px) {
+				.icon {
+					margin-right: rem(40);
+				}
+			}
+
+			.amount {
+				min-width: rem(150);
+			}
+		}
+
+		&:last-child {
+			@include bp(wide) {
+				border-right: 0;
+			}
+		}
+	}
+
+	.data {
+		flex-basis: 141px;
+		margin-right: auto;
+
+		//@include bp(1001px) {
+		//	margin-right: auto;
+		//}
+	}
+
+	.icon {
+		margin-left: auto;
+		flex-basis: 91px;
+		margin-right: 1em;
+	}
+
+	.amount-wrap {
+		margin-bottom: 0;
+		text-align: left;
+	}
+}

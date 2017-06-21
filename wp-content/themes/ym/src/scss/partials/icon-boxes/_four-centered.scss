@@ -1,0 +1,30 @@
+.fc-icon-boxes.four-centered {
+
+	.flex-wrap {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+
+		@include bp(med) {
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+	}
+
+	article {
+		margin-bottom: rem(30);
+		@include bp(med) {
+			lost-column: 1/2;
+		}
+
+		@include bp(wide) {
+			lost-column: 3/12;
+		}
+	}
+
+	figure {
+		margin-bottom: rem(30);
+	}
+
+}

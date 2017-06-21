@@ -1,0 +1,19 @@
+/* # Sidebars
+---------------------------------------------------------------------------------------------------- */
+
+.sidebar {
+	margin-bottom: em(60);
+
+	@include bp(wide) {
+		margin-bottom: em(40);
+	}
+	.widget {
+		background-color: transparent;
+		margin-bottom: em(40);
+	}
+
+	.widgettitle {
+		font-size: em(20);
+		font-weight: $fw-normal;
+	}
+}

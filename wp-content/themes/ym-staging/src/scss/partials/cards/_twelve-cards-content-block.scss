@@ -1,0 +1,38 @@
+.cards.twelve-cards {
+	@include padding(em(100) 0);
+
+	.flex-wrap {
+		lost-flex-container: column;
+		align-items: center;
+
+		@include mappy-bp(large) {
+			lost-center: 800px;
+		}
+
+		@include mappy-bp(wide) {
+			lost-center: 1200px;
+		}
+
+		.card-container,
+		.card-container-link {
+			margin-bottom: rem(30);
+			width: rem(300);
+
+			@include mappy-bp(large) {
+				lost-column: 1/3;
+			}
+
+			@include mappy-bp(wide) {
+				lost-column: 1/4;
+			}
+
+			figure {
+				margin-bottom: em(10);
+			}
+
+			.heading {
+				font-size: em(20);
+			}
+		}
+	}
+}

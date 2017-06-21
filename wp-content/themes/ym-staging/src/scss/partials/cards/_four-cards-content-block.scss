@@ -1,0 +1,50 @@
+.four-cards {
+	@include padding(em(100) 0);
+	text-align: center;
+
+	.fc-title-group {
+		margin-bottom: em(50);
+
+		> * {
+			text-align: center;
+		}
+
+		h1 {
+			margin-bottom: rem(20);
+		}
+	}
+
+	.flex-wrap {
+		lost-flex-container: column;
+		align-items: center;
+		justify-content: center;
+
+		@include bp(large) {
+			lost-flex-container: row;
+			justify-content: space-around;
+		}
+	}
+
+
+	.card-container,
+	.card-container-link {
+		margin-bottom: rem(30);
+		max-width: 300px;
+		width: rem(300);
+
+		@include bp(large) {
+			lost-column: 6/12 0 0;
+		}
+
+		@include bp(1000px) {
+			lost-column: 3/12;
+		}
+	}
+
+	.wrap > .button-group {
+		margin: rem(60) 0;
+	}
+}
+
+
+

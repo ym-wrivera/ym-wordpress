@@ -1,0 +1,56 @@
+.fc-icon-boxes.two-icon-left-of-copy {
+
+	.flex-wrap {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		flex-direction: column;
+
+		@include bp(med) {
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+	}
+
+
+	article {
+		margin-bottom: rem(30);
+		padding: 0;
+
+		@include bp(1020px) {
+			lost-column: 1/2;
+		}
+	}
+
+	main {
+		@include bp(800px) {
+			display: flex;
+		}
+	}
+
+	figure {
+		@include bp(800px 1020px) {
+			lost-column: 1/6;
+		}
+
+		@include bp(1021px) {
+			lost-column: 1/4;
+		}
+	}
+
+	.content-wrap {
+		@include bp(800px 1020px) {
+			lost-column: 5/6;
+		}
+
+		@include bp(1021px) {
+			lost-column: 3/4;
+		}
+	}
+
+	.entry-content {
+		font-size: rem(15);
+		line-height: 23px;
+	}
+
+}

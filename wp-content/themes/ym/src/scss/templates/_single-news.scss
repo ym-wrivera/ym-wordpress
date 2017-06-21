@@ -1,0 +1,438 @@
+.single-news {
+	background-color: $grey5;
+
+	&.content-sidebar .content-sidebar-wrap {
+		all: inherit;
+		display: flex;
+		flex-direction: column;
+
+		@include bp(wide) {
+			flex-direction: row;
+			justify-content: space-between;
+			max-width: none;
+		}
+	}
+
+	.content-sidebar-wrap .content {
+		@include bp(wide) {
+			lost-column: 8/12 0 0;
+		}
+	}
+
+	.site-inner {
+		padding-top: 0;
+	}
+
+	.breadcrumb {
+		margin-bottom: rem(40);
+	}
+
+	.cpt-header {
+		margin-bottom: em($gutter * 3);
+
+		h2 {
+			font-size: rem(24);
+			line-height: 32px;
+			margin-bottom: 0;
+
+		}
+
+		img {
+			margin-right: rem(20);
+			vertical-align: middle;
+		}
+	}
+
+	.entry {
+		background-color: transparent !important;
+		padding-top: 0;
+	}
+
+	.entry-time {
+		font-size: em(15);
+		color: $grey6;
+  	}
+
+	.entry-title {
+		font-weight: $fw-medium;
+		font-size: em(40);
+		color: $slate-dark;
+		letter-spacing: -1px;
+		line-height: 48px;
+		margin-top: rem(20);
+		margin-bottom: rem(30);
+	}
+
+	.entry-content {
+		> p {
+			font-size: em(15);
+			line-height: 23px;
+		}
+	}
+
+	.post-intro-box {
+		p {
+			font-size: rem(20px);
+		}
+	}
+
+	.after-entry {
+		.widget {
+			@include padding(em(30));
+			background-color: $grey2;
+
+			.widgettitle {
+				font-size: em(24px);
+				font-weight: $fw-normal;
+			}
+
+			.textwidget {
+				p {
+					font-size: em(15px);
+				}
+			}
+		}
+
+		.sidebar {
+			border-top: 1px solid $grey1;
+
+			@include bp(wide) {
+				border-top: 0;
+				margin-top: 140px;
+			}
+
+			.widget {
+				&:first-child {
+					margin-top: em($gutter * 2);
+
+					@include bp(wide) {
+						margin-top: 0;
+					}
+				}
+
+			}
+		}
+	}
+
+
+
+	// After Entry Widgets
+	.news-after-entry-sidebar,
+	.about-other-company {
+		background-color: $grey2;
+		padding: rem(40) rem(30);
+
+		.widget-title {
+			font-size: rem(24);
+			font-weight: $fw-normal;
+			line-height: 32px;
+			margin-bottom: rem(30);
+		}
+	}
+
+	.news-after-entry-sidebar {
+		margin-bottom: rem(40);
+
+		@include bp(large) {
+			margin-bottom: rem(70);
+		}
+	}
+
+
+
+	// Sidebar Primary
+	.sidebar-primary {
+		margin: 0 0 rem(60);
+		padding: 0;
+
+		@include bp(wide) {
+			margin-top: 4.25em;
+		}
+	}
+
+	.news-single-sidebar {
+		display: flex;
+		flex-direction: column;
+
+		.widget {
+			margin-bottom: rem(60);
+		}
+
+		.contact-us-widget {
+			h4 {
+				font-size: rem(20);
+				line-height: 28px;
+				margin-bottom: rem(20);
+			}
+		}
+	}
+
+
+	// Pagination Links
+	.cpt-pagination {
+		> a {
+			font-size: rem(11);
+			line-height: 14px;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

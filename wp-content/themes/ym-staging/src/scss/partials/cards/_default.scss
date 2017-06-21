@@ -1,0 +1,63 @@
+.card-container {
+	@include padding(rem(40) rem(15));
+	margin-bottom: rem(30);
+	background-color: $white;
+	text-align: center;
+
+	&:hover {
+		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.06);
+		transition: box-shadow 0.2s ease-in-out;
+	}
+
+	figure {
+		margin-bottom: em(20);
+	}
+
+	.heading {
+		font-size: rem(20);
+		font-weight: $fw-medium;
+		letter-spacing: 0;
+		line-height: 24px;
+		margin-bottom: em(10);
+	}
+
+	.entry-content-wrap {
+		margin-bottom: rem(20);
+
+		.entry-content {
+			font-size: rem(15);
+			color: $slate;
+			line-height: 23px;
+		}
+	}
+
+	ul > li {
+		font-size: rem(15);
+		line-height: 23px;
+		margin-bottom: 1em;
+	}
+	.button-group {
+		margin-top: rem(20);
+	}
+}
+
+
+.cards .wrap > .button-group {
+	text-align: center;
+}
+
+
+.cards {
+	padding-top: rem(40);
+
+	@include bp(wide) {
+		@include padding(rem(100) 0 0);
+	}
+}
+
+// Link to Section Cards
+.card-container-link {
+	.card-container {
+		margin-bottom: 0;
+	}
+}

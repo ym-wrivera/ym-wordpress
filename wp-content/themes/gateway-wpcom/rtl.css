@@ -1,0 +1,424 @@
+/*
+Theme Name: Gateway
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/*--------------------------------------------------------------
+2.0 Alignments
+--------------------------------------------------------------*/
+.alignright {
+	float: right;
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+	margin-right: 1.5em;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+1.0 Defaults
+--------------------------------------------------------------*/
+
+blockquote {
+	border-right: 8px solid #e8554e;
+	border-left: none;
+}
+
+/* Blockquotes */
+blockquote {
+	border-right: 1px solid #ddd;
+	border-left: none;
+}
+
+/*--------------------------------------------------------------
+3.0 Accessibility
+--------------------------------------------------------------*/
+/* Text meant only for screen readers */
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+
+/*--------------------------------------------------------------
+4.0 Infinite Scroll
+--------------------------------------------------------------*/
+
+#infinite-footer .blog-info a:before {
+	margin: 0 -15px 0 15px;
+	margin: 0 0 0 10px;
+}
+
+
+/*--------------------------------------------------------------
+6.1 Navigation
+--------------------------------------------------------------*/
+
+.main-navigation ul {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.main-navigation ul ul li a {
+	padding-right: 2.25em;
+	padding-left: 0;
+}
+
+.main-navigation ul ul ul li a {
+	padding-right: 3em;
+	padding-left: 0;
+}
+
+.main-navigation ul ul ul ul li a {
+	padding-right: 3.75em;
+	padding-left: 0;
+}
+
+.main-navigation ul ul ul ul ul li a {
+	padding-right: 4.5em;
+	padding-left: 0;
+}
+
+.main-navigation ul li:hover > ul,
+.main-navigation ul li.focus > ul {
+	right: 0;
+	left: auto;
+}
+
+.main-navigation ul ul li:hover > ul,
+.main-navigation ul ul li.focus > ul {
+	right: 100%;
+	left: auto;
+}
+
+/* Small menu. */
+
+/*--------------------------------------------------------------
+7.0 Home
+--------------------------------------------------------------*/
+
+.home-video {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+9.1 Posts
+--------------------------------------------------------------*/
+
+.featured-image img {
+	float: right;
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+.entry-footer .cat-links,
+.entry-footer .tags-links {
+	margin-left: 1.5em;
+	margin-right: auto;
+}
+
+/* Post Nav Links */
+.nav-previous {
+	float: right;
+}
+
+.nav-next {
+	float: left;
+}
+
+.posts-navigation .nav-previous a:before,
+.post-navigation .nav-previous a:before {
+	margin-left: 2px;
+	margin-right: auto;
+}
+
+.posts-navigation .nav-next a:after,
+.post-navigation .nav-next a:after {
+	margin-right: 2px;
+	margin-left: auto;
+}
+
+/*--------------------------------------------------------------
+9.3 404 Page
+--------------------------------------------------------------*/
+
+.error-404 .widget {
+	float: right;
+	margin-left: 5%;
+	margin-right: auto;
+}
+
+.error-404 .widget p {
+	text-align: right;
+}
+
+.error-404 .widget:last-of-type {
+	margin-left: 0;
+	margin-right: auto;
+}
+
+/*--------------------------------------------------------------
+10.0 Comments
+--------------------------------------------------------------*/
+
+.comment-list {
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.comment-list .children {
+	margin-right: 40px;
+	margin-left: auto;
+}
+
+.comment-list ol .children {
+	margin-right: 20px;
+	margin-left: auto;
+}
+
+.pingback .edit-link a,
+.trackback .edit-link a {
+	margin-right: 1em;
+	margin-left: auto;
+}
+
+.comment-list > .comment {
+	margin-right: 2.5em;
+	margin-left: auto;
+}
+
+.comment img.avatar {
+	right: -2.5em;
+	left: auto;
+}
+
+.comment-body {
+	margin-right: 3em;
+	margin-left: auto;
+}
+
+.comment .comment .comment-body {
+	margin-right: 1.25em;
+	margin-left: auto;
+}
+
+.pingback .comment-body,
+.trackback .comment-body {
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.comment-meta .fn {
+	margin-left: 1em;
+	margin-right: auto;
+}
+
+.comment-metadata a {
+	margin-left: 1em;
+	margin-right: auto;
+}
+
+.comment-reply-link {
+	float: left;
+	left: 3em;
+	right: auto;
+}
+
+#cancel-comment-reply-link {
+	float: left;
+}
+
+/*--------------------------------------------------------------
+11.0 Widgets
+--------------------------------------------------------------*/
+
+/* Search widget */
+
+/* Search Widget */
+
+/* Archive, Categories, pages, Meta, Comments, Posts Widget */
+.widget_archive ul,
+.widget_categories ul,
+.widget_pages ul,
+.widget_meta ul,
+.widget_recent_comments ul,
+.widget_recent_entries ul {
+	margin-right: .75em;
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: auto;
+}
+
+.widget_archive li:before,
+.widget_categories li:before,
+.widget_pages li:before,
+.widget_meta li:before,
+.widget_recent_comments li:before,
+.widget_recent_entries li:before {
+	margin: 0 -11px 0 15px;
+}
+
+/* RSS Widget */
+.widget_rss ul {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+/* Tags Widget */
+
+.widget_tag_cloud a,
+.wp_widget_tag_cloud a {
+	float: right;
+	margin-left: 0.375em;
+	margin-right: auto;
+}
+
+/* Recent Entries Widget  */
+.widget_recent_entries .post-date {
+	margin-right: 15px;
+	margin-left: auto;
+}
+
+@media screen and (min-width: 35em) {
+	.main-navigation {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul {
+		float: right;
+		right: -999em;
+		left: auto;
+	}
+
+	.main-navigation ul ul li a,
+	.main-navigation ul ul ul li a,
+	.main-navigation ul ul ul ul li a,
+	.main-navigation ul ul ul ul ul li a {
+		padding-right: 1.5em;
+		padding-left: 0;
+	}
+
+	.main-navigation ul li.menu-item-has-children > a:after,
+	.main-navigation ul li.page_item_has_children > a:after {
+		margin-right: 10px;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul li.menu-item-has-children > a:after,
+	.main-navigation ul ul li.page_item_has_children > a:after {
+		margin-right: 10px;
+		border-left-color: transparent;
+		border-right-color: rgba(51, 51, 51, 0.4);
+		border-right-style: solid;
+		margin-left: auto;
+	}
+
+	.main-navigation ul ul ul {
+		right: -999em;
+		left: auto;
+	}
+
+	.main-navigation ul ul a {
+		text-align: right;
+	}
+
+	.single .hentry .left {
+		float: left;
+	}
+
+	.page-template-template-home-php .site-content {
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.featured-posts,
+	.hero-section,
+	.home-video-content,
+	.home-posts-titles {
+		padding-right: 1.5em;
+		padding-left: 1.5em;
+	}
+}
+
+@media only screen and (min-width: 50em) {
+	.site-content,
+	.featured-posts,
+	.hero-section,
+	.home-video-content,
+	.home-posts-titles {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.site-footer {
+		text-align: right;
+	}
+
+	.site-footer .widget-area {
+		float: right;
+		margin-left: 5%;
+		margin-right: auto;
+	}
+
+	.site-footer .widget-area:last-of-type {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	.home-content {
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.featured-posts .hentry {
+		padding-right: 0.75em;
+		padding-left: 0.75em;
+		float: right;
+	}
+
+	.home-video-content div:nth-child(1):nth-last-child(2),
+	.home-video-content div:nth-child(2):nth-last-child(1) {
+		margin-left: 7%;
+		margin-right: auto;
+	}
+
+	.home-video-content div:nth-child(1):nth-last-child(2):last-of-type,
+	.home-video-content div:nth-child(2):nth-last-child(1):last-of-type {
+		margin-left: 0;
+		margin-right: auto;
+	}
+
+	/* Layout */
+
+	.content-area {
+		float: right;
+		margin: 0 0 0 -35%;
+	}
+
+	.site-main {
+		margin: 0 0 0 35%;
+	}
+
+	.site-content .widget-area {
+		float: left;
+	}
+
+	.entry-header,
+		.entry-title {
+		text-align: right;
+	}
+
+}

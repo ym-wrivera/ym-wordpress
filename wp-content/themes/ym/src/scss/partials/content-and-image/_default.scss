@@ -1,0 +1,20 @@
+.content-image-wrap {
+	.button-group > a {
+		margin-bottom: rem(20);
+		margin-top: 0;
+		margin-left: 0;
+		margin-right: 0;
+
+		@include bp(520px) {
+			margin-bottom: 0;
+		}
+
+		&:first-child {
+			@include bp(520px) {
+				margin-right: rem(30);
+			}
+		}
+	}
+
+}
+

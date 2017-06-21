@@ -1,0 +1,55 @@
+.five-cards {
+	padding-bottom: em(60);
+
+	@include mappy-bp(large) {
+		padding-bottom: em(80);
+	}
+
+	@include mappy-bp(wide) {
+		padding-bottom: em(100);
+	}
+
+	.flex-wrap {
+		lost-flex-container: column;
+		align-items: center;
+
+		@include mappy-bp(600px) {
+			lost-flex-container: row;
+			justify-content: center;
+		}
+	}
+
+	.card-container,
+	.card-container-link {
+		margin-bottom: rem(20);
+		width: rem(278);
+
+		@include mappy-bp(600px) {
+			//max-width: none;
+			lost-column: 1/2;
+		}
+
+		@include mappy-bp(large) {
+			margin-bottom: rem(30);
+			lost-column: 1/3;
+		}
+
+		@include mappy-bp(wide) {
+			lost-column: 1/5;
+		}
+
+	}
+
+	.button-group {
+		@include margin(em(50) 0 0);
+		text-align: center;
+
+		@include mappy-bp(large) {
+			@include margin(em(40) 0 0);
+		}
+
+		@include mappy-bp(wide) {
+			@include margin(em(60) 0 0);
+		}
+	}
+}

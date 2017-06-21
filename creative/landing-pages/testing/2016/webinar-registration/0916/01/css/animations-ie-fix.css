@@ -1,0 +1,11 @@
+.animated, .fadeIn, .fadeInDown, .growIn  {
+	opacity:1;
+	-webkit-transform: scale(1);
+}
+.fadeInLeft, .fadeInRight, .growIn{
+	transform: translateX(0); 
+	opacity:1;
+	}
+.fadeInUp, .fadeInUp, .fadeInDown, .growIn{
+	transform: translateY(0);
+	}

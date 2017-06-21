@@ -1,0 +1,280 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page"
+        },
+        "theme_mods": {
+            "nav_menu_locations": {
+                "primary": "primary"
+            },
+            "home_hero_title": "Welcome to WordPress.com",
+            "home_hero_content": "Use this template to give your readers a bit of important information.\n\n<a href=\"https:\/\/gatewaydemo.wordpress.com\/add-a-call-to-action-button\/\" class=\"button\">Call to Action<\/a>",
+            "home_posts_subtitle": "Show off your best with Featured Content, like these fine posts:",
+            "home_posts_video": "https:\/\/www.youtube.com\/watch?v=vdJcNjHRTpQ",
+            "home_page_video": "https:\/\/vimeo.com\/109354891",
+            "home_video_aside": "<h3>Add a Video<\/h3>\n\nThe Home Page template includes a section for a video, along with a bit of content.\n\n<a href=\"https:\/\/gatewaydemo.wordpress.com\/add-a-call-to-action-button\/\" class=\"button\">Call to Action<\/a>",
+            "colors_manager": {
+                "colors": {
+                    "bg": "#ffffff",
+                    "undefined": "Colors",
+                    "txt": "#e8554e",
+                    "link": "#666666",
+                    "fg1": "#ffffff",
+                    "fg2": "#ffffff"
+                }
+            },
+            "header_position": "scroll"
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": []
+        }
+    },
+    "widgets": [
+        {
+            "id": "search-2",
+            "id_base": "search",
+            "settings": {
+                "title": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 0
+        },
+        {
+            "id": "wpcom_social_media_icons_widget-2",
+            "id_base": "wpcom_social_media_icons_widget",
+            "settings": {
+                "title": "Social",
+                "facebook_username": "#",
+                "twitter_username": "wordpressdotcom",
+                "instagram_username": "#",
+                "pinterest_username": "#",
+                "linkedin_username": "#",
+                "github_username": "",
+                "youtube_username": "",
+                "vimeo_username": ""
+            },
+            "sidebar": "sidebar-1",
+            "position": 1
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Get Their Attention",
+                "text": "The Home page template is designed for just this purpose.\r\n\r\nAdd a bold headline with a Text widget.\r\n\r\n<a href=\"https:\/\/gatewaydemo.wordpress.com\/add-a-call-to-action-button\/\" class=\"button\">Call to Action<\/a>",
+                "filter": true,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "home-hero",
+            "position": 0
+        },
+        {
+            "id": "wpcom_social_media_icons_widget-3",
+            "id_base": "wpcom_social_media_icons_widget",
+            "settings": {
+                "title": "",
+                "facebook_username": "#",
+                "twitter_username": "wordpressdotcom",
+                "instagram_username": "#",
+                "pinterest_username": "#",
+                "linkedin_username": "",
+                "github_username": "",
+                "youtube_username": "#",
+                "vimeo_username": ""
+            },
+            "sidebar": "home-hero",
+            "position": 1
+        },
+        {
+            "id": "text-2",
+            "id_base": "text",
+            "settings": {
+                "title": "Text Widget",
+                "text": "This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href=\"https://wordpress.com/customize/\">Customizer</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-1",
+            "position": 0
+        },
+        {
+            "id": "text-3",
+            "id_base": "text",
+            "settings": {
+                "title": "Text Widget",
+                "text": "This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href=\"https://wordpress.com/customize/\">Customizer</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-2",
+            "position": 0
+        },
+        {
+            "id": "text-4",
+            "id_base": "text",
+            "settings": {
+                "title": "Text Widget",
+                "text": "This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href=\"https://wordpress.com/customize/\">Customizer</a>.",
+                "filter": false,
+                "syntaxhighlighter_encoded": true
+            },
+            "sidebar": "footer-3",
+            "position": 0
+        }
+    ],
+    "content": [
+        {
+            "post_title": "Home",
+            "post_content": "Welcome to your new site!  You can edit this page by clicking on the Edit link.  For more information about customizing your site check out <a href=\"http:\/\/learn.wordpress.com\/\">http:\/\/learn.wordpress.com\/<\/a>",
+            "post_excerpt": "This is the home page's excerpt",
+            "post_status": "publish",
+            "menu_order": 0,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_front_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 100,
+            "attachment_url": "https:\/\/gatewaydemo.files.wordpress.com\/2015\/05\/manhattan-407703.jpg",
+            "page_template": "template-home.php"
+        },
+        {
+            "post_title": "About",
+            "post_content": "This is an example of an about page. Unlike posts, pages are better suited for more timeless content that you want to be easily accessible, like your About or Contact information. Click the Edit link to make changes to this page or <a href=\"https:\/\/wordpress.com\/page\">add another page<\/a>.",
+            "post_excerpt": "This is just a short excerpt for the about&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 1,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_about_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 101
+        },
+        {
+            "post_title": "Contact",
+            "post_content": "This is a contact page with some basic contact information and a contact form. [contact-form][contact-field label=\"Name\" type=\"name\" required=\"1\"\/][contact-field label=\"Email\" type=\"email\" required=\"1\"\/][contact-field label=\"Website\" type=\"url\"\/][contact-field label=\"Comment\" type=\"textarea\" required=\"1\"\/][\/contact-form]",
+            "post_excerpt": "This is just a short excerpt for the contact&nbsp;page.",
+            "post_status": "publish",
+            "menu_order": 2,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_contact_page",
+            "hs_sharing": 1,
+            "hs_like_status": 1,
+            "hs_old_id": 102
+        },
+        {
+            "post_title": "Blog",
+            "post_content": "This is the page where users will find your site's blog",
+            "post_excerpt": "This is just a short excerpt about your blog.",
+            "post_status": "publish",
+            "menu_order": 3,
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "post_type": "page",
+            "hs_custom_meta": "_hs_blog_page",
+            "hs_sharing": 1,
+            "hs_old_id": 103,
+            "hs_like_status": 1
+        },
+        {
+            "post_title": "Blog post title",
+            "post_content": "This is an additional placeholder post. Click the Edit link to modify or delete it, or <a href=\"https:\/\/wordpress.com\/post\">start a new post<\/a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it.",
+            "post_excerpt": "This is the excerpt for a placeholder post. It can be deleted, or <a href=\"https:\/\/wordpress.com\/post\">edited<\/a> to make it your&nbsp;own.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https:\/\/gatewaydemo.files.wordpress.com\/2015\/03\/tumblr_n5waxesawa1st5lhmo1_1280.jpg"
+        },
+        {
+            "post_title": "Blog post title",
+            "post_content": "This is an additional placeholder post. Click the Edit link to modify or delete it, or <a href=\"https:\/\/wordpress.com\/post\">start a new post<\/a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it.",
+            "post_excerpt": "This is the excerpt for a placeholder post. It can be deleted, or <a href=\"https:\/\/wordpress.com\/post\">edited<\/a> to make it your&nbsp;own.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https:\/\/gatewaydemo.files.wordpress.com\/2014\/09\/taxi-238478_1280.jpg"
+        },
+        {
+            "post_title": "Blog post title",
+            "post_content": "This is an additional placeholder post. Click the Edit link to modify or delete it, or <a href=\"https:\/\/wordpress.com\/post\">start a new post<\/a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it.",
+            "post_excerpt": "This is the excerpt for a placeholder post. It can be deleted, or <a href=\"https:\/\/wordpress.com\/post\">edited<\/a> to make it your&nbsp;own.",
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "open",
+            "post_type": "post",
+            "hs_custom_meta": "_hs_generic_post",
+            "hs_sharing": 1,
+            "hs_like_status": 0,
+            "attachment_url": "https:\/\/gatewaydemo.files.wordpress.com\/2015\/04\/cropped-digital-camera-349873_1280.jpg"
+        }
+    ],
+    "menus": {
+        "social-menu": {
+            "name": "Social Menu",
+            "items": [
+                {
+                    "menu-item-title": "Follow me on Facebook",
+                    "menu-item-db-id": 195,
+                    "menu-item-object-id": "195",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/facebook.com"
+                },
+                {
+                    "menu-item-title": "Follow me on Twitter",
+                    "menu-item-db-id": 196,
+                    "menu-item-object-id": "196",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/twitter.com\/wordpressdotcom"
+                },
+                {
+                    "menu-item-title": "Follow me on Instagram",
+                    "menu-item-db-id": 197,
+                    "menu-item-object-id": "197",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/instagram.com"
+                },
+                {
+                    "menu-item-title": "Follow us on Dribbble",
+                    "menu-item-db-id": 198,
+                    "menu-item-object-id": "198",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/dribbble.com\/automattic\/"
+                }
+            ]
+        }
+    }
+}

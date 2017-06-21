@@ -1,0 +1,1268 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gateway Plus WordPress Theme, v1.10\n"
+"POT-Creation-Date: 2015-07-15 10:38-0500\n"
+"PO-Revision-Date: 2015-07-15 10:38-0500\n"
+"Last-Translator: \n"
+"Language-Team: Rescue Themes <hello@rescuethemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:53
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:74
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:27
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34 comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:54
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:72
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:73
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:74
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:75
+msgid "Post Comment"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: customizer/customizer-options.php:127
+msgid "Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:133
+msgid "Sidebar Position"
+msgstr ""
+
+#: customizer/customizer-options.php:138
+msgid "The position of the sidebar on inner pages"
+msgstr ""
+
+#: customizer/customizer-options.php:150
+msgid "Typography"
+msgstr ""
+
+#: customizer/customizer-options.php:161
+msgid "Global"
+msgstr ""
+
+#: customizer/customizer-options.php:169
+msgid "General"
+msgstr ""
+
+#: customizer/customizer-options.php:171
+msgid "These are the base typographic settings."
+msgstr ""
+
+#: customizer/customizer-options.php:176 customizer/customizer-options.php:303
+#: customizer/customizer-options.php:391 customizer/customizer-options.php:479
+#: customizer/customizer-options.php:567 customizer/customizer-options.php:655
+#: customizer/customizer-options.php:743 customizer/customizer-options.php:843
+#: customizer/customizer-options.php:931
+#: customizer/customizer-options.php:1028
+#: customizer/customizer-options.php:1120
+#: customizer/customizer-options.php:1208
+#: customizer/customizer-options.php:1309
+#: customizer/customizer-options.php:1397
+#: customizer/customizer-options.php:1498
+msgid "Font Family"
+msgstr ""
+
+#: customizer/customizer-options.php:186 customizer/customizer-options.php:313
+#: customizer/customizer-options.php:401 customizer/customizer-options.php:489
+#: customizer/customizer-options.php:577 customizer/customizer-options.php:665
+#: customizer/customizer-options.php:753 customizer/customizer-options.php:853
+#: customizer/customizer-options.php:941
+#: customizer/customizer-options.php:1037
+#: customizer/customizer-options.php:1130
+#: customizer/customizer-options.php:1218
+#: customizer/customizer-options.php:1319
+#: customizer/customizer-options.php:1407
+#: customizer/customizer-options.php:1508
+msgid "Font Size (px or em)"
+msgstr ""
+
+#: customizer/customizer-options.php:195 customizer/customizer-options.php:322
+#: customizer/customizer-options.php:410 customizer/customizer-options.php:498
+#: customizer/customizer-options.php:586 customizer/customizer-options.php:674
+#: customizer/customizer-options.php:762 customizer/customizer-options.php:862
+#: customizer/customizer-options.php:950
+#: customizer/customizer-options.php:1045
+#: customizer/customizer-options.php:1139
+#: customizer/customizer-options.php:1227
+#: customizer/customizer-options.php:1328
+#: customizer/customizer-options.php:1416
+#: customizer/customizer-options.php:1517
+msgid "Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:205 customizer/customizer-options.php:332
+#: customizer/customizer-options.php:420 customizer/customizer-options.php:508
+#: customizer/customizer-options.php:596 customizer/customizer-options.php:684
+#: customizer/customizer-options.php:772 customizer/customizer-options.php:872
+#: customizer/customizer-options.php:960
+#: customizer/customizer-options.php:1054
+#: customizer/customizer-options.php:1149
+#: customizer/customizer-options.php:1237
+#: customizer/customizer-options.php:1338
+#: customizer/customizer-options.php:1426
+#: customizer/customizer-options.php:1527
+msgid "Font Style"
+msgstr ""
+
+#: customizer/customizer-options.php:215 customizer/customizer-options.php:342
+#: customizer/customizer-options.php:430 customizer/customizer-options.php:518
+#: customizer/customizer-options.php:606 customizer/customizer-options.php:694
+#: customizer/customizer-options.php:782 customizer/customizer-options.php:882
+#: customizer/customizer-options.php:970
+#: customizer/customizer-options.php:1063
+#: customizer/customizer-options.php:1159
+#: customizer/customizer-options.php:1247
+#: customizer/customizer-options.php:1348
+#: customizer/customizer-options.php:1436
+#: customizer/customizer-options.php:1537
+msgid "Text Transform"
+msgstr ""
+
+#: customizer/customizer-options.php:225 customizer/customizer-options.php:352
+#: customizer/customizer-options.php:440 customizer/customizer-options.php:528
+#: customizer/customizer-options.php:616 customizer/customizer-options.php:704
+#: customizer/customizer-options.php:792 customizer/customizer-options.php:892
+#: customizer/customizer-options.php:980
+#: customizer/customizer-options.php:1257
+#: customizer/customizer-options.php:1446
+#: customizer/customizer-options.php:1547
+msgid "Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:234 customizer/customizer-options.php:361
+#: customizer/customizer-options.php:449 customizer/customizer-options.php:537
+#: customizer/customizer-options.php:625 customizer/customizer-options.php:713
+#: customizer/customizer-options.php:801 customizer/customizer-options.php:901
+#: customizer/customizer-options.php:989
+#: customizer/customizer-options.php:1080
+#: customizer/customizer-options.php:1178
+#: customizer/customizer-options.php:1266
+#: customizer/customizer-options.php:1367
+#: customizer/customizer-options.php:1455
+#: customizer/customizer-options.php:1556
+msgid "Letter Spacing (px or em)"
+msgstr ""
+
+#: customizer/customizer-options.php:243 customizer/customizer-options.php:370
+#: customizer/customizer-options.php:458 customizer/customizer-options.php:546
+#: customizer/customizer-options.php:634 customizer/customizer-options.php:722
+#: customizer/customizer-options.php:810 customizer/customizer-options.php:910
+#: customizer/customizer-options.php:998
+#: customizer/customizer-options.php:1088
+#: customizer/customizer-options.php:1187
+#: customizer/customizer-options.php:1275
+#: customizer/customizer-options.php:1376
+#: customizer/customizer-options.php:1464
+#: customizer/customizer-options.php:1565
+msgid "Word Spacing (px or em)"
+msgstr ""
+
+#: customizer/customizer-options.php:253
+#: customizer/customizer-options.php:1620
+msgid "Links"
+msgstr ""
+
+#: customizer/customizer-options.php:255
+msgid "These are the base link settings."
+msgstr ""
+
+#: customizer/customizer-options.php:260
+msgid "Link Font Weight"
+msgstr ""
+
+#: customizer/customizer-options.php:270
+msgid "Link Underline"
+msgstr ""
+
+#: customizer/customizer-options.php:285
+msgid "Text Headers"
+msgstr ""
+
+#: customizer/customizer-options.php:296
+msgid "H1"
+msgstr ""
+
+#: customizer/customizer-options.php:298
+msgid "Settings for the H1 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:384
+msgid "H2"
+msgstr ""
+
+#: customizer/customizer-options.php:386
+msgid "Settings for the H2 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:472
+msgid "H3"
+msgstr ""
+
+#: customizer/customizer-options.php:474
+msgid "Settings for the H3 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:560
+msgid "H4"
+msgstr ""
+
+#: customizer/customizer-options.php:562
+msgid "Settings for the H4 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:648
+msgid "H5"
+msgstr ""
+
+#: customizer/customizer-options.php:650
+msgid "Settings for the H5 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:736
+msgid "H6"
+msgstr ""
+
+#: customizer/customizer-options.php:738
+msgid "Settings for the H6 tag"
+msgstr ""
+
+#: customizer/customizer-options.php:824
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:836
+#: customizer/customizer-options.php:1755
+msgid "Site Title"
+msgstr ""
+
+#: customizer/customizer-options.php:838
+msgid ""
+"The Site Title will display if no logo image is uploaded into the header."
+msgstr ""
+
+#: customizer/customizer-options.php:924
+#: customizer/customizer-options.php:1764
+msgid "Site Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:926
+msgid ""
+"The Site Tagline will display if no logo image is uploaded into the header."
+msgstr ""
+
+#: customizer/customizer-options.php:1012
+msgid "Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:1021
+msgid "Main Menu"
+msgstr ""
+
+#: customizer/customizer-options.php:1023
+msgid "Font settings for the main site menu."
+msgstr ""
+
+#: customizer/customizer-options.php:1072
+#: customizer/customizer-options.php:1169
+#: customizer/customizer-options.php:1358
+msgid "Dropdown Line Height"
+msgstr ""
+
+#: customizer/customizer-options.php:1101
+msgid "Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:1113
+#: customizer/customizer-options.php:1302
+msgid "Widget Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:1115
+msgid "Font settings for the sidebar widget titles."
+msgstr ""
+
+#: customizer/customizer-options.php:1201
+#: customizer/customizer-options.php:1390
+msgid "Widget Body"
+msgstr ""
+
+#: customizer/customizer-options.php:1203
+#: customizer/customizer-options.php:1392
+msgid "Font settings for the sidebar widget body content."
+msgstr ""
+
+#: customizer/customizer-options.php:1290
+#: customizer/customizer-options.php:1834
+#: customizer/customizer-options.php:2167
+msgid "Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:1304
+msgid "Font settings for the footer widget titles."
+msgstr ""
+
+#: customizer/customizer-options.php:1479
+msgid "Copyright"
+msgstr ""
+
+#: customizer/customizer-options.php:1493
+msgid "Font settings for the copyright text"
+msgstr ""
+
+#: customizer/customizer-options.php:1580
+msgid "Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:1592
+msgid "Sitewide"
+msgstr ""
+
+#: customizer/customizer-options.php:1594
+msgid "The primary sitewide accent color."
+msgstr ""
+
+#: customizer/customizer-options.php:1600
+msgid "Main accent color"
+msgstr ""
+
+#: customizer/customizer-options.php:1601
+msgid "Applied to sitewide buttons and blockquotes."
+msgstr ""
+
+#: customizer/customizer-options.php:1610
+msgid "Main accent hover color."
+msgstr ""
+
+#: customizer/customizer-options.php:1611
+msgid "Hover color for sitewide buttons."
+msgstr ""
+
+#: customizer/customizer-options.php:1622
+msgid "Set the color links"
+msgstr ""
+
+#: customizer/customizer-options.php:1627
+msgid "Link color"
+msgstr ""
+
+#: customizer/customizer-options.php:1635
+msgid "Set the link hover color"
+msgstr ""
+
+#: customizer/customizer-options.php:1644
+msgid "Backgrounds"
+msgstr ""
+
+#: customizer/customizer-options.php:1646
+msgid "Set the color for the sitewide background color"
+msgstr ""
+
+#: customizer/customizer-options.php:1651
+msgid "Main Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1660
+msgid "Content Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1661
+msgid "The background color for posts and page content"
+msgstr ""
+
+#: customizer/customizer-options.php:1670
+msgid "Content Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1685
+msgid "Navigation Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:1687
+msgid "Set the colors for the navigation bar"
+msgstr ""
+
+#: customizer/customizer-options.php:1693
+msgid "Navigation background"
+msgstr ""
+
+#: customizer/customizer-options.php:1701
+msgid "Navigation background hover"
+msgstr ""
+
+#: customizer/customizer-options.php:1709
+msgid "Default Links"
+msgstr ""
+
+#: customizer/customizer-options.php:1718
+msgid "Active Link"
+msgstr ""
+
+#: customizer/customizer-options.php:1726
+msgid "Link Hover"
+msgstr ""
+
+#: customizer/customizer-options.php:1734
+msgid "Dropdown Border"
+msgstr ""
+
+#: customizer/customizer-options.php:1747
+msgid "Title &amp; Tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:1749
+msgid ""
+"The Site Title and Tagline text will display if no logo image is uploaded "
+"into the header"
+msgstr ""
+
+#: customizer/customizer-options.php:1779
+#: customizer/customizer-options.php:1787
+msgid "Inner Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1781
+msgid ""
+"The background color for the inner header. If using a background image, the "
+"background color will not be visible."
+msgstr ""
+
+#: customizer/customizer-options.php:1802 functions.php:99
+msgid "Inner Sidebar"
+msgstr ""
+
+#: customizer/customizer-options.php:1804
+msgid "Set colors for the sidebar area"
+msgstr ""
+
+#: customizer/customizer-options.php:1810
+#: customizer/customizer-options.php:1851
+msgid "Widget Title"
+msgstr ""
+
+#: customizer/customizer-options.php:1819
+#: customizer/customizer-options.php:1860
+msgid "Widget Content"
+msgstr ""
+
+#: customizer/customizer-options.php:1836
+msgid "Set colors for the footer section"
+msgstr ""
+
+#: customizer/customizer-options.php:1842
+msgid "Background"
+msgstr ""
+
+#: customizer/customizer-options.php:1869
+#: customizer/customizer-options.php:2174
+msgid "Copyright Text"
+msgstr ""
+
+#: customizer/customizer-options.php:1886
+msgid "Home"
+msgstr ""
+
+#: customizer/customizer-options.php:1897
+msgid "Static Hero Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1908
+#: customizer/customizer-options.php:1965
+msgid ""
+"The content area is widgetized. To add content (text, buttons, etc.), add a "
+"widget at Widgets > Home Hero"
+msgstr ""
+
+#: customizer/customizer-options.php:1913
+msgid "Image"
+msgstr ""
+
+#: customizer/customizer-options.php:1921
+msgid "Image Behavior"
+msgstr ""
+
+#: customizer/customizer-options.php:1922
+msgid "Select the behavior of the background image"
+msgstr ""
+
+#: customizer/customizer-options.php:1931
+msgid "Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1935
+msgid "Will display if no image is being used"
+msgstr ""
+
+#: customizer/customizer-options.php:1954
+msgid "Hero Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:1956
+msgid "Settings for the home slider."
+msgstr ""
+
+#: customizer/customizer-options.php:1970
+msgid "Select to display the home hero slider"
+msgstr ""
+
+#: customizer/customizer-options.php:1971
+msgid "When activated, the Hero Image settings will not apply."
+msgstr ""
+
+#: customizer/customizer-options.php:1979
+msgid "Fixed Images"
+msgstr ""
+
+#: customizer/customizer-options.php:1980
+msgid "Select to display images as fixed when scrolling."
+msgstr ""
+
+#: customizer/customizer-options.php:1988
+msgid "Images Duration"
+msgstr ""
+
+#: customizer/customizer-options.php:1991
+msgid "Duration time for each background image."
+msgstr ""
+
+#: customizer/customizer-options.php:2002
+msgid "Image Fade In"
+msgstr ""
+
+#: customizer/customizer-options.php:2005
+msgid "Fade in duration for each background image."
+msgstr ""
+
+#: customizer/customizer-options.php:2016
+msgid "Overlay Color"
+msgstr ""
+
+#: customizer/customizer-options.php:2017
+msgid "Color overlayed on the home page images."
+msgstr ""
+
+#: customizer/customizer-options.php:2025
+msgid "Opacity level"
+msgstr ""
+
+#: customizer/customizer-options.php:2028
+msgid "Adjust the opacity for the overlay color."
+msgstr ""
+
+#: customizer/customizer-options.php:2045
+msgid "Featured Posts"
+msgstr ""
+
+#: customizer/customizer-options.php:2047
+msgid "Settings for the home page featured posts section."
+msgstr ""
+
+#: customizer/customizer-options.php:2053
+msgid "Display Featured Posts"
+msgstr ""
+
+#: customizer/customizer-options.php:2061
+msgid "Enter the home featured posts section title"
+msgstr ""
+
+#: customizer/customizer-options.php:2070
+msgid "Enter the home featured posts section subtitle"
+msgstr ""
+
+#: customizer/customizer-options.php:2079
+msgid "Home Posts Category"
+msgstr ""
+
+#: customizer/customizer-options.php:2095
+msgid "Header"
+msgstr ""
+
+#: customizer/customizer-options.php:2097
+msgid "Image will display in the header."
+msgstr ""
+
+#: customizer/customizer-options.php:2102
+msgid "Logo"
+msgstr ""
+
+#: customizer/customizer-options.php:2110
+msgid "Logo Width"
+msgstr ""
+
+#: customizer/customizer-options.php:2117
+msgid "Logo Height"
+msgstr ""
+
+#: customizer/customizer-options.php:2124
+msgid "Inner pages header background"
+msgstr ""
+
+#: customizer/customizer-options.php:2137
+msgid "Blog"
+msgstr ""
+
+#: customizer/customizer-options.php:2139
+msgid "Blog Page Options"
+msgstr ""
+
+#: customizer/customizer-options.php:2144
+msgid "Enter the blog page title"
+msgstr ""
+
+#: customizer/customizer-options.php:2153
+msgid "Enter the blog page subtitle"
+msgstr ""
+
+#: customizer/customizer-options.php:2169
+msgid "Footer options. The following HTML are allowed: a, bold"
+msgstr ""
+
+#: customizer/customizer-options.php:2177
+msgid ""
+"Copyright 2015 <a href=\"https://rescuethemes.com\">Rescue Themes</a>. All "
+"Rights Reserved."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Quattrocento, translate this to 'off'. Do not translate into your own language.
+#: fonts/google-fonts.php:13
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Fanwood Text, translate this to 'off'. Do not translate into your own language.
+#: fonts/google-fonts.php:17
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your language, translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: fonts/google-fonts.php:21
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Home Hero"
+msgstr ""
+
+#: functions.php:117
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:126
+msgid "Footer Middle"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer Right"
+msgstr ""
+
+#: header-home.php:22 header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header-home.php:70 header.php:54
+msgid "Menu"
+msgstr ""
+
+#: inc/extras.php:46
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:36
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Trackback:"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:87
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:114
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:140
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:145
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:162 inc/template-tags.php:168
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:164
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:170
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:180 template-parts/content-page.php:37
+msgid "Edit"
+msgstr ""
+
+#: inc/updater/theme-updater.php:29
+msgid "Theme License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:30
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/updater/theme-updater.php:31
+msgid "License Key"
+msgstr ""
+
+#: inc/updater/theme-updater.php:32
+msgid "License Action"
+msgstr ""
+
+#: inc/updater/theme-updater.php:33
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:34
+msgid "Activate License"
+msgstr ""
+
+#: inc/updater/theme-updater.php:35 inc/updater/theme-updater.php:47
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/updater/theme-updater.php:36
+msgid "Renew?"
+msgstr ""
+
+#: inc/updater/theme-updater.php:37
+msgid "unlimited"
+msgstr ""
+
+#: inc/updater/theme-updater.php:38
+msgid "License key is active."
+msgstr ""
+
+#: inc/updater/theme-updater.php:39
+#, php-format
+msgid "Expires %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:40
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/updater/theme-updater.php:41
+#, php-format
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/updater/theme-updater.php:42
+msgid "License key has expired."
+msgstr ""
+
+#: inc/updater/theme-updater.php:43
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/updater/theme-updater.php:44
+msgid "License is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:45
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/updater/theme-updater.php:46
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/updater/theme-updater.php:48
+msgid ""
+"Notice: Any customizations you have made to theme files will be lost during "
+"the update. Please consider using a child theme if not already. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/updater/theme-updater.php:49
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+
+#: inc/welcome-screen/sections/changelog.php:11
+msgid "Version Update Details"
+msgstr ""
+
+#: inc/welcome-screen/sections/changelog.php:12
+msgid "Review Gateway Plus' version details and release dates."
+msgstr ""
+
+#: inc/welcome-screen/sections/intro.php:15
+msgid ""
+"Thanks for using the Gateway Plus theme! This info page should help you get "
+"started and serve as a handy reference area."
+msgstr ""
+
+#. Description of the plugin/theme
+#: inc/welcome-screen/sections/intro.php:16
+msgid ""
+"Gateway Plus incorporates elegant style with user friendly customizer "
+"options making it perfectly suited for a variety of WordPress users."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:17
+msgid "Getting Started With Gateway Plus"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:18
+msgid ""
+"We've purposely kept Gateway Plus clean and fast but packed full of "
+"customization options so setup is a breeze. Here are some common tasks to "
+"get you started:"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:27
+msgid "1. Install Recommended Plugins"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:28
+msgid ""
+"Although Gateway Plus works fine as a standalone WordPress theme, there are "
+"a few recommended plugins. Once the plugins are installed, be sure to "
+"activate them:"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:37
+msgid "Install Jetpack"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:43
+msgid "Jetpack Installed!"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:55
+msgid "Rescue Shortcodes"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:61
+msgid "Rescue Shortcodes Installed!"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:73
+msgid "2. Configure Menu"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:74
+msgid ""
+"Gateway Plus includes a primary menu located in the header area of the "
+"theme. The primary navigation is perfect for your key pages like the blog "
+"and contact page. Click below to navigate to the navigation menu system."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:75
+msgid "Configure Menu"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:83
+msgid "3. Create a Home and Blog Page"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:84
+msgid ""
+"Gateway Plus includes multiple home page templates. To use a home page "
+"template, create a new page and assign the home page template to it that "
+"you'd like to use."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:86
+msgid "Creating the Homepage &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:88
+msgid ""
+"The blog page will display from the theme's index template. This means that "
+"there's no need to assign a custom template to display your blog page. "
+"Simply create a new page that will be dedicated to your posts and assign it "
+"in your Reading settings."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:90
+msgid "Creating the Blog Page &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:92
+msgid ""
+"Assign both your \"Home\" Front Page and \"Blog\" Posts page in your Reading "
+"settings."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:94
+msgid "Reading Settings"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:102
+msgid "4. Customize Theme Settings"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:103
+msgid ""
+"Using the WordPress Customizer you can modify Gateway Plus' appearance to "
+"match your own style."
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:104
+msgid "Open the Customizer"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:112
+msgid "View documentation"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:113
+msgid ""
+"You can read detailed information on Gateway Plus' features and review "
+"additional instructions in the documentation:"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:114
+msgid "View documentation &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:122
+msgid "Demo Content &amp; Resources"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:123
+msgid ""
+"Your Rescue Themes account will include a number of resources for your theme "
+"include demo content:"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:124
+msgid "Your Rescue Themes Account &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/start.php:125
+msgid "Installing Demo Content &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:10
+msgid "Support for Your Gateway Plus Theme"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:16
+msgid "Basic Support"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:18
+msgid ""
+"12 months of basic support and updates are included with your theme purchase!"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:19
+msgid "Basic support includes:"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:22
+msgid "General Setup Questions"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:23
+msgid "One-on-One access to the developer"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:24
+msgid "Fixing bugs"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:27
+msgid "Send a Basic Support Request &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:35
+msgid "Upgrade to Priority Support"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:37
+msgid ""
+"If you need extra support for your theme like minor customizations and hands-"
+"on theme installation, Priority Support's got you covered."
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:39
+msgid "Priority support includes:"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:42
+msgid "Everything in Basic support plus..."
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:43
+msgid "Theme Installation"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:44
+msgid "Minor customizations"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:45
+msgid "Demo setup"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:46
+msgid "Top of the queue priority"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:47
+msgid "WordPress Guidance"
+msgstr ""
+
+#: inc/welcome-screen/sections/support.php:50
+msgid "Learn About Priority Support &rarr;"
+msgstr ""
+
+#: inc/welcome-screen/sections/tabs.php:2
+msgid "Getting Started"
+msgstr ""
+
+#: inc/welcome-screen/sections/tabs.php:3
+msgid "Gateway Plus Support"
+msgstr ""
+
+#: inc/welcome-screen/sections/tabs.php:4
+msgid "Changelog"
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:44
+#, php-format
+msgid ""
+"Thanks for choosing Gateway Plus! You can read hints and tips on how get the "
+"most out of your new theme on the %stheme info screen%s."
+msgstr ""
+
+#: inc/welcome-screen/welcome-screen.php:45
+msgid "Get started with Gateway Plus"
+msgstr ""
+
+#: search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:32
+#: template-parts/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:34
+#, php-format
+msgid "more %s <span class=\"meta-nav\">...</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Gateway Plus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rescuethemes.com/wordpress-themes/gateway-plus"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rescue Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rescuethemes.com"
+msgstr ""

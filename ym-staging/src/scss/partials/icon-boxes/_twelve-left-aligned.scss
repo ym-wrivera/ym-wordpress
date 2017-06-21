@@ -1,0 +1,44 @@
+.fc-icon-boxes.twelve-left-aligned {
+
+	.flex-wrap {
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		flex-direction: column;
+
+		@include bp(med) {
+			flex-direction: row;
+			flex-wrap: wrap;
+		}
+	}
+
+	figure {
+		margin-bottom: rem(30);
+	}
+
+	article {
+		padding: 0;
+
+		@include bp(med) {
+			lost-column: 1/2;
+		}
+
+		@include bp(large) {
+			lost-column: 1/3;
+		}
+
+		@include bp(wide) {
+			lost-column: 1/4;
+		}
+	}
+
+	.entry-content {
+		font-size: rem(15);
+		line-height: 23px;
+	}
+
+	.button-group {
+		margin-top: 0;
+	}
+
+}

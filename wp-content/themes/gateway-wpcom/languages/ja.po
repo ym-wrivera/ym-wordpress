@@ -1,0 +1,362 @@
+# Translation of Gateway in Japanese
+# This file is distributed under the same license as the Gateway package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-03 00:42:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Gateway\n"
+
+#: header-home.php:62 header.php:45
+msgid "Menu"
+msgstr "メニュー"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-home.php
+msgid "Home Page"
+msgstr "ホームページ"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/gateway/style.css
+msgid "Gateway is the perfect mix of class and elegance, a traditional yet customizable home for your content. Reinforce your brand with a site logo, add a bold header image and call to action, and showcase your best posts or a video with a special Homepage template."
+msgstr "Gateway は、上品さと洗練のバランスがしっかり取れたテーマです。従来型でありつつカスタマイズ可能で、あなたのコンテンツのホームとなるでしょう。サイトロゴを組み込むことでブランドを強化したり、大胆なヘッダー画像やアクションボタンを追加したり、特別なホームページ・テンプレートで特定のブログ投稿や動画を紹介したりできます。"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/gateway/template-full.php
+msgid "Full Width, No Sidebar"
+msgstr "全幅、サイドバーなし"
+
+#: template-parts/content-page.php:30 template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度検索してみてください。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>してください。"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした。"
+
+#: template-parts/content-home.php:44 template-parts/content-page.php:37
+#: template-parts/content-single.php:37 template-parts/content.php:41
+msgid "Edit"
+msgstr "編集"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: template-parts/content-home.php:40 template-parts/content.php:37
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "検索結果: %s"
+
+#: inc/template-tags.php:172
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:170
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:166
+msgid "Archives: %s"
+msgstr "アーカイブ: %s"
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "チャット"
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音声"
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "ステータス"
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "リンク"
+
+#: inc/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引用"
+
+#: inc/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "動画"
+
+#: inc/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "画像"
+
+#: inc/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: inc/template-tags.php:147
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "アサイド"
+
+#: inc/template-tags.php:144
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:144
+msgid "Day: %s"
+msgstr "﻿日: %s"
+
+#: inc/template-tags.php:142
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:142
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: inc/template-tags.php:140
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:140
+msgid "Year: %s"
+msgstr "﻿年: %s"
+
+#: inc/template-tags.php:138
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: inc/template-tags.php:136
+msgid "Tag: %s"
+msgstr "タグ: %s"
+
+#: inc/template-tags.php:134
+msgid "Category: %s"
+msgstr "カテゴリー: %s"
+
+#: inc/template-tags.php:114
+msgid "Tagged %1$s"
+msgstr "タグ:  %1$s"
+
+#: inc/template-tags.php:108
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:106 inc/template-tags.php:112
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:84
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/template-tags.php:89
+msgctxt "post author"
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "新しい投稿"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer.php:28
+msgid "Homepage Template"
+msgstr "ホームページテンプレート"
+
+#: inc/customizer.php:38
+msgid "Hero Title"
+msgstr "ヒーロー・タイトル"
+
+#: inc/customizer.php:39
+msgid "Appears in the header."
+msgstr "ヘッダー部分に表示されます。"
+
+#: inc/customizer.php:51
+msgid "Hero Content"
+msgstr "ヒーロー・コンテンツ"
+
+#: inc/customizer.php:52
+msgid "Appears in the header. You may use HTML."
+msgstr "ヘッダー部分に表示されます。HTML が利用できます。"
+
+#: inc/customizer.php:64
+msgid "Video URL"
+msgstr "動画 URL"
+
+#: inc/customizer.php:65
+msgid "Appears below the Featured Content."
+msgstr "おすすめコンテンツの下に表示されます。"
+
+#: inc/customizer.php:77
+msgid "Video Content"
+msgstr "動画コンテンツ"
+
+#: inc/customizer.php:78
+msgid "Appears next to the video. You may use HTML."
+msgstr "動画の隣に表示されます。HTML が利用できます。"
+
+#: inc/customizer.php:23
+msgid "General"
+msgstr "一般"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/custom-header.php:32
+msgid "City"
+msgstr "市区町村"
+
+#: header-home.php:28 header.php:23
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#. translators: If there are characters in your language that are not supported
+#. by Quattrocento, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:170
+msgctxt "Quattrocento font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Fanwood Text, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:175
+msgctxt "Fanwood Text font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:181
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:238
+msgid "More <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "<span class=\"screen-reader-text\">%1$s</span> をもっと読む"
+
+#: functions.php:116
+msgid "Footer 2"
+msgstr "フッター 2"
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr "フッター 3"
+
+#: functions.php:107
+msgid "Footer 1"
+msgstr "フッター 1"
+
+#: functions.php:98
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: footer.php:58
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:56
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:56
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; 古いコメント"
+
+#: comments.php:38 comments.php:56
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "月別アーカイブを見てみてください。%1$s"
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "よく使われているカテゴリー"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"

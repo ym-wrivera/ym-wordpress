@@ -1,0 +1,174 @@
+(function() {
+	tinymce.PluginManager.add('genesis_shortcodes', function( editor, url ) {
+		editor.addButton('genesis_shortcodes', {
+			icon: 'genesis-shortcode-generator',
+			type: 'menubutton',
+			menu: [
+				{
+					text: 'Genesis Default Shortcodes',
+					menu: [
+						{
+							text: 'Post Date',
+							onclick: function() {
+								editor.insertContent('[post_date format="F j, Y" label="Date: "]');
+							}
+						},
+						{
+							text: 'Post Time',
+							onclick: function() {
+								editor.insertContent('[post_time format="g:i a" label="Posted at: "]');
+							}
+						},
+						{
+							text: 'Post Author',
+							onclick: function() {
+								editor.insertContent('[post_author]');
+							}
+						},
+						{
+							text: 'Post Author Link',
+							onclick: function() {
+								editor.insertContent('[post_author_link nofollow="false"]');
+							}
+						},
+						{
+							text: 'Post Author Posts Link',
+							onclick: function() {
+								editor.insertContent('[post_author_posts_link]');
+							}
+						},
+						{
+							text: 'Post Comments',
+							onclick: function() {
+								editor.insertContent('[post_comments zero="Leave a Comment" one="1 Comment" more="% Comments"]');
+							}
+						},
+						{
+							text: 'Post Tags',
+							onclick: function() {
+								editor.insertContent('[post_tags sep=" | "]');
+							}
+						},
+						{
+							text: 'Post Categories',
+							onclick: function() {
+								editor.insertContent('[post_categories sep=" | "]');
+							}
+						},
+						{
+							text: 'Post Terms',
+							onclick: function() {
+								editor.insertContent('[post_terms sep=" | " taxonomy=""]');
+							}
+						}
+					]
+				},
+				{
+					text: 'Genesis Widgets',
+					menu: [
+						{
+							text: 'Featured Page',
+							onclick: function() {
+								editor.insertContent('[genesis_featured_page page_id=""]');
+							}
+						},
+						{
+							text: 'Featured Post',
+							onclick: function() {
+								editor.insertContent('[genesis_featured_post posts_cat=""]');
+							}
+						},
+						{
+							text: 'User Profile',
+							onclick: function() {
+								editor.insertContent('[genesis_user_profile user=""]');
+							}
+						}
+					]
+				},
+				{
+					text: 'Columns',
+					menu: [
+						{
+							text: 'One Half First',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-half" position="first"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Half',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-half"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Third First',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-third" position="first"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Third',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-third"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Fourth First',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-fourth" position="first"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Fourth',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-fourth"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Sixth First',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-sixth" position="first"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'One Sixth',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="one-sixth"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'Two Thirds',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="two-thirds"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'Three Fourths',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="three-fourths"]Sample Content[/genesis_column]');
+							}
+						},
+						{
+							text: 'Five Sixths',
+							onclick: function() {
+								editor.insertContent('[genesis_column size="five-sixths"]Sample Content[/genesis_column]');
+							}
+						},
+					]
+				},
+				{
+					text: 'Layout',
+					menu: [
+						{
+							text: 'Clear',
+							onclick: function() {
+								editor.insertContent('[gb_clear]');
+							}
+						}
+					]
+				}
+			]
+		});
+	});
+}) ();

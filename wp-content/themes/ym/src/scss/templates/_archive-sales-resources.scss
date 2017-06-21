@@ -1,0 +1,81 @@
+.archive-sales-resources {
+
+	// Hero Section
+	.hero {
+		.wrap {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
+		h1 {
+			color: $white;
+			margin: 0;
+		}
+	}
+
+	.archive-description {
+		margin: 0 0 rem(60) 0;
+
+		@include bp(1000px) {
+			margin: 0 0 rem(30) 0;
+		}
+	}
+
+	.segment-header {
+		color: $slate-dark;
+		margin-bottom: rem(50);
+	}
+
+	.content {
+		@include bp(1000px) {
+			lost-flex-container: row;
+		}
+	}
+
+	.sales-resource-categories {
+		@include bp(1000px) {
+			lost-column: 6/12 2 0;
+		}
+	}
+
+	.sales-resource {
+		align-items: center;
+		display: flex;
+		justify-content: flex-start;
+		margin-bottom: rem(50);
+		padding-top: 0;
+
+		@include bp(700px 1000px) {
+			max-width: 75vw;
+		}
+
+		&:last-child {
+			margin-bottom: rem(100);
+		}
+
+		.icon {
+			margin-right: 20px;
+		}
+
+	}
+
+	.entry-header {
+		h5 {
+			margin-bottom: 0;
+		}
+
+		a {
+			color: $slate-dark;
+			font-size: rem(20);
+		}
+	}
+
+	.excerpt {
+		margin-bottom: 0;
+		a {
+			color: $green1;
+			font-size: rem(12);
+		}
+	}
+}

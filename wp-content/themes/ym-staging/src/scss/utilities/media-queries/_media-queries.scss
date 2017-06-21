@@ -1,0 +1,26 @@
+// Import mappy-breakpoints from npm
+// Zell Liew - https://github.com/zellwk/mappy-breakpoints
+
+@import "../../../../node_modules/mappy-breakpoints/mappy-breakpoints";
+
+
+$breakpoints: (
+	small: 480px,
+	med: 640px,
+	large: 800px,
+	big: 1023px,
+	wide: 1200px,
+	mega: 1440px
+);
+
+
+$mappy-queries: (
+	small: mappy-bp(small),
+	med: mappy-bp(med),
+	large: mappy-bp(large),
+	big: mappy-bp(big),
+	wide: mappy-bp(wide),
+	mega: mappy-bp(mega)
+);
+
+

@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://yourmembership.com/xmlrpc.php">
+
+<title>Mobile Event App - YourMembership</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://yourmembership.com/products/mobile-event-app/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mobile Event App - YourMembership" />
+<meta property="og:description" content="Shift to a richer, more valuable mobile event app. A conference + event app that does it all for your mobile audience. Impress attendees The perfect event companion for today’s mobile audience. Spotlight sponsors Put your sponsors right at your attendees fingertips increase exposure, generate leads and grow non-dues revenue. Get fast results Easily report &hellip;" />
+<meta property="og:url" content="http://yourmembership.com/products/mobile-event-app/" />
+<meta property="og:site_name" content="YourMembership" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/MakeTheShift-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/SpotlightSponsors-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/GetFastResults-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/BMWMOA-Mock01.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen1.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen3.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen2.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen4.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen5.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen6.jpg" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/CorporateMeetingsEventsRetreats-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ConferencesConventions-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/Tradeshows-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/SeminarsWorkshops-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/TrainingSessions-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/CustomerAdvisoryBoards-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ResultDrivenEventApp-01.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/Computer.png" />
+<meta property="og:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/Envelope-1.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Shift to a richer, more valuable mobile event app. A conference + event app that does it all for your mobile audience. Impress attendees The perfect event companion for today’s mobile audience. Spotlight sponsors Put your sponsors right at your attendees fingertips increase exposure, generate leads and grow non-dues revenue. Get fast results Easily report [&hellip;]" />
+<meta name="twitter:title" content="Mobile Event App - YourMembership" />
+<meta name="twitter:image" content="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/MakeTheShift-01.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C700%2C900&#038;ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel-css'  href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bxslider-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/bxslider-custom.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='yourmembership-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ym-css'  href='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/css/ym-original.css?ver=4.7.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.1.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	// Function to detect opted out users
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	// Disable tracking if the opt-out cookie exists.
+	var disableStr = 'ga-disable-UA-398613-1';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	// Opt-out function
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-398613-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/yourmembership.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.1.6'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<link rel='https://api.w.org/' href='http://yourmembership.com/wp-json/' />
+<meta name="generator" content="WordPress 4.7.3" />
+<link rel='shortlink' href='http://yourmembership.com/?p=13' />
+<link rel="alternate" type="application/json+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmobile-event-app%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://yourmembership.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmobile-event-app%2F&#038;format=xml" />
+<script src='http://wp.ymem.net/?dm=72abc42b20854fd0cf9ea67268a3e7c1&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=1071328085&amp;back=http%3A%2F%2Fyourmembership.com%2Fproducts%2Fmobile-event-app%2F8%2F' type='text/javascript'></script><style type="text/css">
+#author-bio-box {
+width:100%;
+background: #fbfbfb;
+border: 3px solid #f5f5f5;
+box-shadow: none;
+padding: 10px;
+        position: relative;
+        overflow: hidden;
+}
+#author-bio-box img {
+margin-right: 10px;
+margin-bottom: 2px;
+}
+#author-bio-box .avatar {
+        float:left;
+}
+#author-bio-box .author-name {
+font-weight: bold;
+margin: 0px;
+font-size: 14px;
+}
+#author-bio-box p {
+font-size: 16px;
+line-height: 18px;
+}
+#author-bio-box thead th {
+border: 0;
+}
+#author-bio-box tbody {
+border: 0;
+}
+.bio-spacer { min-height:44px; padding: 1px; display: block; clear: both; border:1px;}
+.bio-socials {
+border-bottom:none;
+border-left:none;
+border-right:none;
+width: 100%;
+height: auto;
+clear: both;
+}
+</style></head>
+
+<body class="page-template-default page page-id-13 page-child parent-pageid-8838 paged-8 page-paged-8">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZMRHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZMRHW');</script>
+<!-- End Google Tag Manager -->
+
+<div id="request-demo">
+	<div id="demo-tab">
+		<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/demo-tab.png">
+	</div>
+	<div id="demo-form">
+		<a id="close" class="demo-close" href="javascript:void(0);">
+			<img src="https://ymwp.ymcdn.com/wp-content/themes/yourmembership/images/close.png">
+		</a>
+				<iframe src="http://go.yourmembership.com/l/134231/2016-01-07/r8q" width="100%" height="540" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>	</div>
+</div>
+
+<header class="header">
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		 
+			<div class="announce-bar">
+				<div class="container">
+					YourMembership launches SocialLink! <a href="/products/sociallink">Learn more</a>				</div>
+			</div>
+				<div class="container">
+			<div class="navbar-header">
+				<a class="nav-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="menu-text">Menu</span>
+				</a>
+				<a class="navbar-brand" href="/">yourmembership.com</a>
+			</div>
+			<div class="nav-main">
+				<div class="menu-primary-menu-container"><ul id="primary-menu" class="primary-menu"><li id="menu-item-8843" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-8843"><a>Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-8844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8844"><a href="http://yourmembership.com/products/sociallink/">All-New SocialLink</a></li>
+	<li id="menu-item-8845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8845"><a href="http://yourmembership.com/products/membership-software/">Membership Software</a></li>
+	<li id="menu-item-8846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8846"><a href="http://yourmembership.com/products/career-center/">Career Center + Job Boards</a></li>
+	<li id="menu-item-8847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8847"><a href="http://yourmembership.com/products/buyers-guides/">Ad + Media Solutions</a></li>
+	<li id="menu-item-8848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8848"><a href="http://yourmembership.com/products/learning-management-system/features/">Online Learning Management</a></li>
+	<li id="menu-item-8849" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-13 current_page_item menu-item-8849"><a href="http://yourmembership.com/products/mobile-event-app/">Mobile Event App</a></li>
+</ul>
+</li>
+<li id="menu-item-8850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8850"><a>Partners</a>
+<ul class="sub-menu">
+	<li id="menu-item-8851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8851"><a href="http://yourmembership.com/partner-programs-2/">Affiliate Partner Programs</a></li>
+	<li id="menu-item-8852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8852"><a href="http://yourmembership.com/partner-programs-2/association-management-company/">AMC Partner Program</a></li>
+</ul>
+</li>
+<li id="menu-item-8853" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8853"><a>Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-8854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8854"><a href="http://yourmembership.com/resource-library/upcoming/">Events + Webinars</a></li>
+	<li id="menu-item-8855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8855"><a href="http://yourmembership.com/resource-library/">Resource Library</a></li>
+	<li id="menu-item-8856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8856"><a href="http://yourmembership.com/resource-library/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-8857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8857"><a href="http://%20">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-8858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8858"><a href="http://yourmembership.com/company/clients/">Company + Clients</a></li>
+	<li id="menu-item-8859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8859"><a href="http://yourmembership.com/company/management-team/">Meet Our Team</a></li>
+	<li id="menu-item-8860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8860"><a href="http://yourmembership.com/company/customer-service/">Customer Support</a></li>
+	<li id="menu-item-8861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8861"><a href="http://yourmembership.com/company/technology/">Technology</a></li>
+	<li id="menu-item-8862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8862"><a href="http://yourmembership.com/news/">In the News</a></li>
+	<li id="menu-item-8863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8863"><a href="http://yourmembership.com/company/responsibility/">Corporate Responsibility</a></li>
+</ul>
+</li>
+</ul></div>				<ul class="toolbar">
+					<li class="contact"><a href="/contact">Contact</a></li>
+					<li class="blog"><a href="/resource-library/blog">Blog</a></li>
+					<li class="careers"><a href="http://www.recruitingsite.com/csbsites/yourmembership/index.asp">Careers</a></li>
+				</ul>				
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</header>
+
+
+<div id="content" class="site-content">
+	
+
+	
+
+
+
+
+
+			<div class="image-header" style="background-image:url(8);">
+			<div class="image-header-inner container">
+				<div class="title">
+					<h1>YM's Mobile Event App</h1>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-13" class="post-13 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<p><!-- / 3 columns container starts --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Shift to a richer, more valuable mobile event app.</h1>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p align="center" style="color:#a3a9ae;font-weight:200;font-size:22px">A conference + event app that does it all for your mobile audience.</p>
+<p><!-- / 3 column starts --></p>
+<div align="center" class="container pbottom-50 ds mtop-50">
+<p>     <!-- / column left --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/MakeTheShift-01.png" style="width:150px;height:150px"></div>
+<h2>Impress attendees</h2>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">The perfect event companion for today’s mobile audience.</p>
+</p></div>
+<p>    <!-- / column center --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/SpotlightSponsors-01.png" style="width:150px;height:150px"></div>
+<h2>Spotlight sponsors</h2>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Put your sponsors right at your attendees fingertips increase exposure, generate leads and grow non-dues revenue.</p>
+</p></div>
+<p>    <!-- / column right --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/GetFastResults-01.png" style="width:150px;height:150px"></div>
+<h2>Get fast results</h2>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Easily report on attendee activity as well as event performance using analytics.</p>
+</p></div>
+</div>
+<div align="center"><a class="btn" href="/mobile-request-demo/" style="padding: 20px 40px 20px 40px">Let&#8217;s talk</a></div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+<p><!-- Features block starts --></p>
+<div class="container ds pbottom-50">
+<p><!-- image starts --></p>
+<div class="col-md-6">
+       <img style="padding-top:25px" class="img-responsive" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/BMWMOA-Mock01.jpg" />
+    </div>
+<p><!-- image ends --></p>
+<div class="col-md-1 hidden-sm hidden-xs"></div>
+<p><!-- copy starts --></p>
+<div class="col-md-5 col-xs-12">
+<div class="col-md-12 sans-p mbottom-50">
+<h1 style="color: #a8ad00;font-weight: 400;font-size: 20pt;line-height: 26pt">Inspire connections that matter.</h1>
+<h2 class="gray" style="color:#a3a9ae;font-weight:200;font-size:22px">Throw the perfect event and boost engagement.</h2>
+<p style="color:#a3a9ae;font-weight:200;font-size:18px">
+<p style="padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Give your attendee&#8217;s a personalized experience with our fully-integrated event and conference app. Easily organize and manage relevant events that make an impact, transfer data in real time for schedule and agenda changes, and always have the most up-to-date member data, including professional development credits for session attendance.</p>
+<p> 	<a class="btn" href="/mobile-request-demo/">Learn more</a>
+    </div>
+</div>
+<p><!-- copy ends --></p>
+</div>
+<p><!-- Features block ends --></p>
+<p><!-- / testimonial wrapper start --></p>
+<div id="bg-image" class="city active">
+<p><!-- / headline starts --></p>
+<div style="padding-bottom:0px;padding-top:0px" class="container hp-content">
+<div class="col-md-12">
+<h1 class="text-center" style="color: #ffffff;font-weight: 400;font-size: 2.0em">&#8220;“The ability to publish up-to-date information on vendors, seminars and events within our event app is really valuable. We were able to assist attendees from across the entire venue.&#8221;</h1>
+<div class="text-center" style="font-size: 16px;color:#a3a9ae;line-height: 24px">Ted Moyer, Executive Director, BMWMOA Foundation </div>
+</div>
+</h1>
+</div>
+<p><!-- / headline ends --></p>
+</div>
+<p><!-- / testimonials wrapper end --></p>
+<p><!-- PRODUCTS : POWERFUL FEATURES STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered bottom-border container">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">Features that engage your audience even after the session wraps.</h1>
+<h2 class="gray text-center" style="color:#a3a9ae;font-weight:200;font-size:22px"> </h2>
+<p class="text-center" style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Host multiple events year-round with ease through a single platform that supports thousands of highly-personalized interactions.</p>
+<div class="icons">
+<div id="col1" class="col col-md-4 col-sm-6">
+<div class="col-content">
+<h3>Event Essentials</h3>
+<p style="font-size:16px">
+<ul>
+<li>Attendee activity feed</li>
+<li>Event announcements</li>
+<li>Schedule of events</li>
+<li>Gaming center</li>
+<li>Information booth + messaging</li>
+<li>Attendee + speaker profiles</li>
+<li>Schedule creator + session mapping</li>
+<li>Push notifications</li>
+<li>Survey + polling</li>
+<li>Universal search</li>
+</ul>
+</p></div>
+</p></div>
+<div id="col2" class="col col-md-3 col-sm-6">
+<div class="col-content">
+<h3>Social Engagement</h3>
+<p style="font-size:16px">
+<ul>
+<li>Contact exchange</li>
+<li>Photo gallery</li>
+<li>Attendee connections</li>
+<li>Quick meeting</li>
+<li>Speak out</li>
+<li>Tell a friend</li>
+<li>Video content</li>
+<li>Seat mapping</li>
+</ul>
+</p></div>
+</p></div>
+<div id="col3" class="col col-md-3 col-sm-6">
+<div class="col-content">
+<h3>Exhibitor + Sponsor</h3>
+<p style="font-size:16px">
+<ul>
+<li>Contact exchange</li>
+<li>Photo gallery</li>
+<li>Attendee connections</li>
+<li>Quick meeting</li>
+<li>Speak out</li>
+<li>Tell a friend</li>
+<li>Video content</li>
+<li>Seat mapping</li>
+</ul>
+</p></div>
+</p></div>
+<div id="col4" class="col col-md-2 col-sm-6">
+<div class="col-content">
+<h3>Learning + Education</h3>
+<p style="font-size:16px">
+<ul>
+<li>Articles + documents</li>
+<li>Attendee notes</li>
+<li>Venue + session check-in</li>
+<li>Session Q&amp;A</li>
+<li>Real-time content</li>
+<li>Session categories</li>
+</ul>
+</p></div>
+</p></div>
+<div class="clearfix"></div>
+</p></div>
+</p></div>
+</div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- INTERACTIVE SECTION --></p>
+<div class="container ds pbottom-50 mtop-50">
+<div class="main">
+<div id="ac-wrapper" class="ac-wrapper">
+<h2>Xperience <span>Conference App</span></h2>
+<div class="ac-device">
+                        <a href="#"><img class="img-responsive"></a></p>
+<h3 class="ac-title">Mobile Event App</h3>
+</p></div>
+<div class="ac-grid">
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen1.jpg" /><span>Mobile Event App</span></a><br />
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen3.jpg" /><span>Personalize: Create individual attendee schedules, contact lists and exhibitor lists</span></a><br />
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen2.jpg" /><span>Share: Attendees can message each other from within app, and set up 1-on-1 meetings</span></a><br />
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen4.jpg" /><span>Measure: Monitor who is using your app, and how they’re spending their time</span></a><br />
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen5.jpg" /><span>Interact: Gamify your app to drive attendee behavior and reward participation</span></a><br />
+                        <a href="#"><img src="https://ymwp.ymcdn.com/wp-content/uploads/2015/12/screen6.jpg" /><span>Achieve Real ROI: Seamlessly integrate with YourMembership’s event registration system </span></a>
+                    </div>
+</p></div>
+<p class="mtop-25 text-center">Click to toggle between single and grid view.</p>
+</p></div>
+</div>
+<p><!-- INTERACTIVE ENDS --></p>
+<div align="center"><a class="btn" href="/mobile-request-demo/" style="padding: 20px 40px 20px 40px">Learn more</a></div>
+<p><!-- INTERACTIVE SECTION ENDS--></p>
+<p><!-- PRODUCTS : WHO USES SECTION STARTS--></p>
+<p><!-- CONTENT STARTS --></p>
+<section id="revenue" class="product-page feature-set">
+<div class="centered bottom-border container">
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 2.6em">One stage for endless events</h1>
+<h2 class="gray text-center" style="color:#a3a9ae;font-weight:200;font-size:22px">Make your next event, conference or trade show a memorable experience.</h2>
+<p>&nbsp;<br />&nbsp;</p>
+<div class="icons">
+<div id="col1" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/CorporateMeetingsEventsRetreats-01.png" alt="Corporate events" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Corporate meetings + events + retreats</h3>
+</p></div>
+</p></div>
+<div id="col2" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ConferencesConventions-01.png" alt="Conferences" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Conferences + conventions</h3>
+</p></div>
+</p></div>
+<p>  <!-- Add the extra clearfix for only the required viewport --></p>
+<div class="clearfix visible-sm-block"></div>
+<div id="col3" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/Tradeshows-01.png" alt="Trade shows" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Trade shows</h3>
+</p></div>
+</p></div>
+<div id="col2" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/SeminarsWorkshops-01.png" alt="Seminars" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Seminars + workshops</h3>
+</p></div>
+</p></div>
+<div id="col2" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/TrainingSessions-01.png" alt="Training sessions" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Training sessions</h3>
+</p></div>
+</p></div>
+<div id="col3" class="col col-md-2 col-sm-6"><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/CustomerAdvisoryBoards-01.png" alt="Advisory boards Logo" style="width:100px;height:100px"></p>
+<div class="col-content">
+<h3>Customer advisory boards</h3>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div class="clearfix"></div>
+</p></div>
+</section>
+<p><!-- CONTENT ENDS --></p>
+<p><!-- PRODUCTS : WHO USES SECTION ENDS --></p>
+<p><!-- CTA BLOCK STARTS --></p>
+<div class="mbottom-50" style="background-color:#a8ad00;padding-top:5px;padding-bottom:5px">
+<div id="cta" class="container mbottom-50">
+<div class="col-md-8 mbottom-50">
+<p style="color:#ffffff">Create more valuable member and sponsor connections at your next event.</p>
+</p></div>
+<div class="col-md-4 col-xs-12">
+        <a href="/mobile-request-demo/" class="btn col-xs-12 mbottom-15" style="padding-top:20px;padding-bottom:20px;border:none">Let&#8217;s chat today  &nbsp; <i style="color:#fff" class="fa fa-chevron-right"></i></a><br />
+        <a class="btn col-xs-12 mbottom-15" style="border:none">Call 1-727-827<span>_</span>-0046</a>
+    </div>
+</div>
+</div>
+<p><!-- CTA BLOCK ENDS --></p>
+<p><!-- / 3 LINKS FOOTER SECTION START --></p>
+<div class="container pbottom-50 ds mtop-50">
+<p><!-- / headline starts --></p>
+<div class="container ptop-0 pbottom-0">
+<div class="col-md-12">
+<p align="center" style="color:#a3a9ae;font-weight:200;font-size:22px">Explore</p>
+</div>
+</div>
+<p><!-- / headline ends --></p>
+<p><!-- / 3 column starts --></p>
+<div align="center" class="container ds mtop-50">
+<p>     <!-- / column left --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/07/ResultDrivenEventApp-01.png" style="width:80px;height:80px"></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">Create a results-driven event app.</h1>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Rethink your event app strategy and roll out a pragmatic plan for success.</p>
+<p><a class="btn" href="http://www.yourmembership.com/resource-library/#mobileguide">Download the guide</a>
+    </div>
+<p>    <!-- / column center --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/Computer.png" style="width:80px;height:80px"></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">AMS overview</h1>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Impress your members, grow your revenue and improve your performance.</p>
+<p><a class="btn" href="/products/membership-software/">Learn more</a>
+    </div>
+<p>    <!-- / column right --></p>
+<div class="col-md-4">
+<div><img border="0" src="https://ymwp.ymcdn.com/wp-content/uploads/2016/08/Envelope-1.png" style="width:80px;height:80px"></div>
+<h1 class="text-center" style="color: #a8ad00;font-weight: 400;font-size: 20px">Email marketing</h1>
+<p style="padding-left:25px;padding-right:25px;padding-bottom:25px;font-size:18px;line-height:28px">Send timely and relevant communications to your members and prospects.</p>
+<p><a class="btn" href="/products/informz/">Learn more</a>
+    </div>
+</div>
+<p><!-- / 3 column ends --></p>
+</div>
+<p><!-- / 3 columns container ends --></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div> <!--/Content-->
+
+
+<footer class="footer">
+	<div class="container">
+		<div class="copyright col-sm-8 col-xs-12"> &copy; 1998-2017, YourMembership Inc. All rights reserved. <span class="links"><a href="/legal/">Privacy Policy</a> | <a href="/company/sitemap/">Sitemap</a></span></div>
+		<div class="social col-sm-4 col-xs-12 text-right">
+			<a href="http://twitter.com/yourmembership" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a href="http://www.linkedin.com/company/yourmembership-com" target="_blank"><i class="fa fa-linkedin"></i></a>
+			<a href="http://www.facebook.com/pages/YourMembershipcom/91798945325" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a href="https://plus.google.com/u/0/113339144649046293573" target="_blank"><i class="fa fa-google-plus"></i></a>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.5/jquery.bxslider.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/jquery.mobile.custom.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/modernizr.custom-grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/grid.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/main.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/global.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-content/themes/yourmembership/js/pgaet.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ymwp.ymcdn.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+Database Caching 11/22 queries in 0.665 seconds using disk
+
+ Served from: yourmembership.com @ 2017-04-12 05:26:34 by W3 Total Cache -->

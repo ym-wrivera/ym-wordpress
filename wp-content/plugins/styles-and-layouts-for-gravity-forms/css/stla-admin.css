@@ -1,0 +1,102 @@
+.stla-box {
+	background: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.stla-donate{
+  width:150px;
+}
+.stla-left-container li{
+  font-size:17px;
+
+}
+.stla-intro{
+  font-size: 14px;
+}
+.stla-extend {
+	float: left;
+	margin: 0 20px 20px 0;
+	width: 300px;
+	position: relative;
+}
+.stla-extend img {
+	margin-bottom: 10px;
+	max-width: 100%;
+	height: auto;
+}
+
+.stla-extend-content p {
+	min-height: 60px;
+}
+
+.stla-extend .nf-button {
+	float: right;
+}
+
+.stla-extend .nf-doc-button {
+	float: left;
+}
+.stla-highlight{
+ 	display: block;
+    line-height: 19px;
+    padding: 11px 15px;
+    font-size: 19px;
+    text-align: left;
+    margin: 25px 20px 0 2px;
+    background-color: #fff;
+    border-left: 4px solid #00ff37;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1)
+}
+
+ul.stla-featurelist li:before
+{
+    content: '\2713';
+    margin: 0 1em;    /* any design */
+}
+
+.stla-alert{
+ display: block;
+    line-height: 19px;
+    padding: 11px 15px;
+    font-size: 14px;
+    text-align: left;
+    margin: 25px 20px 0 2px;
+    background-color: #fff;
+    border-left: 4px solid #ff0018;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1)
+}
+
+.stla-image{
+
+  border-width:1px;
+  border-style:solid;
+  border-color:#000; 
+  max-width: 90%;
+  height: auto;
+  width: auto\9; 
+  box-shadow: 10px 10px 5px #888888;
+  margin:auto;
+  display:block;
+}
+
+.stla-left-container{
+width:75%;
+float:left;
+display:inline-block;
+}
+
+.stla-right-container{
+width:20%;
+float:right;
+display:inline-block;
+text-align:center;
+}
+
+.stla-sidebar-image{
+
+margin-top:22px;
+}

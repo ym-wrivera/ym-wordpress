@@ -1,0 +1,184 @@
+.archive-resource-center,
+.archive-whitepapers,
+.rp-related-posts,
+.archive-webinars,
+.archive-videos,
+.archive-case-studies,
+.archive-infographics {
+
+	.site-container {
+		background-color: $grey5;
+	}
+
+	.site-inner {
+		padding-top: 0;
+	}
+
+	.archive-title {
+		color: $white;
+	}
+
+	// Slider + Facet Wrapper
+	.slider-container {
+		position: relative;
+
+		.slide-content {
+			display: flex;
+			flex-direction: column;
+			justify-content: flex-end;
+		}
+	}
+
+
+
+
+	// Slider Container
+	.swiper-container {
+		position: relative;
+
+		.slider-group {
+			max-height: unset;
+		}
+
+		.inner-wrap {
+			lost-flex-container: row;
+			justify-content: center;
+			max-width: none;
+
+			@include bp(1100px) {
+				align-items: flex-end;
+				flex-wrap: nowrap;
+				justify-content: flex-start;
+			}
+		}
+
+		.slide-image {
+			display: none;
+
+			@include bp(1100px) {
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				display: block;
+				lost-column: 6/12 0 0;
+			}
+		}
+
+		.slide-content {
+			lost-column: 10/12 0 0;
+			margin: 0;
+			min-height: 680px;
+
+			@include bp(700px 1100px) {
+				transform: translateY(40px);
+			}
+
+			@include bp(1100px) {
+				lost-column: 5/12 0 0;
+				margin-left: 0 !important;
+				min-height: 550px;
+			}
+
+			@include bp(1300px) {
+				min-height: 550px;
+				lost-column: 6/12 0 0;
+			}
+
+			.fc-title-group {
+				@include bp(700px 1100px) {
+					margin-top: auto;
+				}
+			}
+
+			.button-group {
+				margin-bottom: rem(85);
+
+				@include bp(700px 1100px) {
+					margin-bottom: auto;
+				}
+
+				@include bp(1300px) {
+					margin-bottom: rem(75);
+				}
+
+				> a {
+					@include margin(0.75em 0 1.25em);
+				}
+			}
+		}
+
+
+
+		// Headings
+		.fc-title-group {
+			padding: 0;
+			width: 100%;
+
+			> * {
+				text-align: left;
+
+				@include bp(large) {
+					lost-column: 12/12;
+					lost-offset: 0;
+				}
+			}
+
+			> *:first-child {
+				margin-bottom: rem(20);
+			}
+
+			> *:last-child {
+				margin-bottom: rem(20);
+			}
+
+			h2 {
+				line-height: 36px;
+			}
+		}
+
+
+
+
+		// Pagination
+		.swiper-pagination-bullets {
+			bottom: rem(25);
+		}
+
+		.button-next,
+		.button-prev {
+			margin-top: 0;
+		}
+
+		.button-next {
+			right: 20px;
+
+			@include bp(mega) {
+				right: 40px;
+			}
+		}
+
+		.button-prev {
+			left: 20px;
+
+			@include bp(mega) {
+				left: 40px;
+			}
+		}
+	}
+}
+
+
+// Content Right Swiper Layout
+.swiper-container {
+	.inner-wrap.align-right {
+		flex-direction: row-reverse;
+		justify-content: center;
+
+		.slide-content {
+			@include bp(1100px) {
+				margin-left: auto !important;
+				margin-right: 0 !important;
+			}
+		}
+	}
+}

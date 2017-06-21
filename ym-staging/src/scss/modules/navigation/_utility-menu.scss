@@ -1,0 +1,37 @@
+.before-header {
+	background-color: $white;
+	text-align: right;
+
+	@include media($xlarge-screen-up) {
+		display: none;
+	}
+
+	.genesis-nav-menu {
+		ul {
+			margin-top: 0;
+			padding: rem(20) 0;
+		}
+
+		li {
+			&:last-child {
+				a {
+					padding-right: 0;
+				}
+			}
+		}
+
+		a {
+			@include padding(0 null);
+			@include font(normal, 400);
+			@include font-size(12);
+			color: $slate;
+
+
+			&:hover,
+			&:active {
+				color: $green1;
+			}
+		}
+
+	}
+}

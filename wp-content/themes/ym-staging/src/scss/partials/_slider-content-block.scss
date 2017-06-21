@@ -1,0 +1,298 @@
+.fc-slider.marketing-slider,
+.fc-slider-content.marketing-slider {
+	.wrap {
+		@include padding(0);
+	}
+
+
+	.fc-title-group {
+		@include padding(0);
+
+		h2, h3, h4, h5, h6, p {
+			@include bp(large) {
+				lost-column: 12/12;
+				lost-offset: 0;
+			}
+		}
+
+
+		> * {
+			text-align: left;
+		}
+
+		> *:first-child {
+			margin-bottom: rem(10);
+
+			//@include bp(med wide) {
+			//	lost-column: 8/12;
+			//}
+		}
+
+		> *:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.button-group {
+		@include margin(rem(20) 0 rem(30));
+
+		@include bp(large) {
+			@include margin(0);
+		}
+
+		> a:not(.arrow-text-link) {
+			@include margin(null null 0 0);
+		}
+	}
+
+	.inner-wrap {
+		@include bp(wide) {
+			justify-content: space-between;
+		}
+
+		.slide-content {
+			@include padding(rem(20) rem(60));
+
+			//@include bp(med wide) {
+			//	@include padding(0 0 0 30px);
+			//}
+
+			@include bp(wide) {
+				@include padding(0);
+				@include margin(0);
+				lost-column: 7/12;
+			}
+
+			&:nth-child(1n) {
+				margin-right: 0;
+			}
+		}
+
+		figure {
+			@include bp(wide) {
+				lost-column: 5/12;
+			}
+		}
+	}
+
+	.button-next,
+	.button-prev {
+		margin-top: -15px;
+	}
+
+	.button-next {
+		right: 20px;
+	}
+
+	.button-prev {
+		left: 20px;
+	}
+
+	div.swiper-container-horizontal > .swiper-pagination-bullets {
+		bottom: 10px;
+	}
+
+}
+
+// Hero Slider
+.fc-slider.hero-slider,
+.fc-slider-content.hero-slider {
+	max-width: 100%;
+
+	> .wrap {
+		@include padding(0);
+
+		@include bp(med) {
+			lost-flex-container: row;
+		}
+
+		@include bp(wide) {
+			display: block;
+		}
+	}
+
+	.swiper-slide {
+		background-size: cover !important;
+	}
+
+	.hero-content {
+		@include bp(med) {
+			lost-column: 10/12;
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-column: none;
+			lost-offset: 0;
+		}
+	}
+
+	.fc-title-group {
+		> *:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	.button-group {
+		lost-flex-container: column;
+		align-items: center;
+
+		@include mappy-bp(med) {
+			display: block;
+		}
+
+		a {
+			max-width: 174px;
+
+			&:first-child {
+				@include margin(0 0 rem(20));
+
+				@include bp(med) {
+					@include margin(0 rem(20) 0 0);
+				}
+			}
+
+			&:last-child {
+				@include margin(0);
+			}
+		}
+	}
+
+	.play-btn-container {
+		text-align: center;
+
+		.label {
+			color: $white;
+		}
+	}
+}
+
+// Hero Left & Right Slider
+.fc-slider.hero-slider .hero-left,
+.fc-slider.hero-slider .hero-right,
+.fc-slider-content.hero-slider .hero-left,
+.fc-slider-content.hero-slider .hero-right {
+	@include padding(em(100) 0 em(160));
+
+	@include bp(large) {
+		@include padding(em(80) 0 em(140));
+	}
+
+	@include bp(wide) {
+		@include padding(em(70) 0 em(130));
+	}
+
+	> .wrap {
+		@include bp(large) {
+			justify-content: flex-start;
+		}
+
+		@include bp(wide) {
+			display: flex;
+		}
+	}
+
+	.fc-title-group {
+		h2, h3, h4, h5, h6 {
+			@include bp(large) {
+				margin-left: 0 !important;
+				width: auto !important;
+			}
+		}
+
+		* {
+			@include bp(small) {
+				text-align: unset;
+			}
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			lost-column: 6/12;
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-offset: 0;
+		}
+	}
+
+}
+
+// Hero Left Slider
+.fc-slider.hero-slider .hero-left,
+.fc-slider-content.hero-slider .hero-left {
+	> .wrap {
+		@include bp(large) {
+			justify-content: flex-start;
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			lost-offset: -1/12;
+		}
+
+		@include bp(wide) {
+			lost-offset: 0;
+		}
+	}
+}
+
+// Hero Right Slider
+.fc-slider.hero-slider .hero-right,
+.fc-slider-content.hero-slider .hero-right {
+	> .wrap {
+		display: flex;
+		justify-content: center;
+
+		@include bp(large) {
+			justify-content: flex-end;
+		}
+	}
+
+	.hero-content {
+		@include bp(large) {
+			text-align: left;
+		}
+	}
+}
+
+.fc-slider.coverflow-slider,
+.fc-slider-content.coverflow-slider{
+	.swiper-slide {
+		width: 60vw;
+	}
+
+}
+
+
+
+// Caption Slider
+.fc-slider.caption-slider,
+.fc-slider-content.caption-slider {
+	.caption-slide {
+		text-align: center;
+	}
+
+	.caption {
+		@include margin(rem(25) rem(20) rem(60));
+
+		@include bp(wide) {
+			@include margin(rem(25) 35vw rem(60));
+		}
+	}
+
+	.button-next {
+		@include bp(wide) {
+			right: 240px;
+		}
+	}
+
+	.button-prev {
+		@include bp(wide) {
+			left: 240px;
+		}
+	}
+}

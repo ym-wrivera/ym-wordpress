@@ -1,0 +1,26 @@
+.fc-icon-boxes.three-centered {
+
+	.flex-wrap {
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		flex-direction: column;
+
+		@include bp(med) {
+			flex-direction: row;
+		}
+	}
+
+	article {
+		@include padding(0);
+
+		@include bp(med) {
+			lost-column: 4/12;
+		}
+
+		@include bp(wide) {
+			lost-column: 3/12;
+		}
+	}
+
+}

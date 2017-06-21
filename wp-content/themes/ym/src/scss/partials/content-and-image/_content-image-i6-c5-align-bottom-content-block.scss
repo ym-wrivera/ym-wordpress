@@ -1,0 +1,22 @@
+.fc-content-image.i6-c5-align-bottom {
+	padding-bottom: 0;
+
+	.content-image-wrap {
+		flex-direction: column;
+		align-items: center;
+
+		@include bp(wide) {
+			flex-direction: row;
+			align-items: flex-start;
+		}
+
+		article {
+			margin-top: 0;
+		}
+
+		aside {
+			@include margin(0);
+			order: 0;
+		}
+	}
+}

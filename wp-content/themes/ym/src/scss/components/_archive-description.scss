@@ -1,0 +1,15 @@
+.archive-description {
+	background-color: transparent;
+	color: $slate-dark;
+	@include font-size(18);
+	@include margin(em(60) 0);
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+
+	h1 {
+		@include font-size(15);
+		margin-bottom: 0;
+	}
+}

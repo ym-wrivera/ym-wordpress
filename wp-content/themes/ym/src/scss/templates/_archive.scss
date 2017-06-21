@@ -1,0 +1,287 @@
+.archive-blog {
+	background-color: $grey5;
+
+	&.content-sidebar .content-sidebar-wrap {
+		max-width: none;
+
+		.content,
+		.sidebar {
+			width: 100%;
+		}
+
+		.content {
+			@include bp(wide) {
+				lost-column: 8/12 0 0;
+			}
+		}
+
+		.sidebar {
+			padding: 0;
+
+			@include bp(wide) {
+				padding: 5.625em 0;
+				width: calc(99.9% * 3 / 12 - (30px - 30px * 3 / 12));
+			}
+		}
+	}
+
+	.facetwp-template {
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+
+
+	// Facets
+	.facets {
+		background-color: $grey2;
+		position: static;
+	}
+
+	.archive-heading {
+		margin-bottom: rem(20);
+		margin-top: rem(25);
+
+		@include bp(700px) {
+			margin-bottom: rem(35);
+			margin-top: rem(35);
+		}
+
+		@include bp(1080px) {
+			margin-bottom: rem(20);
+			margin-top: rem(20);
+		}
+
+		p {
+			color: $slate-dark;
+			font-size: rem(40);
+			font-weight: $fw-bold;
+			letter-spacing: -1.07px;
+			margin-bottom: rem(10);
+		}
+
+		h1 {
+			color: $slate-dark;
+			font-size: rem(18);
+			letter-spacing: -0.45px;
+			line-height: 28px;
+			margin: 0;
+			padding-left: rem(30);
+		}
+	}
+
+
+	// Breadcrumbs
+	div.breadcrumb {
+		margin-bottom: 0;
+	}
+
+
+
+	// Archive Description
+	.archive-description {
+		margin: 0;
+
+		.archive-title {
+			font-size: rem(15);
+			line-height: 15px;
+			margin: rem(70) 0 rem(60);
+		}
+	}
+
+
+	// Posts List
+	.entry {
+		background-color: transparent;
+		padding-top: 0;
+	}
+
+	.entry-header .entry-meta {
+		margin-bottom: em(10px);
+	}
+
+
+	.entry-title {
+		font-size: em(22px);
+		font-weight: $fw-bold;
+
+		a {
+			color: $slate-dark;
+
+			&:hover {
+				color: $slate-dark;
+			}
+		}
+	}
+
+	.entry-content {
+		p {
+			&:first-child {
+				font-size: em(15px);
+			}
+		}
+
+	}
+
+
+	// Sidebar
+	#genesis-sidebar-primary {
+		margin-bottom: 0;
+
+		@include bp(wide) {
+			@include padding(0 null);
+			margin-top: rem(70);
+		}
+
+		.widget {
+			background-color: transparent;
+			margin-bottom: rem(80);
+			float: none;
+			width: 100%;
+		}
+
+		.widget-title {
+			font-size: em(30);
+			text-align: center;
+
+			@include bp(wide) {
+				text-align: left;
+			}
+		}
+
+		// Gravity Forms Widget
+		.gform_widget {
+			display: flex;
+			justify-content: center;
+
+			> div {
+				max-width: rem(350);
+
+				@include bp(wide) {
+					max-width: none;
+				}
+			}
+
+			.gform_wrapper {
+				@include margin(0);
+
+				.gfield {
+					padding-right: 0;
+				}
+
+				.ginput_container {
+					input {
+						padding-bottom: rem(12);
+						padding-top: rem(12);
+					}
+				}
+			}
+
+			.widget-title {
+				font-size: rem(20);
+				font-weight: $fw-medium;
+				line-height: 28px;
+				text-align: center;
+
+				@include bp(wide) {
+					text-align: left;
+				}
+			}
+
+			.gform_footer {
+				@include padding(rem(10) 0 0);
+				text-align: center;
+
+				@include bp(wide) {
+					text-align: left;
+				}
+
+				.gform_button {
+					font-size: em(11);
+					font-weight: $fw-bold;
+					max-width: rem(140);
+					min-width: rem(140);
+				}
+			}
+
+		}
+
+		// Social Media Widget
+		.social-media-menu-widget {
+			h6 {
+				font-size: rem(12);
+				line-height: 26px;
+				text-align: center;
+
+				@include bp(wide) {
+					text-align: left;
+				}
+			}
+
+			.social-nav-menu {
+				margin-top: 0;
+			}
+
+			.social-nav {
+				justify-content: center;
+
+				@include bp(wide) {
+					justify-content: flex-start;
+				}
+			}
+
+			img {
+				width: rem(40);
+
+				@include bp(wide) {
+					width: rem(25);
+				}
+			}
+		}
+
+		// Archive Selector
+		.widget_archive {
+			.widget-title {
+				font-size: rem(30);
+				line-height: 38px;
+				text-align: center;
+
+				@include bp(wide) {
+					margin-bottom: rem(20);
+					text-align: left;
+				}
+			}
+
+			> div {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+
+				@include bp(wide) {
+					align-items: flex-start;
+				}
+			}
+
+			select {
+				width: 100%;
+				height: em(40);
+				border: 0;
+				background: $white;
+				font-size: em(14);
+				text-indent: 1em;
+				max-width: 278px;
+
+				@include bp(wide) {
+					max-width: none;
+				}
+			}
+		}
+	}
+
+}
+
+
+.archive {
+	.breadcrumb {
+		margin-bottom: rem(60);
+	}
+}
